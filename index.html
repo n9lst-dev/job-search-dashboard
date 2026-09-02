@@ -6,16 +6,18 @@
 <section class="kpis">
 <article><span>Submitted</span><strong id="submitted">0</strong><small>applications</small></article>
 <article><span>Waiting</span><strong id="waiting">0</strong><small>awaiting response</small></article>
-<article><span>Interview activity</span><strong id="interviews">0</strong><small>active or completed</small></article>
+<article><span>Active interviews</span><strong id="interviews">0</strong><small>currently in interview process</small></article>
 <article><span>Rejected</span><strong id="rejected">0</strong><small id="rejectionRate">0% of submitted</small></article>
 <article><span>Avg response</span><strong id="avgResponse">—</strong><small>known outcomes</small></article>
-<article><span>Tracked roles</span><strong id="tracked">0</strong><small>including reviewed / skipped</small></article>
+<article><span>Tracked roles</span><strong id="tracked">0</strong><small>applications and active leads</small></article>
 </section>
 <section class="grid">
 <article class="panel"><p class="eyebrow">PIPELINE</p><h2>Status mix</h2><div class="statuswrap"><div id="donut" class="donut"><div><strong id="donutTotal">0</strong><small>tracked</small></div></div><div id="legend" class="legend"></div></div></article>
 <article class="panel"><p class="eyebrow">MOMENTUM</p><h2>Applications by day</h2><div id="timeline" class="timeline"></div></article>
 <article class="panel"><p class="eyebrow">FEEDBACK SPEED</p><h2>Known outcomes</h2><div id="responses" class="responses"></div></article>
 </section>
+<section class="panel tablepanel"><div class="tablehead"><div><p class="eyebrow">ACTIVE INTERVIEWS</p><h2>Current interview pipeline</h2><p id="activeInterviewCount" class="muted"></p></div></div>
+<div class="tablewrap"><table><thead><tr><th>Company</th><th>Role</th><th>Status</th><th>Applied</th><th>Stage</th><th>Signal / notes</th></tr></thead><tbody id="activeInterviewBody"></tbody></table></div></section>
 <section class="panel tablepanel"><div class="tablehead"><div><p class="eyebrow">APPLICATION LOG</p><h2>All tracked roles</h2><p id="resultCount" class="muted"></p></div><div class="filters"><label>Search<input id="search" type="search" placeholder="Company, role, notes..."></label><label>Status<select id="status"><option value="">All statuses</option></select></label><label>Date<select id="date"><option value="">All application dates</option></select></label></div></div>
 <div class="tablewrap"><table><thead><tr><th data-sort="company">Company</th><th data-sort="role">Role</th><th data-sort="status">Status</th><th data-sort="appliedDate">Applied</th><th data-sort="rejectedDate">Outcome</th><th data-sort="stage">Stage</th><th>Signal / notes</th><th>Days</th></tr></thead><tbody id="tbody"></tbody></table></div></section>
 <footer><span id="updated">Repository data</span><span>Public job-search dashboard</span></footer>
