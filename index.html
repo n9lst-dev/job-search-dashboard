@@ -20,6 +20,19 @@
 <div class="tablewrap"><table><thead><tr><th data-sort="company">Company</th><th data-sort="role">Role</th><th data-sort="status">Status</th><th data-sort="appliedDate">Applied</th><th data-sort="rejectedDate">Outcome</th><th data-sort="stage">Stage</th><th>Signal / notes</th><th>Days</th></tr></thead><tbody id="tbody"></tbody></table></div></section>
 <footer><span id="updated">Repository data</span><span>Public job-search dashboard</span></footer>
 </div>
-<script>window.APPLICATIONS=[];</script>
-<script src="data/part1.js"></script><script src="data/part2.js"></script><script src="data/part3.js"></script><script src="data/part4.js"></script>
-<script src="app.js"></script></body></html>
+<script>
+window.APPLICATIONS=[];
+(function(){
+  const v=Date.now();
+  const files=['data/part1.js','data/part2.js','data/part3.js','data/part4.js','app.js'];
+  let i=0;
+  function loadNext(){
+    if(i>=files.length) return;
+    const s=document.createElement('script');
+    s.src=files[i++]+'?v='+v;
+    s.onload=loadNext;
+    document.body.appendChild(s);
+  }
+  loadNext();
+})();
+</script></body></html>
