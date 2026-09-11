@@ -14,7 +14,7 @@ window.APPLICATIONS.push(...[
     "company": "Intelex Technologies",
     "role": "Product Solutions Consultant",
     "status": "Applied / Waiting",
-    "appliedDate": "2026-09-12",
+    "appliedDate": "2026-09-11",
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Strong fit for technical pre-sales and solution consulting: customer discovery, requirements analysis, tailored demonstrations, technical objection handling, SaaS/cloud architecture, APIs and integrations, POCs, RFP/RFI work, executive presentations, sales enablement, and implementation handoff. Primary gap is direct EHSQ domain experience, which the posting lists as an asset rather than a requirement.",
