@@ -53,5 +53,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit for technical sales ownership, discovery/scoping, solution design, API integrations, strategic enterprise accounts, and complex stakeholder management; primary gap is direct fintech/blockchain/digital-asset domain experience.",
     "notes": "Applied using a V3-derived tailored resume and cover letter. Published compensation range: $181,000-$207,675. Resume emphasized API-driven integrations, enterprise SaaS, technical sales, strategic accounts, Product/Engineering feedback, and implementation handoff.",
     "jobUrl": ""
+  },
+  {
+    "company": "Traversal",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent technical fit for production troubleshooting, observability, cloud infrastructure, technical discovery, POCs, demos, enterprise pilots, and scaling repeatable solutions-engineering motions; gaps are direct observability-vendor experience and hands-on Kubernetes/Terraform.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Posting presented the opportunity as remote, but the East application form stated the role is based in NYC and requires onsite work Monday-Friday. Traversal also has a West version whose posting/form did not state the same onsite requirement, so application was submitted despite the location inconsistency. Published compensation: $150,000-$300,000 OTE plus equity and benefits.",
+    "jobUrl": ""
   }
 ]);
