@@ -42,5 +42,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit for technical discovery, cloud/infrastructure architecture, implementation risk reduction, POCs, cross-functional execution, and building repeatable solutions-engineering processes; primary gap is direct GPU/HPC/model-training infrastructure experience.",
     "notes": "Applied using a V3-derived tailored resume and cover letter. Remote-first role focused on AI and high-performance compute infrastructure. Resume emphasized AWS/Linux infrastructure, technical pre-sales, risk identification, complex deployments, reusable processes, and Microsoft Foundry AI credential. Employer did not publish a compensation range.",
     "jobUrl": ""
+  },
+  {
+    "company": "Paxos",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for technical sales ownership, discovery/scoping, solution design, API integrations, strategic enterprise accounts, and complex stakeholder management; primary gap is direct fintech/blockchain/digital-asset domain experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Published compensation range: $181,000-$207,675. Resume emphasized API-driven integrations, enterprise SaaS, technical sales, strategic accounts, Product/Engineering feedback, and implementation handoff.",
+    "jobUrl": ""
   }
 ]);
