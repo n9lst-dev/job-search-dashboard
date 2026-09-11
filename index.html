@@ -23,18 +23,9 @@
 <footer><span id="updated">Repository data</span><span>Public job-search dashboard</span></footer>
 </div>
 <script>
-window.APPLICATIONS=[];
 (function(){
-  const v=Date.now();
-  const files=['data/part1.js','data/part2.js','data/part3.js','data/part4.js','data/part5.js','data/part6.js','data/part7.js','data/part8.js','app.js'];
-  let i=0;
-  function loadNext(){
-    if(i>=files.length) return;
-    const s=document.createElement('script');
-    s.src=files[i++]+'?v='+v;
-    s.onload=loadNext;
-    document.body.appendChild(s);
-  }
-  loadNext();
+  const s=document.createElement('script');
+  s.src='loader.js?v='+Date.now();
+  document.body.appendChild(s);
 })();
 </script></body></html>
