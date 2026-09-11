@@ -75,5 +75,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit for technical pre-sales, discovery, enterprise solution architecture, RFP/RFI responses, demos, AWS, client presentations, and delivery collaboration; primary gaps are dedicated BI platforms and hands-on data engineering/AI-ML pipeline experience.",
     "notes": "Applied using a V3-derived tailored resume and cover letter. Remote/flexible role with typical travel of 10-25%. Employer did not publish a compensation range. Application emphasized cloud architecture, enterprise data/API integrations, SQL/PostgreSQL, AWS, technical presentations, RFP/RFI work, and Microsoft Foundry AI credential.",
     "jobUrl": ""
+  },
+  {
+    "company": "Infisical",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit for systems/infrastructure engineering, technical discovery, demos, POCs, onboarding, enterprise customer relationships, AWS/Linux, IAM/SSO, APIs, and DevSecOps-adjacent workflows; primary gap is direct secrets-management/PAM product experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. US-based primarily remote team with in-person off-sites, conferences, and gatherings; no recurring travel percentage stated. Application identified primary engineering expertise as DevOps / Infrastructure and highlighted PostgreSQL, Docker, and AWS. Optional Loom video was not submitted. Employer did not publish a compensation range.",
+    "jobUrl": ""
   }
 ]);
