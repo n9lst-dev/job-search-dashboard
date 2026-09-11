@@ -64,5 +64,16 @@ window.APPLICATIONS.push(...[
     "signal": "Excellent technical fit for production troubleshooting, observability, cloud infrastructure, technical discovery, POCs, demos, enterprise pilots, and scaling repeatable solutions-engineering motions; gaps are direct observability-vendor experience and hands-on Kubernetes/Terraform.",
     "notes": "Applied using a V3-derived tailored resume and cover letter. Posting presented the opportunity as remote, but the East application form stated the role is based in NYC and requires onsite work Monday-Friday. Traversal also has a West version whose posting/form did not state the same onsite requirement, so application was submitted despite the location inconsistency. Published compensation: $150,000-$300,000 OTE plus equity and benefits.",
     "jobUrl": ""
+  },
+  {
+    "company": "Wavicle Data Solutions",
+    "role": "Pre-Sales Solution Architect",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for technical pre-sales, discovery, enterprise solution architecture, RFP/RFI responses, demos, AWS, client presentations, and delivery collaboration; primary gaps are dedicated BI platforms and hands-on data engineering/AI-ML pipeline experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Remote/flexible role with typical travel of 10-25%. Employer did not publish a compensation range. Application emphasized cloud architecture, enterprise data/API integrations, SQL/PostgreSQL, AWS, technical presentations, RFP/RFI work, and Microsoft Foundry AI credential.",
+    "jobUrl": ""
   }
 ]);
