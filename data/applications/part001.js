@@ -7,7 +7,7 @@ window.APPLICATIONS.push(...[
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Strong technical pre-sales and enterprise infrastructure fit; primary gap is direct MDR/EDR/NDR/SIEM product experience.",
-    "notes": "Applied directly through eSentire using the new condensed, results-focused ATS-flat resume and tailored cover letter. Salary expectation submitted: $170,000 base. Availability: immediately. First live application using the new condensed resume strategy.",
+    "notes": "Applied directly through eSentire using the new condensed, results-focused ATS-flat resume and tailored cover letter. Published base salary range: $165,000-$180,000. Availability: immediately. First live application using the new condensed resume strategy.",
     "jobUrl": ""
   }
 ]);
