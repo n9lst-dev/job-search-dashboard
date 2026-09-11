@@ -86,5 +86,16 @@ window.APPLICATIONS.push(...[
     "signal": "Excellent fit for systems/infrastructure engineering, technical discovery, demos, POCs, onboarding, enterprise customer relationships, AWS/Linux, IAM/SSO, APIs, and DevSecOps-adjacent workflows; primary gap is direct secrets-management/PAM product experience.",
     "notes": "Applied using a V3-derived tailored resume and cover letter. US-based primarily remote team with in-person off-sites, conferences, and gatherings; no recurring travel percentage stated. Application identified primary engineering expertise as DevOps / Infrastructure and highlighted PostgreSQL, Docker, and AWS. Optional Loom video was not submitted. Employer did not publish a compensation range.",
     "jobUrl": ""
+  },
+  {
+    "company": "Accruent",
+    "role": "Senior Solutions Consultant",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit for senior enterprise discovery, requirements gathering, complex solution architecture, cloud/on-prem deployment strategy, RFP/RFI work, SOW scoping, executive presentations, pricing strategy, integrations, and cross-functional Product/Engineering/Services collaboration; primary gap is direct built-environment/facilities/asset-management domain experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Role supports complex Global Flagship and Large Account opportunities across SaaS, licensed software, services, cloud, and on-prem solutions. Published compensation range inclusive of sales incentives/commissions: $125,600-$209,800. No travel percentage was stated in the posting.",
+    "jobUrl": ""
   }
 ]);
