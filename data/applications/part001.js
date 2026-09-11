@@ -17,8 +17,8 @@ window.APPLICATIONS.push(...[
     "appliedDate": "2026-09-11",
     "rejectedDate": "",
     "stage": "Application reviewed",
-    "signal": "Strong fit for discovery-led technical pre-sales, tailored product demonstrations, solution storytelling, and cross-functional Sales/Product work; primary gap is direct distribution-focused CRM/BI domain experience. Application was viewed/reviewed the same day it was submitted.",
-    "notes": "Applied using a V3-derived tailored resume and cover letter. Role is remote with up to 25% travel. Application response stated 7 years of experience delivering value-driving product demos in a B2B SaaS environment. Employer activity indicated someone reviewed the application on Sep 11.",
+    "signal": "Strong fit for discovery-led technical pre-sales, tailored product demonstrations, solution storytelling, and cross-functional Sales/Product work; primary gap is direct distribution-focused CRM/BI domain experience. Application was reviewed within minutes of submission.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Role is remote with up to 25% travel. Application response stated 7 years of experience delivering value-driving product demos in a B2B SaaS environment. Employer activity indicated someone reviewed the application within minutes of submission on Sep 11.",
     "jobUrl": ""
   },
   {
@@ -30,6 +30,17 @@ window.APPLICATIONS.push(...[
     "stage": "Application submitted",
     "signal": "Strong enterprise discovery, architecture, workshops, POCs, proposals, and technical pre-sales fit; gaps are no bachelor's degree and no direct OutSystems/low-code development background.",
     "notes": "Applied using a V3-derived tailored resume and cover letter. Published base salary range: $135,000-$170,000 plus commissions with a 75/25 split. Resume emphasized enterprise IT architecture, requirements analysis, POCs/workshops, APIs, databases, AWS, and product positioning.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Massed Compute",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for technical discovery, cloud/infrastructure architecture, implementation risk reduction, POCs, cross-functional execution, and building repeatable solutions-engineering processes; primary gap is direct GPU/HPC/model-training infrastructure experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Remote-first role focused on AI and high-performance compute infrastructure. Resume emphasized AWS/Linux infrastructure, technical pre-sales, risk identification, complex deployments, reusable processes, and Microsoft Foundry AI credential. Employer did not publish a compensation range.",
     "jobUrl": ""
   }
 ]);
