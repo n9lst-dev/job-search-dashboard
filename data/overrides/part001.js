@@ -29,6 +29,6 @@
     rejectedDate: "2026-09-12",
     stage: "Application / resume",
     signal: "Standard rejection after application review; Netskope declined to move forward. No specific qualification gap or actionable feedback was provided.",
-    notes: "Applied Sep 11 using a V3.1-derived tailored resume and cover letter. Rejection received Sep 12. Employer stated it would not move forward with the candidacy and may retain candidate details for future openings."
+    notes: "Applied Sep 11 using the experimental highly condensed resume format, not the validated V3.1 resume structure. Rejection received Sep 12. Keep this outcome in the condensed-resume cohort when comparing application results; it should not be treated as evidence about V3.1 performance."
   });
 })();
