@@ -64,5 +64,16 @@ window.APPLICATIONS.push(...[
     "signal": "Partial fit through AWS, Linux, Docker, networking, distributed production systems, 24x7 operations, troubleshooting, incident escalation, root-cause analysis, architecture, and technical leadership. Significant gaps are the role's hands-on Kubernetes/EKS/GKE, Argo CD, GitLab CI/CD, Terraform/Ansible, Python/Bash, GitOps, and modern SRE/observability requirements.",
     "notes": "Applied despite being a stretch because the role is fully remote, full-time, and lists no travel requirement. Dice lists Sutherland Digital Services Inc while the employer description references Sunera Technologies/SuneraTech.",
     "jobUrl": "https://www.dice.com/job-detail/472d1ada-a5df-4b50-aafe-cfb3a66f97de"
+  },
+  {
+    "company": "Nagarro",
+    "role": "Senior Solutions Architect",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-12",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across enterprise solution architecture, technical discovery, translating business requirements into technical designs, cloud architecture, APIs and integrations, modernization, distributed systems, technical leadership, stakeholder communication, and cross-functional delivery. Primary gaps are specific modern cloud-native and application-development tooling rather than the core architecture function.",
+    "notes": "Applied through Dice using the general Dice resume rather than a role-specific tailored package. Remote role with no problematic travel requirement identified during review.",
+    "jobUrl": "https://www.dice.com/job-detail/d9b4f5f8-e693-4a60-9288-b40178962e77"
   }
 ]);
