@@ -42,5 +42,16 @@ window.APPLICATIONS.push(...[
     "signal": "Exceptional direct domain and role fit across OTT, Pay TV, live and VOD streaming, cross-platform delivery to web/mobile/Roku/Fire TV/Apple TV/Smart TV, encoding/transcoding, DRM/Widevine, HLS/DASH, APIs and integrations, technical discovery, demos, solution architecture, RFPs, implementation handoff, post-sale technical ownership, and enterprise media customer relationships.",
     "notes": "Remote US Sales Engineer covering the Americas. Applied with a tailored media-focused resume and cover letter. No employer-published compensation range or travel percentage was stated; travel cadence should be clarified if contacted. Bachelor's degree is preferred rather than required; Spanish and/or Portuguese are a plus rather than a requirement.",
     "jobUrl": ""
+  },
+  {
+    "company": "UE Systems",
+    "role": "Solutions Architect",
+    "status": "Interview",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Hiring manager interview requested",
+    "signal": "Inbound recruiter outreach based on strong alignment in technical discovery, solution design, POCs, technical pre-sales, customer engagement, physical/software systems integration, and implementation. Recruiter requested a tailored resume and proposed a Microsoft Teams discussion with the hiring manager for Monday at 2:00 PM ET.",
+    "notes": "Remote role associated with Indianapolis supporting UE Systems OnTrak sales and deployment. Recruiter quoted $95,000-$140,000 and is confirming the current approved compensation range and Indianapolis-territory travel cadence with the hiring team. Public posting previously showed a lower range and travel up to approximately 50%, so both items remain to be verified. Primary domain gap is direct industrial condition-monitoring experience.",
+    "jobUrl": ""
   }
 ]);
