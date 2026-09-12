@@ -46,12 +46,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "UE Systems",
     "role": "Solutions Architect",
-    "status": "Interview",
-    "appliedDate": "2026-09-11",
+    "status": "Spam / Fraudulent Outreach",
+    "appliedDate": "",
     "rejectedDate": "",
-    "stage": "Hiring manager interview requested",
-    "signal": "Inbound recruiter outreach based on strong alignment in technical discovery, solution design, POCs, technical pre-sales, customer engagement, physical/software systems integration, and implementation. Recruiter requested a tailored resume and proposed a Microsoft Teams discussion with the hiring manager for Monday at 2:00 PM ET.",
-    "notes": "Remote role associated with Indianapolis supporting UE Systems OnTrak sales and deployment. Recruiter quoted $95,000-$140,000 and is confirming the current approved compensation range and Indianapolis-territory travel cadence with the hiring team. Public posting previously showed a lower range and travel up to approximately 50%, so both items remain to be verified. Primary domain gap is direct industrial condition-monitoring experience.",
+    "stage": "Recruiter spam - resume-service funnel",
+    "signal": "Unsolicited recruiter outreach used a real UE Systems opening, then supplied an unverifiable low ATS score, offered a referral to a certified resume writer, and subsequently made the promised hiring-manager interview conditional on updating the resume.",
+    "notes": "Do not count as an application, interview, or rejection. Recruiter quoted compensation inconsistent with the public UE Systems posting and initially promised a Monday 2:00 PM ET hiring-manager Teams discussion. After receiving the resume, the recruiter sent a generic 29/100 ATS analysis promoting resume optimization, offered a professional resume-writer referral, and then stated the resume must be updated to meet interview-stage requirements before sending the interview link. Classified as spam/fraudulent recruiter outreach rather than a legitimate UE Systems hiring process.",
     "jobUrl": ""
   }
 ]);
