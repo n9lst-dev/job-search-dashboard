@@ -31,5 +31,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong local opportunity leveraging 20+ years of enterprise IT, infrastructure, operations, architecture, 24x7 service ownership, team leadership, Windows/Linux, networking, identity, cloud modernization, incident escalation, root-cause analysis, vendor coordination, and AI-agent upskilling. Primary gaps are direct manufacturing MES/SCADA/OT experience and hands-on Power Platform/Copilot Studio depth.",
     "notes": "Fully onsite at the Indiana Technical Center in Kokomo, IN. Applied with tailored Site IT/operations-focused resume and cover letter. Employer-published salary range: $125,600-$172,700. Role requires a bachelor's degree and manufacturing/industrial site leadership experience; application pursued because of strong transferable infrastructure/operations leadership and the unusually favorable local location.",
     "jobUrl": ""
+  },
+  {
+    "company": "Amino24i Group",
+    "role": "Sales Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Exceptional direct domain and role fit across OTT, Pay TV, live and VOD streaming, cross-platform delivery to web/mobile/Roku/Fire TV/Apple TV/Smart TV, encoding/transcoding, DRM/Widevine, HLS/DASH, APIs and integrations, technical discovery, demos, solution architecture, RFPs, implementation handoff, post-sale technical ownership, and enterprise media customer relationships.",
+    "notes": "Remote US Sales Engineer covering the Americas. Applied with a tailored media-focused resume and cover letter. No employer-published compensation range or travel percentage was stated; travel cadence should be clarified if contacted. Bachelor's degree is preferred rather than required; Spanish and/or Portuguese are a plus rather than a requirement.",
+    "jobUrl": ""
   }
 ]);
