@@ -53,5 +53,16 @@ window.APPLICATIONS.push(...[
     "signal": "Unsolicited recruiter outreach used a real UE Systems opening, then supplied an unverifiable low ATS score, offered a referral to a certified resume writer, and subsequently made the promised hiring-manager interview conditional on updating the resume.",
     "notes": "Do not count as an application, interview, or rejection. Recruiter quoted compensation inconsistent with the public UE Systems posting and initially promised a Monday 2:00 PM ET hiring-manager Teams discussion. After receiving the resume, the recruiter sent a generic 29/100 ATS analysis promoting resume optimization, offered a professional resume-writer referral, and then stated the resume must be updated to meet interview-stage requirements before sending the interview link. Classified as spam/fraudulent recruiter outreach rather than a legitimate UE Systems hiring process.",
     "jobUrl": ""
+  },
+  {
+    "company": "SuneraTech / Sutherland Digital Services Inc",
+    "role": "Solution Architect",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-12",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Partial fit through AWS, Linux, Docker, networking, distributed production systems, 24x7 operations, troubleshooting, incident escalation, root-cause analysis, architecture, and technical leadership. Significant gaps are the role's hands-on Kubernetes/EKS/GKE, Argo CD, GitLab CI/CD, Terraform/Ansible, Python/Bash, GitOps, and modern SRE/observability requirements.",
+    "notes": "Applied despite being a stretch because the role is fully remote, full-time, and lists no travel requirement. Dice lists Sutherland Digital Services Inc while the employer description references Sunera Technologies/SuneraTech.",
+    "jobUrl": "https://www.dice.com/job-detail/472d1ada-a5df-4b50-aafe-cfb3a66f97de"
   }
 ]);
