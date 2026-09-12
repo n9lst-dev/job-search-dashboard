@@ -75,5 +75,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across enterprise solution architecture, technical discovery, translating business requirements into technical designs, cloud architecture, APIs and integrations, modernization, distributed systems, technical leadership, stakeholder communication, and cross-functional delivery. Primary gaps are specific modern cloud-native and application-development tooling rather than the core architecture function.",
     "notes": "Applied through Dice using the general Dice resume rather than a role-specific tailored package. Remote role with no problematic travel requirement identified during review.",
     "jobUrl": "https://www.dice.com/job-detail/d9b4f5f8-e693-4a60-9288-b40178962e77"
+  },
+  {
+    "company": "Motorola Solutions",
+    "role": "Presales Solutions Architect (Software)",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-12",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit across technical pre-sales lifecycle ownership, customer discovery, end-to-end solution design, systems integration, cloud/SaaS migrations, IP networking, real-time video and data, APIs and third-party integrations, engineering diagrams, equipment lists/BOMs, RFPs/proposals, technical risk mitigation, customer presentations, negotiations, and implementation handoff. Primary gap is direct public-safety domain experience such as CAD, 911 call handling, RMS, digital evidence, and real-time crime center platforms.",
+    "notes": "Remote Presales Solutions Architect role with travel under 25%. Employer-published base salary range: $110,000-$140,000 plus incentive bonus plans. Applied using the established V3.1 resume after rejecting an experimental tailored resume because it did not parse reliably; future tailoring should preserve the validated V3.1 structure.",
+    "jobUrl": "https://www.dice.com/job-detail/e7705159-6bac-40bb-9d7f-d371c1eb0357"
   }
 ]);
