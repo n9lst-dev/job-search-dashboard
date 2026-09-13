@@ -31,4 +31,12 @@
     signal: "Standard rejection after application review; Netskope declined to move forward. No specific qualification gap or actionable feedback was provided.",
     notes: "Applied Sep 11 using the experimental highly condensed resume format, not the validated V3.1 resume structure. Rejection received Sep 12. Keep this outcome in the condensed-resume cohort when comparing application results; it should not be treated as evidence about V3.1 performance."
   });
+
+  updateRole("Workday", "Presales- Enterprise Architect", {
+    status: "Rejected",
+    rejectedDate: "2026-09-13",
+    stage: "Application / resume",
+    signal: "Standard rejection after hiring-team review; Workday moved forward with other candidates. No specific qualification gap or actionable feedback was provided.",
+    notes: "Tailored Presales Enterprise Architect resume and matching cover letter were prepared Sep 9. Rejection received Sep 13. Employer provided no role-specific feedback."
+  });
 })();
