@@ -86,5 +86,16 @@ window.APPLICATIONS.push(...[
     "signal": "Excellent fit across technical pre-sales lifecycle ownership, customer discovery, end-to-end solution design, systems integration, cloud/SaaS migrations, IP networking, real-time video and data, APIs and third-party integrations, engineering diagrams, equipment lists/BOMs, RFPs/proposals, technical risk mitigation, customer presentations, negotiations, and implementation handoff. Primary gap is direct public-safety domain experience such as CAD, 911 call handling, RMS, digital evidence, and real-time crime center platforms.",
     "notes": "Remote Presales Solutions Architect role with travel under 25%. Employer-published base salary range: $110,000-$140,000 plus incentive bonus plans. Applied using the established V3.1 resume after rejecting an experimental tailored resume because it did not parse reliably; future tailoring should preserve the validated V3.1 structure.",
     "jobUrl": "https://www.dice.com/job-detail/e7705159-6bac-40bb-9d7f-d371c1eb0357"
+  },
+  {
+    "company": "Circle Logistics, Inc",
+    "role": "Information Technology Manager",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-12",
+    "rejectedDate": "",
+    "stage": "Application submitted + recruiter outreach",
+    "signal": "Excellent local fit for hands-on IT leadership: multi-site infrastructure and operations, Windows/Linux, Active Directory and identity, networking/WAN/VPN, virtualization, AWS, PowerShell, SQL, escalation ownership, 24x7 environments, team leadership, and hands-on troubleshooting. Primary gaps are direct freight/logistics/TMS experience and some endpoint-specific tooling.",
+    "notes": "Onsite in Fort Wayne, Indiana. Employer-published salary range: $80,000-$100,000. Applied through LinkedIn Easy Apply using a tailored V3.2-based IT Manager resume. Immediately sent a direct message to job poster Jennifer Bloom, Executive Recruiter at Circle Logistics, highlighting prior Fort Wayne IT leadership and hands-on infrastructure background. Lower compensation than primary SA/SE targets, but pursued as a strong local opportunity and viable income bridge.",
+    "jobUrl": ""
   }
 ]);
