@@ -97,5 +97,16 @@ window.APPLICATIONS.push(...[
     "signal": "Excellent local fit for hands-on IT leadership: multi-site infrastructure and operations, Windows/Linux, Active Directory and identity, networking/WAN/VPN, virtualization, AWS, PowerShell, SQL, escalation ownership, 24x7 environments, team leadership, and hands-on troubleshooting. Primary gaps are direct freight/logistics/TMS experience and some endpoint-specific tooling.",
     "notes": "Onsite in Fort Wayne, Indiana. Employer-published salary range: $80,000-$100,000. Applied through LinkedIn Easy Apply using a tailored V3.2-based IT Manager resume. Immediately sent a direct message to job poster Jennifer Bloom, Executive Recruiter at Circle Logistics, highlighting prior Fort Wayne IT leadership and hands-on infrastructure background. Lower compensation than primary SA/SE targets, but pursued as a strong local opportunity and viable income bridge.",
     "jobUrl": ""
+  },
+  {
+    "company": "Workday",
+    "role": "Presales- Enterprise Architect",
+    "status": "Rejected",
+    "appliedDate": "2026-09-09",
+    "rejectedDate": "2026-09-13",
+    "stage": "Application / resume",
+    "signal": "Standard rejection after hiring-team review; Workday moved forward with other candidates. No specific qualification gap or actionable feedback was provided.",
+    "notes": "Tailored Presales Enterprise Architect resume and matching cover letter were prepared and submitted Sep 9. Rejection received Sep 13. Employer provided no role-specific feedback.",
+    "jobUrl": ""
   }
 ]);
