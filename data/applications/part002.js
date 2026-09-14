@@ -130,5 +130,16 @@ window.APPLICATIONS.push(...[
     "signal": "Application-stage rejection after review. Ashby stated there was not an ideal fit at this time and did not provide a specific qualification gap or actionable feedback.",
     "notes": "Applied Sep 11 for Enterprise Solutions Architect - Americas. Application included a role-specific written response about de-risking a prospective customer implementation. Rejection received Sep 14. Generic no-fit outcome with no specific feedback, so it should not independently trigger a resume strategy change.",
     "jobUrl": ""
+  },
+  {
+    "company": "Cedar",
+    "role": "Solutions Architect",
+    "status": "Rejected",
+    "appliedDate": "2026-07-19",
+    "rejectedDate": "2026-09-14",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection. Cedar said the scope of the role led them to focus on a more specific set of experiences, but did not identify which experience requirements drove the decision.",
+    "notes": "Application confirmation received Jul 19, 2026 at 11:41 PM through Greenhouse. Rejection received Sep 14, nearly two months later. Employer acknowledged the candidate's strengths but provided no specific actionable feedback. This application substantially predates the current V3.3 master and should not be included in V3.3 performance analysis.",
+    "jobUrl": ""
   }
 ]);
