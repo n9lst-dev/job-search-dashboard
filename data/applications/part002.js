@@ -141,5 +141,16 @@ window.APPLICATIONS.push(...[
     "signal": "Application-stage rejection. Cedar said the scope of the role led them to focus on a more specific set of experiences, but did not identify which experience requirements drove the decision.",
     "notes": "Application confirmation received Jul 19, 2026 at 11:41 PM through Greenhouse. Rejection received Sep 14, nearly two months later. Employer acknowledged the candidate's strengths but provided no specific actionable feedback. This application substantially predates the current V3.3 master and should not be included in V3.3 performance analysis.",
     "jobUrl": ""
+  },
+  {
+    "company": "Uniguest",
+    "role": "Pre-Sales Engineer",
+    "status": "Active",
+    "appliedDate": "2026-08-27",
+    "rejectedDate": "",
+    "stage": "Recruiter screen invited - scheduling pending",
+    "signal": "Talent Acquisition reviewed the application and invited Justin to a Teams screening call to learn more about his background and explore fit for the remote U.S. Pre-Sales Engineer role. This is confirmed process movement beyond application review.",
+    "notes": "Application confirmation received Aug 27 through Uniguest's ADP recruiting system. On Sep 14, Blair Johnson, Talent Acquisition/HR Admin, sent a single-use scheduling link for a Teams recruiter screen. Exact screen date/time not yet confirmed. Application predates the locked V3.3 master and belongs to the early post-Sencore active-search cohort.",
+    "jobUrl": ""
   }
 ]);
