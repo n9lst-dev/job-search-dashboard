@@ -97,5 +97,16 @@ window.APPLICATIONS.push(...[
     "signal": "Applied directly to Conor McGill, Director PIXERA USA, with a targeted resume and letter of interest, then sent direct LinkedIn outreach. Exceptional alignment across video systems, networking, customer engineering, production troubleshooting, and live-video environments.",
     "notes": "Remote US role with approximately 10% travel. Application sent directly by email to Conor McGill on Sep 15 using conor@avstumpflusa.com after an initial send accidentally used USAconor@avstumpflusa.com due to LinkedIn formatting and bounced. Corrected email was sent successfully and Justin also sent Conor a direct LinkedIn message. Compensation was not published for this exact role; nearby company specialist compensation suggests this may be below Justin's primary career-track target, so clarify compensation if contacted.",
     "jobUrl": ""
+  },
+  {
+    "company": "Amazon Web Services (AWS)",
+    "role": "Sr. Media Specialist TAM, AWS Enterprise Support - Strategic Industries",
+    "status": "Active",
+    "appliedDate": "2026-09-15",
+    "rejectedDate": "",
+    "stage": "Application submitted - hiring manager referral / interview expected",
+    "signal": "Kevin, a former Frontier manager/colleague who now manages the hiring team, personally reached out about the opening, said he would love to get Justin in for an interview, told him not to worry about the listed office locations, and said he would look for the submission and put Justin on the interview list. Kevin plans to begin interviews within the next week.",
+    "notes": "High-priority direct hiring-manager opportunity. Kevin manages a US/EMEA team of TAMs and Enterprise Support Engineers and needs East Coast coverage, potentially including EMEA accounts. Role has unusually strong alignment with Justin's AWS Elemental/Elemental, IPTV/OTT, large-scale video processing, 24x7 production operations, customer engineering, architecture, and technical leadership background. Submitted Sep 15 with a purpose-built expanded AWS Media TAM resume rather than the standard V3.3 application resume. Kevin described the expected process as a phone screen followed, if successful, by six one-hour virtual interviews. Official posting locations are office-based, but Kevin explicitly said not to worry about them for now.",
+    "jobUrl": "https://www.amazon.jobs/en/jobs/10509433/sr-media-specialist-tam-aws-enterprise-support-strategic-industries"
   }
 ]);
