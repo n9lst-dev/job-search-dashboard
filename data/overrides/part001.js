@@ -42,9 +42,9 @@
 
   updateRole("BorgWarner", "PDS Site IT Manager", {
     status: "Active",
-    stage: "HR review - resume requested",
-    signal: "Human Resources manually reviewed the application and contacted Justin to request the missing resume rather than closing the application.",
-    notes: "Applied Sep 11, 2026 for the onsite Kokomo PDS Site IT Manager role. On Sep 14, HR Generalist Coralyn Cregar emailed after reviewing candidates and asked Justin to provide the resume because it had not attached to the application. This is meaningful human review but not yet an interview. Employer-published salary range: $125,600-$172,700."
+    stage: "HR review - resume provided / awaiting response",
+    signal: "Human Resources manually reviewed the application, requested the missing resume, and Justin provided it directly by email on Sep 14.",
+    notes: "Applied Sep 11, 2026 for the onsite Kokomo PDS Site IT Manager role. On Sep 14, HR Generalist Coralyn Cregar emailed after reviewing candidates and asked Justin to provide the resume because it had not attached to the application. Justin emailed the requested tailored resume to Coralyn the same day and is awaiting further response. This is meaningful human review but not yet an interview. Employer-published salary range: $125,600-$172,700."
   });
 
   // Uniguest was accidentally duplicated when the recruiter-screen update was recorded.
