@@ -39,4 +39,18 @@
     signal: "Standard rejection after hiring-team review; Workday moved forward with other candidates. No specific qualification gap or actionable feedback was provided.",
     notes: "Tailored Presales Enterprise Architect resume and matching cover letter were prepared Sep 9. Rejection received Sep 13. Employer provided no role-specific feedback."
   });
+
+  // Uniguest was accidentally duplicated when the recruiter-screen update was recorded.
+  // Keep the original application record and remove the later duplicate before rendering/metrics.
+  const duplicateUniguestIndex = window.APPLICATIONS.findIndex(
+    x => x.company === "Uniguest" && x.role === "Pre-Sales Engineer"
+  );
+  if (duplicateUniguestIndex !== -1) window.APPLICATIONS.splice(duplicateUniguestIndex, 1);
+
+  updateRole("Uniguest", "Pre-Sales Solutions Engineer", {
+    status: "Recruiter Screen",
+    stage: "Recruiter screen scheduled - Sep 17, 12:00 PM ET",
+    signal: "Talent Acquisition reviewed the application and advanced Justin to a 30-minute Microsoft Teams screening call with Blair Johnson.",
+    notes: "Applied Aug 27, 2026. Recruiter screen confirmed for Thursday, Sep 17, 2026 from 12:00 PM to 12:30 PM Indiana Eastern time via Microsoft Teams with Blair Johnson. Initial and replacement Microsoft Bookings links returned invalid-link errors before scheduling was successfully completed. Application predates the locked V3.3 master and belongs to the early post-Sencore active-search cohort."
+  });
 })();
