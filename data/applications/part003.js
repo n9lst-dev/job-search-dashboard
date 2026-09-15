@@ -86,5 +86,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong enterprise infrastructure, integrations, Linux/Windows, AWS, identity/access, APIs, and customer-facing solution architecture fit; dedicated PKI and certificate-lifecycle depth are primary gaps.",
     "notes": "Application submission explicitly confirmed Sep 9. This is separate from the Senior Solutions Engineer application submitted Aug 30.",
     "jobUrl": ""
+  },
+  {
+    "company": "AV Stumpfl / PIXERA",
+    "role": "Technical Solutions Specialist",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-15",
+    "rejectedDate": "",
+    "stage": "Direct application + hiring leader outreach",
+    "signal": "Applied directly to Conor McGill, Director PIXERA USA, with a targeted resume and letter of interest, then sent direct LinkedIn outreach. Exceptional alignment across video systems, networking, customer engineering, production troubleshooting, and live-video environments.",
+    "notes": "Remote US role with approximately 10% travel. Application sent directly by email to Conor McGill on Sep 15 using conor@avstumpflusa.com after an initial send accidentally used USAconor@avstumpflusa.com due to LinkedIn formatting and bounced. Corrected email was sent successfully and Justin also sent Conor a direct LinkedIn message. Compensation was not published for this exact role; nearby company specialist compensation suggests this may be below Justin's primary career-track target, so clarify compensation if contacted.",
+    "jobUrl": ""
   }
 ]);
