@@ -10,7 +10,8 @@ window.JOB_DATA_MANIFEST = {
   ],
   applications: [
     "data/applications/part001.js",
-    "data/applications/part002.js"
+    "data/applications/part002.js",
+    "data/applications/part003.js"
   ],
   overrides: [
     "data/overrides/part001.js"
