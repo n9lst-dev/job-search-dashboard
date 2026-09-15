@@ -148,9 +148,9 @@ window.APPLICATIONS.push(...[
     "status": "Active",
     "appliedDate": "2026-08-27",
     "rejectedDate": "",
-    "stage": "Recruiter screen invited - scheduling pending",
-    "signal": "Talent Acquisition reviewed the application and invited Justin to a Teams screening call to learn more about his background and explore fit for the remote U.S. Pre-Sales Engineer role. This is confirmed process movement beyond application review.",
-    "notes": "Application confirmation received Aug 27 through Uniguest's ADP recruiting system. On Sep 14, Blair Johnson, Talent Acquisition/HR Admin, sent a single-use scheduling link for a Teams recruiter screen. Exact screen date/time not yet confirmed. Application predates the locked V3.3 master and belongs to the early post-Sencore active-search cohort.",
+    "stage": "Recruiter screen scheduled",
+    "signal": "Talent Acquisition reviewed the application and advanced Justin to a 30-minute Teams screening call with Blair Johnson for the remote U.S. Pre-Sales Engineer role.",
+    "notes": "Application confirmation received Aug 27 through Uniguest's ADP recruiting system. Recruiter screen confirmed for Thursday, Sep 17, 2026 from 12:00 PM to 12:30 PM Indiana Eastern time via Microsoft Teams with Blair Johnson. Initial and replacement Microsoft Bookings links returned invalid-link errors before scheduling was successfully completed. Application predates the locked V3.3 master and belongs to the early post-Sencore active-search cohort.",
     "jobUrl": ""
   }
 ]);
