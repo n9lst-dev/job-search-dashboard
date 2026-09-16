@@ -119,5 +119,16 @@ window.APPLICATIONS.push(...[
     "signal": "Wiz notified applicants that the position had been filled and that it was no longer moving forward with additional applications. The message did not indicate a qualification-based rejection or provide candidate-specific feedback.",
     "notes": "Applied Aug 30, 2026. Closed Sep 16 because the role was filled. Wiz said it would keep the resume on file for potential future mutual-fit openings. Treat as position-filled closure rather than a resume or interview outcome.",
     "jobUrl": ""
+  },
+  {
+    "company": "Salsify",
+    "role": "Solutions Consultant II",
+    "status": "Rejected",
+    "appliedDate": "2026-09-09",
+    "rejectedDate": "2026-09-16",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection after Salsify reviewed a high volume of applications and chose to proceed with other candidates. No candidate-specific qualification gap or actionable feedback was provided.",
+    "notes": "Applied Sep 9, 2026. Rejection received Sep 16. Salsify cited a high volume of talented applicants and said it selected other candidates. No interview occurred and no specific resume, experience, or qualification issue was identified, so treat this as a normal application-stage rejection rather than a specific diagnostic signal.",
+    "jobUrl": ""
   }
 ]);
