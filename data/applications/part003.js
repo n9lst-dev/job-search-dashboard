@@ -108,5 +108,16 @@ window.APPLICATIONS.push(...[
     "signal": "Kevin, a former Frontier manager/colleague who now manages the hiring team, personally reached out about the opening, said he would love to get Justin in for an interview, told him not to worry about the listed office locations, and said he would look for the submission and put Justin on the interview list. Kevin plans to begin interviews within the next week.",
     "notes": "High-priority direct hiring-manager opportunity. Kevin manages a US/EMEA team of TAMs and Enterprise Support Engineers and needs East Coast coverage, potentially including EMEA accounts. Role has unusually strong alignment with Justin's AWS Elemental/Elemental, IPTV/OTT, large-scale video processing, 24x7 production operations, customer engineering, architecture, and technical leadership background. Submitted Sep 15 with a purpose-built expanded AWS Media TAM resume rather than the standard V3.3 application resume. Kevin described the expected process as a phone screen followed, if successful, by six one-hour virtual interviews. Official posting locations are office-based, but Kevin explicitly said not to worry about them for now.",
     "jobUrl": "https://www.amazon.jobs/en/jobs/10509433/sr-media-specialist-tam-aws-enterprise-support-strategic-industries"
+  },
+  {
+    "company": "Wiz",
+    "role": "Solutions Engineer, Growth - East",
+    "status": "Closed",
+    "appliedDate": "2026-08-30",
+    "rejectedDate": "2026-09-16",
+    "stage": "Position filled",
+    "signal": "Wiz notified applicants that the position had been filled and that it was no longer moving forward with additional applications. The message did not indicate a qualification-based rejection or provide candidate-specific feedback.",
+    "notes": "Applied Aug 30, 2026. Closed Sep 16 because the role was filled. Wiz said it would keep the resume on file for potential future mutual-fit openings. Treat as position-filled closure rather than a resume or interview outcome.",
+    "jobUrl": ""
   }
 ]);
