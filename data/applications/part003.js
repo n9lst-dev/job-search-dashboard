@@ -130,5 +130,16 @@ window.APPLICATIONS.push(...[
     "signal": "Application-stage rejection after Salsify reviewed a high volume of applications and chose to proceed with other candidates. No candidate-specific qualification gap or actionable feedback was provided.",
     "notes": "Applied Sep 9, 2026. Rejection received Sep 16. Salsify cited a high volume of talented applicants and said it selected other candidates. No interview occurred and no specific resume, experience, or qualification issue was identified, so treat this as a normal application-stage rejection rather than a specific diagnostic signal.",
     "jobUrl": ""
+  },
+  {
+    "company": "Motive",
+    "role": "Senior Solutions Engineer, Enterprise - Central/Eastern Regions",
+    "status": "Applied",
+    "appliedDate": "2026-09-16",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong enterprise pre-sales fit across customer discovery, technical demonstrations, hardware/software solution design, APIs and integrations, RFP/RFI work, executive presentations, and complex operational customer environments.",
+    "notes": "Applied Sep 16, 2026 through Motive's application process using a targeted V3.3-based resume and tailored cover letter. Role is US Remote for Central/Eastern regions. Published compensation was $160K-$200K OTE and the posting indicated 30%+ travel, which is above Justin's preferred travel range and should be clarified if the process advances.",
+    "jobUrl": "https://job-boards.greenhouse.io/gomotive/jobs/8635231002"
   }
 ]);
