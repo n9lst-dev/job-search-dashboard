@@ -141,5 +141,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong enterprise pre-sales fit across customer discovery, technical demonstrations, hardware/software solution design, APIs and integrations, RFP/RFI work, executive presentations, and complex operational customer environments.",
     "notes": "Applied Sep 16, 2026 through Motive's application process using a targeted V3.3-based resume and tailored cover letter. Role is US Remote for Central/Eastern regions. Published compensation was $160K-$200K OTE and the posting indicated 30%+ travel, which is above Justin's preferred travel range and should be clarified if the process advances.",
     "jobUrl": "https://job-boards.greenhouse.io/gomotive/jobs/8635231002"
+  },
+  {
+    "company": "Built Technologies",
+    "role": "Senior Solution Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-16",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong technical pre-sales and enterprise solution engineering fit across discovery, tailored demos, workflow mapping, APIs and integrations, proposals, executive communication, and implementation handoff. Built explicitly screens for demonstrated day-to-day AI fluency, and Justin was able to support that with practical AI usage plus his Microsoft Applied Skills credential in Developing Agents in Microsoft Foundry.",
+    "notes": "Applied Sep 16, 2026 using a targeted V3.3-based resume and cover letter. Application included specific responses on daily AI usage, Microsoft's Foundry agent work, Built's document-intelligence and agentic workflow direction, and a target base salary of $145K-$150K. Published base range was $135K-$150K with commission/equity, and travel was listed at approximately 15-25%. Construction finance is the primary domain ramp area.",
+    "jobUrl": "https://careers.canapi.com/companies/built-technologies/jobs/92742992-senior-solution-engineer"
   }
 ]);
