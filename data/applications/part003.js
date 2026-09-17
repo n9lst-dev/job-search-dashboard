@@ -163,5 +163,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong customer-facing technical sales fit across discovery, demos, POCs/POVs, workshops, integrations, cloud infrastructure, identity, executive communication, and implementation-oriented solution architecture. Dedicated SaaS security and SSPM experience are the primary domain gaps.",
     "notes": "Applied Sep 16, 2026 using a targeted V3.3-based resume and cover letter. Application included a concise personal note connecting Justin's enterprise customer work, pre-sales, architecture, integrations, cloud infrastructure, and production operations background to Reco's security-focused Solutions Engineer role. GitHub/portfolio fields were intentionally left blank because they did not materially strengthen this application.",
     "jobUrl": "https://jobs.insightpartners.com/companies/reco-2/jobs/90069929-solutions-engineer"
+  },
+  {
+    "company": "RapDev",
+    "role": "Senior Solutions Engineer (Pre-Sales)",
+    "status": "Rejected",
+    "appliedDate": "2026-09-09",
+    "rejectedDate": "2026-09-17",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection. RapDev said it moved forward with candidates whose backgrounds aligned more closely with its current needs. No candidate-specific qualification gap or actionable feedback was provided.",
+    "notes": "Applied Sep 9, 2026. Rejection received Sep 17 from Lauren. RapDev said it would keep the resume on file as hiring needs change. Treat as low diagnostic value because no specific deficiency or role requirement was identified in the rejection.",
+    "jobUrl": ""
   }
 ]);
