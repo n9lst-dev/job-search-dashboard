@@ -47,6 +47,15 @@
     notes: "Applied Sep 11, 2026 for the onsite Kokomo PDS Site IT Manager role. On Sep 14, HR Generalist Coralyn Cregar emailed after reviewing candidates and asked Justin to provide the resume because it had not attached to the application. Justin emailed the requested tailored resume to Coralyn the same day and is awaiting further response. This is meaningful human review but not yet an interview. Employer-published salary range: $125,600-$172,700."
   });
 
+  updateRole("Circle Logistics, Inc", "Information Technology Manager", {
+    status: "Rejected",
+    appliedDate: "2026-09-13",
+    rejectedDate: "2026-09-17",
+    stage: "Application / resume",
+    signal: "Application-stage rejection. Circle Logistics declined to move forward and provided no candidate-specific qualification gap or actionable feedback.",
+    notes: "Applied Sep 13, 2026 for the Greater Fort Wayne Information Technology Manager role. Rejection received Sep 17. This was a local onsite bridge opportunity with strong transferable infrastructure and IT leadership alignment, but lower compensation than Justin's primary SA/SE target. Employer provided no specific reason for the decision."
+  });
+
   // Uniguest was accidentally duplicated when the recruiter-screen update was recorded.
   // Keep the original application record and remove the later duplicate before rendering/metrics.
   const duplicateUniguestIndex = window.APPLICATIONS.findIndex(
