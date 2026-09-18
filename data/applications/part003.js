@@ -184,6 +184,17 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across data center operations, enterprise architecture, software and platform integrations, customer-facing solution design, large-scale infrastructure, POCs, and cross-functional technical leadership.",
     "notes": "Applied Sep 17, 2026 on Schneider Electric's careers site using a targeted V3.3-based resume and cover letter. Posting is explicitly labeled Remote, notably uncommon among Schneider openings reviewed, while also listing Nashville, Boston, Chicago, Dallas, and Raleigh. Published total pay range is $142,400-$213,600 including base and short-term incentives. Approximately 30% travel is slightly above Justin's preferred range. Target base discussed at $175K.",
     "jobUrl": ""
+,
+  {
+    "company": "Peraton",
+    "role": "Technical Specialist/Architect - SME",
+    "status": "Rejected",
+    "appliedDate": "2026-08-24",
+    "rejectedDate": "2026-09-18",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection after review of qualifications. Peraton chose to pursue other candidates and provided no candidate-specific qualification gap or actionable feedback.",
+    "notes": "Applied Aug 24, 2026 for requisition 2026-170166. Rejection received Sep 18 from Joshua Soelzer, Talent Acquisition. Peraton said it would retain Justin's records for future matching positions. Treat as low diagnostic value because no specific deficiency was identified.",
+    "jobUrl": ""
   }
 
 ]);
