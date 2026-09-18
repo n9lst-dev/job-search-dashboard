@@ -217,6 +217,17 @@ window.APPLICATIONS.push(...[
     "signal": "Application-stage rejection after qualification review. Peraton chose to pursue other candidates and provided no candidate-specific qualification gap or actionable feedback.",
     "notes": "Applied Aug 24, 2026 for requisition 2026-170166. Rejection received Sep 18 from Joshua Soelzer, Talent Acquisition. Peraton said it would retain the applicant record and encouraged future applications. Treat as low diagnostic value because no specific deficiency was identified.",
     "jobUrl": ""
+,
+  {
+    "company": "Peraton",
+    "role": "Technical Specialist/Architect - SME",
+    "status": "Rejected",
+    "appliedDate": "2026-08-24",
+    "rejectedDate": "2026-09-18",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection after review of qualifications. Peraton chose to pursue other candidates and provided no candidate-specific qualification gap or actionable feedback.",
+    "notes": "Applied Aug 24, 2026 for requisition 2026-170166. Rejection received Sep 18 from Joshua Soelzer, Talent Acquisition. Peraton said it would retain Justin's records for future matching positions. Treat as low diagnostic value because no specific deficiency or role requirement was identified.",
+    "jobUrl": ""
   }
 
 ]);
