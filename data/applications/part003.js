@@ -173,6 +173,17 @@ window.APPLICATIONS.push(...[
     "stage": "Application / resume",
     "signal": "Application-stage rejection. RapDev said it moved forward with candidates whose backgrounds aligned more closely with its current needs. No candidate-specific qualification gap or actionable feedback was provided.",
     "notes": "Applied Sep 9, 2026. Rejection received Sep 17 from Lauren. RapDev said it would keep the resume on file as hiring needs change. Treat as low diagnostic value because no specific deficiency or role requirement was identified in the rejection.",
+    "jobUrl": "",
+  {
+    "company": "Schneider Electric",
+    "role": "Software Solution Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-17",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across data center operations, enterprise architecture, software and platform integrations, customer-facing solution design, large-scale infrastructure, POCs, and cross-functional technical leadership.",
+    "notes": "Applied Sep 17, 2026 on Schneider Electric's careers site using a targeted V3.3-based resume and cover letter. Posting is explicitly labeled Remote, notably uncommon among Schneider openings reviewed, while also listing Nashville, Boston, Chicago, Dallas, and Raleigh. Published total pay range is $142,400-$213,600 including base and short-term incentives. Approximately 30% travel is slightly above Justin's preferred range. Target base discussed at $175K.",
     "jobUrl": ""
   }
+
 ]);
