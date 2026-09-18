@@ -69,4 +69,11 @@
     signal: "Talent Acquisition reviewed the application and advanced Justin to a 30-minute Microsoft Teams screening call with Blair Johnson.",
     notes: "Applied Aug 27, 2026. Recruiter screen confirmed for Thursday, Sep 17, 2026 from 12:00 PM to 12:30 PM Indiana Eastern time via Microsoft Teams with Blair Johnson. Initial and replacement Microsoft Bookings links returned invalid-link errors before scheduling was successfully completed. Application predates the locked V3.3 master and belongs to the early post-Sencore active-search cohort."
   });
+  updateRole("Uniguest", "Pre-Sales Solutions Engineer", {
+    status: "Interview",
+    stage: "Hiring manager interview - Sep 22, 2026",
+    signal: "Recruiter screen with Blair Johnson completed Sep 17. The hiring manager chose to advance Justin to a 45-60 minute Microsoft Teams interview with Mark Cortina, VP, Technical Enterprise Solutions.",
+    notes: "Applied Aug 27, 2026. Recruiter screen completed Sep 17 with Blair Johnson. Blair emailed Sep 18 confirming the hiring manager wants to proceed. Next interview is proposed for Tuesday, Sep 22 via Microsoft Teams with Mark Cortina, VP, Technical Enterprise Solutions. Time is not yet confirmed. Role travel is approximately 40% and remains a point to clarify as the process advances."
+  });
+
 })();
