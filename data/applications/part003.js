@@ -75,5 +75,16 @@ window.APPLICATIONS.push(...[
     "signal": "Application-stage rejection after review of qualifications. Peraton chose to pursue other candidates and provided no candidate-specific qualification gap or actionable feedback.",
     "notes": "Applied Aug 24, 2026 for requisition 2026-170166. Rejection received Sep 18 from Joshua Soelzer, Talent Acquisition. Treat as low diagnostic value because no specific deficiency was identified.",
     "jobUrl": ""
+  },
+  {
+    "company": "Blee",
+    "role": "Sales Engineer",
+    "status": "Rejected",
+    "appliedDate": "2026-08-27",
+    "rejectedDate": "2026-09-21",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection. Blee said it was impressed with Justin's background but determined there was not an ideal fit for the role. No candidate-specific qualification gap or actionable feedback was provided.",
+    "notes": "Applied Aug 27, 2026. Rejection received Sep 21 from the Blee Talent Team.",
+    "jobUrl": ""
   }
 ]);
