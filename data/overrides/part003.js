@@ -35,4 +35,18 @@
   );
   if (staleEveIndex !== -1) window.APPLICATIONS.splice(staleEveIndex, 1);
 
+  updateRole("Ranger AI", "Customer Solutions Architect", {
+    status: "Interview / Stalled",
+    stage: "Interview process stalled - awaiting next steps",
+    signal: "Two interviews completed, including the Sep 4 process deep-dive with Kyle. Kyle said he wanted to continue the conversation and would send next steps, but no further process movement has been received.",
+    notes: "Applied Aug 27, 2026. Intro interview and process deep-dive completed. Follow-up was sent after the interview. Keep as a stalled interview rather than an active interview until Ranger re-engages."
+  });
+
+  updateRole("Uniguest", "Pre-Sales Solutions Engineer", {
+    status: "Interview",
+    stage: "Hiring manager interview - Sep 22, 2026 at 12:15 PM ET",
+    signal: "Recruiter screen with Blair Johnson completed Sep 17. Hiring manager interview scheduled for Sep 22 at 12:15 PM ET with Mark Cortina, VP, Technical Enterprise Solutions.",
+    notes: "Applied Aug 27, 2026. Recruiter screen completed Sep 17 with Blair Johnson. Next interview is Sep 22 at 12:15 PM ET via Microsoft Teams with Mark Cortina, VP, Technical Enterprise Solutions. Role travel is approximately 40% and remains a point to clarify as the process advances."
+  });
+
 })();
