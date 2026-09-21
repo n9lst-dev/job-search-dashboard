@@ -56,7 +56,12 @@
     notes: "Applied Sep 13, 2026 for the Greater Fort Wayne Information Technology Manager role. Rejection received Sep 17. This was a local onsite bridge opportunity with strong transferable infrastructure and IT leadership alignment, but lower compensation than Justin's primary SA/SE target. Employer provided no specific reason for the decision."
   });
 
-  updateRole("Uniguest", "Pre-Sales Engineer", {
+  const duplicateUniguestIndex = window.APPLICATIONS.findIndex(
+    x => x.company === "Uniguest" && x.role === "Pre-Sales Engineer"
+  );
+  if (duplicateUniguestIndex !== -1) window.APPLICATIONS.splice(duplicateUniguestIndex, 1);
+
+  updateRole("Uniguest", "Pre-Sales Solutions Engineer", {
     status: "Interview",
     stage: "Hiring manager interview - Sep 22, 2026",
     signal: "Recruiter screen with Blair Johnson completed Sep 17. The hiring manager chose to advance Justin to a 45-60 minute Microsoft Teams interview with Mark Cortina, VP, Technical Enterprise Solutions.",
