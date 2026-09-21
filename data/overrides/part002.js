@@ -43,4 +43,12 @@
     signal: "Application-stage rejection after a competitive search with many applicants. Unily said it was impressed with Justin's qualifications but chose not to proceed. No candidate-specific gap or actionable feedback was provided.",
     notes: "Applied Sep 9, 2026. Rejection received Sep 21 from Sarah Hillier. Treat as low diagnostic value because no specific qualification, experience, location, or compensation issue was identified."
   });
+  updateRole("Schneider Electric", "Software Solution Architect", {
+    status: "Rejected",
+    rejectedDate: "2026-09-21",
+    stage: "Application / resume",
+    signal: "Application-stage rejection after Schneider Electric reviewed the application. The company described the application as impressive but did not select Justin to continue in the process. No candidate-specific qualification gap or actionable feedback was provided.",
+    notes: "Applied Sep 17, 2026. Rejection received Sep 21. Schneider Electric said it would retain the resume and share future opportunities that fit Justin's skills and experience."
+  });
+
 })();
