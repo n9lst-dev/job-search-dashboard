@@ -99,39 +99,6 @@ window.APPLICATIONS.push(...[
     "jobUrl": ""
   },
   {
-    "company": "Workday",
-    "role": "Presales- Enterprise Architect",
-    "status": "Rejected",
-    "appliedDate": "2026-09-09",
-    "rejectedDate": "2026-09-13",
-    "stage": "Application / resume",
-    "signal": "Standard rejection after hiring-team review; Workday moved forward with other candidates. No specific qualification gap or actionable feedback was provided.",
-    "notes": "Tailored Presales Enterprise Architect resume and matching cover letter were prepared and submitted Sep 9. Rejection received Sep 13. Employer provided no role-specific feedback.",
-    "jobUrl": ""
-  },
-  {
-    "company": "Microblink",
-    "role": "Solutions Engineer",
-    "status": "Rejected",
-    "appliedDate": "2026-09-09",
-    "rejectedDate": "2026-09-14",
-    "stage": "Application / resume",
-    "signal": "Application-stage rejection. Microblink stated that other candidates' experience was currently a closer match for the role; no specific qualification gap or actionable feedback was provided.",
-    "notes": "Application confirmation received Sep 9, 2026 at 4:45 PM through Greenhouse. Rejection received Sep 14. Employer provided no role-specific feedback, so this outcome should not trigger a resume strategy change by itself.",
-    "jobUrl": ""
-  },
-  {
-    "company": "Ashby",
-    "role": "Enterprise Solutions Architect - Americas",
-    "status": "Rejected",
-    "appliedDate": "2026-09-11",
-    "rejectedDate": "2026-09-14",
-    "stage": "Application / resume",
-    "signal": "Application-stage rejection after review. Ashby stated there was not an ideal fit at this time and did not provide a specific qualification gap or actionable feedback.",
-    "notes": "Applied Sep 11 for Enterprise Solutions Architect - Americas. Application included a role-specific written response about de-risking a prospective customer implementation. Rejection received Sep 14. Generic no-fit outcome with no specific feedback, so it should not independently trigger a resume strategy change.",
-    "jobUrl": ""
-  },
-  {
     "company": "Cedar",
     "role": "Solutions Architect",
     "status": "Rejected",
