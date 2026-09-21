@@ -28,4 +28,11 @@
     signal: "Application-stage rejection. Microblink stated that other candidates' experience was currently a closer match for the role; no specific qualification gap or actionable feedback was provided."
   });
 
+  // Eve's rejection was historically appended as a second record instead of updating the original application.
+  // Remove the stale waiting copy so one application equals one tracked role.
+  const staleEveIndex = window.APPLICATIONS.findIndex(
+    x => x.company === "Eve" && x.role === "Enterprise Customer Success Manager" && x.status === "Applied / Waiting"
+  );
+  if (staleEveIndex !== -1) window.APPLICATIONS.splice(staleEveIndex, 1);
+
 })();
