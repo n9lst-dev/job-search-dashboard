@@ -185,5 +185,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across solution architecture, enterprise video, REST APIs and integrations, technical pre-sales, POCs, customer ownership, L2/L3 escalation, and technical enablement.",
     "notes": "Applied Sep 22, 2026 using a targeted Senior System Engineer resume and tailored cover letter. Base $100K-$150K with target variable at 33% of base. Travel under 20%. Primary gaps are ONVIF/CGI/SDK camera integration and Z-Wave/Zigbee/Matter smart-home ecosystems.",
     "jobUrl": ""
+  },
+  {
+    "company": "CCC Intelligent Solutions",
+    "role": "Senior Solutions Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong enterprise solution engineering fit across discovery, workflow analysis, demos, technical pre-sales, integrations, executive presentations, objection handling, and implementation handoff.",
+    "notes": "Applied Sep 22, 2026 using a targeted Senior Solutions Engineer resume and tailored cover letter. Salary range $106,277.25-$150,000 plus commission eligibility. Primary gap is direct Auto Physical Damage claims and insurance technology experience; application explicitly positioned enterprise solution engineering/technical pre-sales as the qualifying experience area.",
+    "jobUrl": ""
   }
 ]);
