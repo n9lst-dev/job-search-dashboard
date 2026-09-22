@@ -49,4 +49,12 @@
     notes: "Applied Aug 27, 2026. Recruiter screen completed Sep 17 with Blair Johnson. Hiring manager interview completed Sep 22 with Mark Cortina, VP, Technical Enterprise Solutions. Expected to advance to a second interview and currently waiting on Mark for next steps. Role travel is approximately 40% and remains a point to clarify as the process advances."
   });
 
+
+  updateRole("Indeed", "Senior Solutions Engineer", {
+    status: "Rejected",
+    rejectedDate: "2026-09-22",
+    stage: "Application / resume",
+    signal: "Application-stage rejection. Indeed cited high applicant interest and did not provide a candidate-specific qualification gap or actionable feedback."
+  });
+
 })();
