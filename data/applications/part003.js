@@ -119,5 +119,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong enterprise pre-sales fit across discovery, demos, POCs, RFP/RFI/RFQ responses, cloud and on-prem infrastructure, complex technical environments, and implementation handoff.",
     "notes": "Applied Sep 22, 2026 using a targeted resume and tailored cover letter. Recruiter-posted role for an undisclosed technology intelligence vendor serving SLED/public sector. Posted compensation $200K-$220K OTE, fully remote, approximately 20% travel. Primary gap is direct SLED/public-sector procurement and ITAM/SAM domain experience.",
     "jobUrl": ""
+  },
+  {
+    "company": "LiveKit",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong TAM and real-time media fit across strategic customer ownership, architecture, production escalations, APIs, AWS, networking, streaming media, and 24x7 customer environments.",
+    "notes": "Applied Sep 22, 2026 using a targeted TAM / real-time media resume and tailored cover letter. Compensation range $170K-$200K. Primary ramp areas are voice AI, WebRTC-specific experience, and LLM agent infrastructure.",
+    "jobUrl": ""
   }
 ]);
