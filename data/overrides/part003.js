@@ -44,9 +44,9 @@
 
   updateRole("Uniguest", "Pre-Sales Solutions Engineer", {
     status: "Interview",
-    stage: "Hiring manager interview - Sep 22, 2026 at 12:15 PM ET",
-    signal: "Recruiter screen with Blair Johnson completed Sep 17. Hiring manager interview scheduled for Sep 22 at 12:15 PM ET with Mark Cortina, VP, Technical Enterprise Solutions.",
-    notes: "Applied Aug 27, 2026. Recruiter screen completed Sep 17 with Blair Johnson. Next interview is Sep 22 at 12:15 PM ET via Microsoft Teams with Mark Cortina, VP, Technical Enterprise Solutions. Role travel is approximately 40% and remains a point to clarify as the process advances."
+    stage: "Hiring manager interview completed - awaiting next steps",
+    signal: "Recruiter screen with Blair Johnson completed Sep 17 and hiring manager interview with Mark Cortina completed Sep 22. Mark indicated a second interview should be lined up; currently awaiting next steps from Mark.",
+    notes: "Applied Aug 27, 2026. Recruiter screen completed Sep 17 with Blair Johnson. Hiring manager interview completed Sep 22 with Mark Cortina, VP, Technical Enterprise Solutions. Expected to advance to a second interview and currently waiting on Mark for next steps. Role travel is approximately 40% and remains a point to clarify as the process advances."
   });
 
 })();
