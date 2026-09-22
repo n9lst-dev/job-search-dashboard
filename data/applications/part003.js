@@ -108,5 +108,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across enterprise onboarding and implementation, API and SSO integrations, technical troubleshooting, escalations, customer training, technical pre-sales, and GTM-to-engineering coordination.",
     "notes": "Applied Sep 22, 2026 using a targeted TAM resume and tailored cover letter. Remote-first. Posted base salary $100K-$120K plus equity and performance-based compensation. Primary gap is direct production AI prompt-engineering and AI-solution configuration experience; Microsoft Foundry agent credential provides a relevant bridge.",
     "jobUrl": ""
+  },
+  {
+    "company": "Undisclosed - Technology Intelligence / SLED",
+    "role": "Senior Sales Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong enterprise pre-sales fit across discovery, demos, POCs, RFP/RFI/RFQ responses, cloud and on-prem infrastructure, complex technical environments, and implementation handoff.",
+    "notes": "Applied Sep 22, 2026 using a targeted resume and tailored cover letter. Recruiter-posted role for an undisclosed technology intelligence vendor serving SLED/public sector. Posted compensation $200K-$220K OTE, fully remote, approximately 20% travel. Primary gap is direct SLED/public-sector procurement and ITAM/SAM domain experience.",
+    "jobUrl": ""
   }
 ]);
