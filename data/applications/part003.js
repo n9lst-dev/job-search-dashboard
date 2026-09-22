@@ -163,5 +163,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong technical pre-sales fit across discovery, tailored demos, POCs, RFP/RFIs, APIs and integrations, technical objections, architecture, and cross-functional customer work.",
     "notes": "Applied Sep 22, 2026 using a targeted Solutions Engineer resume and tailored cover letter. Fully remote. Aviation is the primary industry ramp area. Entered $150,000 USD for expected compensation.",
     "jobUrl": ""
+  },
+  {
+    "company": "Undisclosed - AI Video Analytics",
+    "role": "Solution Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent alignment across enterprise video systems, solution architecture, networking, REST APIs, cloud/on-premises infrastructure, discovery, deployment, and troubleshooting.",
+    "notes": "Applied Sep 22, 2026 using a targeted AI Video Analytics Solution Architect resume and tailored cover letter. Primary ramp area is computer vision and camera analytics specifically. Remote with periodic US travel; percentage not stated.",
+    "jobUrl": ""
   }
 ]);
