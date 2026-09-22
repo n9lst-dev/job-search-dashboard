@@ -174,5 +174,16 @@ window.APPLICATIONS.push(...[
     "signal": "Excellent alignment across enterprise video systems, solution architecture, networking, REST APIs, cloud/on-premises infrastructure, discovery, deployment, and troubleshooting.",
     "notes": "Applied Sep 22, 2026 using a targeted AI Video Analytics Solution Architect resume and tailored cover letter. Primary ramp area is computer vision and camera analytics specifically. Remote with periodic US travel; percentage not stated.",
     "jobUrl": ""
+  },
+  {
+    "company": "Anker Innovations / eufy Security",
+    "role": "Senior System Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across solution architecture, enterprise video, REST APIs and integrations, technical pre-sales, POCs, customer ownership, L2/L3 escalation, and technical enablement.",
+    "notes": "Applied Sep 22, 2026 using a targeted Senior System Engineer resume and tailored cover letter. Base $100K-$150K with target variable at 33% of base. Travel under 20%. Primary gaps are ONVIF/CGI/SDK camera integration and Z-Wave/Zigbee/Matter smart-home ecosystems.",
+    "jobUrl": ""
   }
 ]);
