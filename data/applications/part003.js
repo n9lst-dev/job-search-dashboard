@@ -130,5 +130,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong TAM and real-time media fit across strategic customer ownership, architecture, production escalations, APIs, AWS, networking, streaming media, and 24x7 customer environments.",
     "notes": "Applied Sep 22, 2026 using a targeted TAM / real-time media resume and tailored cover letter. Compensation range $170K-$200K. Primary ramp areas are voice AI, WebRTC-specific experience, and LLM agent infrastructure.",
     "jobUrl": ""
+  },
+  {
+    "company": "Nutanix",
+    "role": "Services Provider (MSP) Systems Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong infrastructure pre-sales fit across virtualization, networking, storage, AWS, solution sizing, proposals, POCs, demos, and enterprise customer environments.",
+    "notes": "Applied Sep 22, 2026 using a targeted Systems Engineer resume and tailored cover letter. Posted pay range $207K-$311K. Primary gaps are Nutanix-specific experience, Azure depth, and production Ansible/Terraform experience. Role lists approximately 50% travel.",
+    "jobUrl": ""
   }
 ]);
