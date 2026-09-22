@@ -152,5 +152,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong solutions consulting fit across discovery, demos, POCs, solution architecture, APIs and integrations, RFP/RFI work, technical objections, and enterprise software sales cycles.",
     "notes": "Applied Sep 22, 2026 using a targeted Solutions Consultant resume and tailored cover letter. Posted market range $184K-$248K. Primary domain gap is direct master data management/data unification experience; bachelor's degree is listed as required.",
     "jobUrl": ""
+  },
+  {
+    "company": "Portside",
+    "role": "Solutions Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong technical pre-sales fit across discovery, tailored demos, POCs, RFP/RFIs, APIs and integrations, technical objections, architecture, and cross-functional customer work.",
+    "notes": "Applied Sep 22, 2026 using a targeted Solutions Engineer resume and tailored cover letter. Fully remote. Aviation is the primary industry ramp area. Entered $150,000 USD for expected compensation.",
+    "jobUrl": ""
   }
 ]);
