@@ -141,5 +141,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong infrastructure pre-sales fit across virtualization, networking, storage, AWS, solution sizing, proposals, POCs, demos, and enterprise customer environments.",
     "notes": "Applied Sep 22, 2026 using a targeted Systems Engineer resume and tailored cover letter. Posted pay range $207K-$311K. Primary gaps are Nutanix-specific experience, Azure depth, and production Ansible/Terraform experience. Role lists approximately 50% travel.",
     "jobUrl": ""
+  },
+  {
+    "company": "Reltio",
+    "role": "Solutions Consultant",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong solutions consulting fit across discovery, demos, POCs, solution architecture, APIs and integrations, RFP/RFI work, technical objections, and enterprise software sales cycles.",
+    "notes": "Applied Sep 22, 2026 using a targeted Solutions Consultant resume and tailored cover letter. Posted market range $184K-$248K. Primary domain gap is direct master data management/data unification experience; bachelor's degree is listed as required.",
+    "jobUrl": ""
   }
 ]);
