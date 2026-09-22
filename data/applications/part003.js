@@ -196,5 +196,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong enterprise solution engineering fit across discovery, workflow analysis, demos, technical pre-sales, integrations, executive presentations, objection handling, and implementation handoff.",
     "notes": "Applied Sep 22, 2026 using a targeted Senior Solutions Engineer resume and tailored cover letter. Salary range $106,277.25-$150,000 plus commission eligibility. Primary gap is direct Auto Physical Damage claims and insurance technology experience; application explicitly positioned enterprise solution engineering/technical pre-sales as the qualifying experience area.",
     "jobUrl": ""
+  },
+  {
+    "company": "Celigo",
+    "role": "Senior Solution Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong integration architecture and technical pre-sales fit across customer discovery, REST/SOAP APIs, cloud and on-premises systems, requirements, solution design, and implementation handoff.",
+    "notes": "Applied Sep 22, 2026 using a targeted Senior Solution Architect resume and tailored cover letter. Base salary $140K-$165K plus potential variable incentives. Primary gaps are deep iPaaS-specific experience and Celigo's ERP/eCommerce ecosystem such as SAP, NetSuite, Salesforce, Shopify, and EDI.",
+    "jobUrl": ""
   }
 ]);
