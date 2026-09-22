@@ -97,5 +97,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong presales architecture fit across customer discovery, complex solution design, commercial validation, Sales and Delivery coordination, cloud and infrastructure, APIs and integrations, and implementation handoff.",
     "notes": "Applied Sep 22, 2026 using a targeted V3.3-based resume and tailored cover letter. Remote US role with East Coast hours preferred and approximately 20-25% customer travel. Primary ramp area is dedicated Atlassian, GitHub, GitLab and DevOps developer-platform depth.",
     "jobUrl": ""
+  },
+  {
+    "company": "Fama",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-22",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across enterprise onboarding and implementation, API and SSO integrations, technical troubleshooting, escalations, customer training, technical pre-sales, and GTM-to-engineering coordination.",
+    "notes": "Applied Sep 22, 2026 using a targeted TAM resume and tailored cover letter. Remote-first. Posted base salary $100K-$120K plus equity and performance-based compensation. Primary gap is direct production AI prompt-engineering and AI-solution configuration experience; Microsoft Foundry agent credential provides a relevant bridge.",
+    "jobUrl": ""
   }
 ]);
