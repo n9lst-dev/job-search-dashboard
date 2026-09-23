@@ -207,5 +207,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong integration architecture and technical pre-sales fit across customer discovery, REST/SOAP APIs, cloud and on-premises systems, requirements, solution design, and implementation handoff.",
     "notes": "Applied Sep 22, 2026 using a targeted Senior Solution Architect resume and tailored cover letter. Base salary $140K-$165K plus potential variable incentives. Primary gaps are deep iPaaS-specific experience and Celigo's ERP/eCommerce ecosystem such as SAP, NetSuite, Salesforce, Shopify, and EDI.",
     "jobUrl": ""
+  },
+  {
+    "company": "MinIO",
+    "role": "Field Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Calculated stretch with strong overlap across senior customer-facing architecture, enterprise storage and infrastructure, AWS S3, Linux, networking, REST APIs, hybrid environments, technical discovery, POCs, and production delivery.",
+    "notes": "Applied Sep 23, 2026 through the Himalayas job board using a targeted V3.3-based Field Architect resume and tailored cover letter. Posted base salary $200K-$225K plus commission and pre-IPO stock options. Primary gaps are deep object-storage/S3 SME depth, Kubernetes, and modern AI/analytics/lakehouse platforms.",
+    "jobUrl": "https://himalayas.app/companies/minio"
   }
 ]);
