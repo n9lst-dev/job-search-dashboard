@@ -218,5 +218,16 @@ window.APPLICATIONS.push(...[
     "signal": "Calculated stretch with strong overlap across senior customer-facing architecture, enterprise storage and infrastructure, AWS S3, Linux, networking, REST APIs, hybrid environments, technical discovery, POCs, and production delivery.",
     "notes": "Applied Sep 23, 2026 through the Himalayas job board using a targeted V3.3-based Field Architect resume and tailored cover letter. Posted base salary $200K-$225K plus commission and pre-IPO stock options. Primary gaps are deep object-storage/S3 SME depth, Kubernetes, and modern AI/analytics/lakehouse platforms.",
     "jobUrl": "https://himalayas.app/companies/minio"
+  },
+  {
+    "company": "Connection",
+    "role": "Senior Field Solution Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across technical pre-sales, enterprise infrastructure, cloud migration, AWS and hybrid cloud, solution architecture, sizing, virtualization, networking, storage, and customer discovery.",
+    "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Senior Field Solution Architect resume and tailored cover letter. Posted base salary $114K-$148.3K. Entered $145,000 base salary expectation. Primary gaps are formal Disaster Recovery/Business Continuity architecture and dedicated TCO/ROI assessment tooling.",
+    "jobUrl": "https://himalayas.app/companies/connection"
   }
 ]);
