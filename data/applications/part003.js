@@ -284,5 +284,16 @@ window.APPLICATIONS.push(...[
     "signal": "Applied via Wellfound. Lead IT systems role aligned with broad enterprise infrastructure, systems, integrations, operations, and technical leadership background.",
     "notes": "Applied Sep 23, 2026.",
     "jobUrl": ""
+  },
+  {
+    "company": "Iron Bow Technologies",
+    "role": "Consulting Systems Engineer (Civilian)",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Consulting systems engineering opportunity aligned with enterprise infrastructure, solution architecture, technical pre-sales, customer discovery, and implementation experience.",
+    "notes": "Applied Sep 23, 2026.",
+    "jobUrl": ""
   }
 ]);
