@@ -240,5 +240,16 @@ window.APPLICATIONS.push(...[
     "signal": "Excellent fit across enterprise infrastructure architecture, technical pre-sales, cloud and data center migrations, VMware/Hyper-V, Linux, Windows Server, networking, storage, databases, project delivery, and technical escalation.",
     "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Principal IT Architect resume and tailored cover letter. Strong alignment with broad enterprise infrastructure and managed services architecture. Minor gaps include dedicated disaster recovery architecture, Oracle depth, and formal ROM terminology.",
     "jobUrl": "https://himalayas.app/companies/unisys"
+  },
+  {
+    "company": "Logicalis",
+    "role": "Data Center Solutions Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across data center technical pre-sales, enterprise infrastructure, hybrid cloud, VMware/Hyper-V, servers, storage, networking, solution design, BOMs/SOWs, POCs, demos, and implementation handoff.",
+    "notes": "Applied Sep 23, 2026 using a targeted V3.3-based data center Solutions Architect resume and tailored cover letter. Posted base salary $110K-$150K plus commission. Primary gaps are vendor-specific storage and backup platforms/certifications, HCI, SAN technologies, and OEM quoting tools.",
+    "jobUrl": "https://himalayas.app/companies/logicalis"
   }
 ]);
