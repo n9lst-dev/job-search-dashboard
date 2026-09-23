@@ -229,5 +229,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across technical pre-sales, enterprise infrastructure, cloud migration, AWS and hybrid cloud, solution architecture, sizing, virtualization, networking, storage, and customer discovery.",
     "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Senior Field Solution Architect resume and tailored cover letter. Posted base salary $114K-$148.3K. Entered $145,000 base salary expectation. Primary gaps are formal Disaster Recovery/Business Continuity architecture and dedicated TCO/ROI assessment tooling.",
     "jobUrl": "https://himalayas.app/companies/connection"
+  },
+  {
+    "company": "Unisys",
+    "role": "Principal IT Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit across enterprise infrastructure architecture, technical pre-sales, cloud and data center migrations, VMware/Hyper-V, Linux, Windows Server, networking, storage, databases, project delivery, and technical escalation.",
+    "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Principal IT Architect resume and tailored cover letter. Strong alignment with broad enterprise infrastructure and managed services architecture. Minor gaps include dedicated disaster recovery architecture, Oracle depth, and formal ROM terminology.",
+    "jobUrl": "https://himalayas.app/companies/unisys"
   }
 ]);
