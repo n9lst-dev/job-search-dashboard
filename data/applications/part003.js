@@ -262,5 +262,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across technical pre-sales, Dell server infrastructure, EMC/Isilon storage, data center architecture, VMware/Hyper-V, Windows/Linux, AWS, solution design, SOWs, demos, and implementation handoff.",
     "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Senior Solution Architect Dell resume and tailored cover letter. Posted base salary $94.5K-$132.1K with 25% annual bonus target and up to 25% travel. Extensive Dell server experience at Frontier and SeaChange was surfaced. Primary gap is deep current specialization across Dell PowerStore, PowerFlex, PowerScale, VxRail, and Dell Data Protection portfolio.",
     "jobUrl": "https://himalayas.app/companies/cdw"
+  },
+  {
+    "company": "Dragos",
+    "role": "Lead Business Systems Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Stretch application centered on business systems architecture, process redesign, automation, integrations, and stakeholder communication. Salesforce-specific depth is a notable gap.",
+    "notes": "Applied Sep 23, 2026 via Wellfound. Application included a response using the Frontier VOD cloud migration and workflow redesign as the closest legitimate example rather than claiming direct Salesforce experience.",
+    "jobUrl": ""
   }
 ]);
