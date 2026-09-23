@@ -57,4 +57,13 @@
     signal: "Application-stage rejection. Indeed cited high applicant interest and did not provide a candidate-specific qualification gap or actionable feedback."
   });
 
+
+  updateRole("Nightingale Education Group", "Solutions Architect I/II", {
+    status: "Rejected",
+    rejectedDate: "2026-09-23",
+    stage: "Application / resume",
+    signal: "Application-stage rejection. Nightingale stated it is moving forward with other candidates and provided no candidate-specific qualification gap or actionable feedback.",
+    notes: "Applied Aug 30, 2026. Rejection received Sep 23, 2026 from the Nightingale College Talent Acquisition Team."
+  });
+
 })();
