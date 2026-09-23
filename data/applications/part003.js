@@ -251,5 +251,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across data center technical pre-sales, enterprise infrastructure, hybrid cloud, VMware/Hyper-V, servers, storage, networking, solution design, BOMs/SOWs, POCs, demos, and implementation handoff.",
     "notes": "Applied Sep 23, 2026 using a targeted V3.3-based data center Solutions Architect resume and tailored cover letter. Posted base salary $110K-$150K plus commission. Primary gaps are vendor-specific storage and backup platforms/certifications, HCI, SAN technologies, and OEM quoting tools.",
     "jobUrl": "https://himalayas.app/companies/logicalis"
+  },
+  {
+    "company": "CDW",
+    "role": "Senior Solution Architect Dell",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across technical pre-sales, Dell server infrastructure, EMC/Isilon storage, data center architecture, VMware/Hyper-V, Windows/Linux, AWS, solution design, SOWs, demos, and implementation handoff.",
+    "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Senior Solution Architect Dell resume and tailored cover letter. Posted base salary $94.5K-$132.1K with 25% annual bonus target and up to 25% travel. Extensive Dell server experience at Frontier and SeaChange was surfaced. Primary gap is deep current specialization across Dell PowerStore, PowerFlex, PowerScale, VxRail, and Dell Data Protection portfolio.",
+    "jobUrl": "https://himalayas.app/companies/cdw"
   }
 ]);
