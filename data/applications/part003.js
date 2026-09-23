@@ -273,5 +273,16 @@ window.APPLICATIONS.push(...[
     "signal": "Stretch application centered on business systems architecture, process redesign, automation, integrations, and stakeholder communication. Salesforce-specific depth is a notable gap.",
     "notes": "Applied Sep 23, 2026 via Wellfound. Application included a response using the Frontier VOD cloud migration and workflow redesign as the closest legitimate example rather than claiming direct Salesforce experience.",
     "jobUrl": ""
+  },
+  {
+    "company": "Boulevard",
+    "role": "Lead IT Systems Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Applied via Wellfound. Lead IT systems role aligned with broad enterprise infrastructure, systems, integrations, operations, and technical leadership background.",
+    "notes": "Applied Sep 23, 2026.",
+    "jobUrl": ""
   }
 ]);
