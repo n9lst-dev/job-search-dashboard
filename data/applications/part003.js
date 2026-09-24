@@ -288,12 +288,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Iron Bow Technologies",
     "role": "Consulting Systems Engineer (Civilian)",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-23",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Consulting systems engineering opportunity aligned with enterprise infrastructure, solution architecture, technical pre-sales, customer discovery, and implementation experience.",
-    "notes": "Applied Sep 23, 2026.",
+    "rejectedDate": "2026-09-24",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection after submission. No candidate-specific qualification gap or actionable feedback was provided.",
+    "notes": "Applied Sep 23, 2026. Rejection received Sep 24, 2026.",
     "jobUrl": ""
   },
   {
