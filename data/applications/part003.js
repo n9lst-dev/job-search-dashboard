@@ -123,12 +123,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "LiveKit",
     "role": "Technical Account Manager",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-22",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Strong TAM and real-time media fit across strategic customer ownership, architecture, production escalations, APIs, AWS, networking, streaming media, and 24x7 customer environments.",
-    "notes": "Applied Sep 22, 2026 using a targeted TAM / real-time media resume and tailored cover letter. Compensation range $170K-$200K. Primary ramp areas are voice AI, WebRTC-specific experience, and LLM agent infrastructure.",
+    "rejectedDate": "2026-09-24",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection after background review. LiveKit said it decided to go a different direction and provided no candidate-specific qualification gap or actionable feedback.",
+    "notes": "Applied Sep 22, 2026 using a targeted TAM / real-time media resume and tailored cover letter. Compensation range $170K-$200K. Rejection received Sep 24, 2026. Original ramp areas were voice AI, WebRTC-specific experience, and LLM agent infrastructure, but LiveKit did not identify any of these as the reason for rejection.",
     "jobUrl": ""
   },
   {
