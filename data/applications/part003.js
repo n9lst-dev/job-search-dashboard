@@ -328,5 +328,16 @@ window.APPLICATIONS.push(...[
     "signal": "",
     "notes": "Applied Sep 23, 2026.",
     "jobUrl": ""
+  },
+  {
+    "company": "Dataiku",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Calculated stretch. Strong alignment in strategic customer ownership, customer-facing architecture, pre/post-sales work, Linux, networking, AWS, IAM/AD, troubleshooting, escalations, and executive communication. Primary gaps are hands-on Kubernetes administration and Hadoop/Spark ecosystem depth.",
+    "notes": "Applied Sep 24, 2026 using V3.3 Revision 9 without tailoring. Posted US base salary $150K-$200K plus potential variable compensation and stock options. Role supports approximately four strategic clients per TAM.",
+    "jobUrl": ""
   }
 ]);
