@@ -460,5 +460,49 @@ window.APPLICATIONS.push(...[
     "signal": "Strong enterprise implementation and customer-success fit across large-scale deployments, adoption, training, strategic account ownership, executive communication, technical products, and cross-functional delivery.",
     "notes": "Applied Sep 24, 2026 using a tailored enterprise implementation/customer success resume and cover letter. Remote US role with up to 10% travel. Posted base $100,406-$153,409 plus variable compensation/equity. Primary ramp area is IoT/telematics; bachelor's degree is listed as a minimum requirement.",
     "jobUrl": ""
+  },
+  {
+    "company": "Socket",
+    "role": "Technical Customer Success",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong technical customer-success fit across enterprise account ownership, onboarding and implementation, Linux, networking, Docker, APIs, production troubleshooting, logs/telemetry, escalation management, and cross-functional Engineering/Product work.",
+    "notes": "Applied Sep 24, 2026 using a tailored technical customer success resume and cover letter. Fit score 79/100. Primary ramp areas are application security, DevSecOps, SCA/package-management ecosystems, CI/CD tooling depth, and reading JavaScript/Python/TypeScript.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Glean",
+    "role": "AI Success Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit across enterprise technical deployments, customer ownership, AWS/cloud, SSO and identity, APIs/connectors, escalations, program leadership, executive communication, and strategic plus hands-on customer work. Microsoft Foundry agent credential provides direct AI/agent exposure.",
+    "notes": "Applied Sep 24, 2026 using a tailored AI Success Manager resume and cover letter. Fit score 92/100. Posted OTE $140K-$200K; entered $185,000 annual OTE. Primary ramp areas are deeper AI-platform domain experience and DevOps/SDLC depth.",
+    "jobUrl": ""
+  },
+  {
+    "company": "CollegeVine",
+    "role": "AI Partner Success",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong consultative customer-success and solutions fit across strategic enterprise relationships, executive advisory, deep discovery, solution architecture, multi-stakeholder alignment, adoption/expansion, escalations, and cross-functional Product/Engineering work. Microsoft Foundry agent experience supports the AI transition.",
+    "notes": "Applied Sep 24, 2026 using a tailored AI Partner Success resume and cover letter. Fit score 84/100. Remote with hybrid New York preferred. Primary ramp areas are higher-education operations, formal ROI/value engineering, and deeper professional AI/ML experience.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Zoom",
+    "role": "Pooled Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Exceptional TAM fit across enterprise video, IP networking, codecs/transcoding, telecommunications architecture, complex technical escalations, architecture/integration consulting, customer advocacy, and technical leadership.",
+    "notes": "Applied Sep 24, 2026 using a tailored video/IP networking TAM resume and cover letter. Fit score 96/100. Primary ramp area is direct administration of Zoom or comparable unified communications platforms and deeper PBX/SIP/H.323-specific experience.",
+    "jobUrl": ""
   }
 ]);
