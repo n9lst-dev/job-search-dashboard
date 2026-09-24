@@ -350,4 +350,60 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across enterprise customer architecture, trusted technical advisory, AWS/Linux/networking/APIs, production troubleshooting, adoption, escalations, and cross-functional work with Sales, Support, Product, Engineering, and Delivery. Primary ramp area is direct Elastic Stack experience.",
     "notes": "Applied Sep 24, 2026 using a V3.3 Light Tailor resume and tailored DOCX cover letter. Posted compensation is $107,500-$170,100 base plus $46,000-$72,800 target variable, for $153,500-$242,900 OTE on a 70/30 pay mix, plus stock eligibility. Elastic/ELK experience was not claimed.",
     "jobUrl": ""
-  },\n  {\n    "company": "Figma",\n    "role": "Technical Account Manager",\n    "status": "Applied",\n    "appliedDate": "2026-09-24",\n    "rejectedDate": "",\n    "stage": "Application submitted",\n    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",\n    "notes": "Applied Sep 24, 2026. V3.3 Light Tailor. Remote US. Posted base $140K-$296K.",\n    "jobUrl": ""\n  },\n  {\n    "company": "Docker",\n    "role": "Senior Technical Account Manager",\n    "status": "Applied",\n    "appliedDate": "2026-09-24",\n    "rejectedDate": "",\n    "stage": "Application submitted",\n    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",\n    "notes": "Applied Sep 24, 2026. V3.3 Light Tailor. Remote-first. Posted US OTE $139,125-$198,750 plus equity.",\n    "jobUrl": ""\n  },\n  {\n    "company": "BMO Financial Group",\n    "role": "Technical Account Manager",\n    "status": "Applied",\n    "appliedDate": "2026-09-24",\n    "rejectedDate": "",\n    "stage": "Application submitted",\n    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",\n    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Posted salary $112,200-$209,000.",\n    "jobUrl": ""\n  },\n  {\n    "company": "Northbeam",\n    "role": "Technical Account Manager",\n    "status": "Applied",\n    "appliedDate": "2026-09-24",\n    "rejectedDate": "",\n    "stage": "Application submitted",\n    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",\n    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Remote-friendly. Posted base $160K-$200K plus equity.",\n    "jobUrl": ""\n  },\n  {\n    "company": "FreedomPay",\n    "role": "Technical Account Manager",\n    "status": "Applied",\n    "appliedDate": "2026-09-24",\n    "rejectedDate": "",\n    "stage": "Application submitted",\n    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",\n    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Role lists 15-20% US travel.",\n    "jobUrl": ""\n  }\n]);
+  },
+  {
+    "company": "Figma",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",
+    "notes": "Applied Sep 24, 2026. V3.3 Light Tailor. Remote US. Posted base $140K-$296K.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Docker",
+    "role": "Senior Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",
+    "notes": "Applied Sep 24, 2026. V3.3 Light Tailor. Remote-first. Posted US OTE $139,125-$198,750 plus equity.",
+    "jobUrl": ""
+  },
+  {
+    "company": "BMO Financial Group",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",
+    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Posted salary $112,200-$209,000.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Northbeam",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",
+    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Remote-friendly. Posted base $160K-$200K plus equity.",
+    "jobUrl": ""
+  },
+  {
+    "company": "FreedomPay",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",
+    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Role lists 15-20% US travel.",
+    "jobUrl": ""
+  }
+]);
