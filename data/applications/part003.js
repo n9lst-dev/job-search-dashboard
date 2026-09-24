@@ -306,5 +306,27 @@ window.APPLICATIONS.push(...[
     "signal": "Calculated stretch. Strong overlap in customer-facing architecture, networking, AWS, APIs, production troubleshooting, automation, and technical training; gaps in Python/JavaScript development and direct SOC/NDR/incident-response experience.",
     "notes": "Applied Sep 23, 2026 using the V3.3 Revision 9 master resume with no tailoring due to stretch fit. Posted salary $150K-$163K base plus bonus and benefits. Remote US.",
     "jobUrl": ""
+  },
+  {
+    "company": "Apexon",
+    "role": "Solution Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "",
+    "notes": "Applied Sep 23, 2026.",
+    "jobUrl": ""
+  },
+  {
+    "company": "International Software Systems, Inc",
+    "role": "Solution Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "",
+    "notes": "Applied Sep 23, 2026.",
+    "jobUrl": ""
   }
 ]);
