@@ -165,14 +165,14 @@ window.APPLICATIONS.push(...[
     "jobUrl": ""
   },
   {
-    "company": "Undisclosed - AI Video Analytics",
-    "role": "Solution Architect",
-    "status": "Applied",
+    "company": "Digis (a Fiverr company)",
+    "role": "Solution Architect - North America",
+    "status": "Active",
     "appliedDate": "2026-09-22",
     "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Excellent alignment across enterprise video systems, solution architecture, networking, REST APIs, cloud/on-premises infrastructure, discovery, deployment, and troubleshooting.",
-    "notes": "Applied Sep 22, 2026 using a targeted AI Video Analytics Solution Architect resume and tailored cover letter. Primary ramp area is computer vision and camera analytics specifically. Remote with periodic US travel; percentage not stated.",
+    "stage": "Hiring manager outreach received - invited to discuss project",
+    "signal": "Excellent alignment across enterprise video systems, solution architecture, networking, REST APIs, cloud/edge/on-premises infrastructure, discovery, deployment, and troubleshooting. Oksana Strukova from Digis contacted Justin directly after the application to discuss the project.",
+    "notes": "Applied Sep 22, 2026 using a targeted AI Video Analytics Solution Architect resume and tailored cover letter. Primary ramp area is computer vision and camera analytics specifically. Remote with periodic US travel; percentage not stated. Oksana Strukova, Talent Acquisition Specialist at Digis, sent direct outreach inviting a discussion about the long-term AI-powered video analytics project for North American enterprise customers."
     "jobUrl": ""
   },
   {
