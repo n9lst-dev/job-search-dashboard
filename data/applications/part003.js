@@ -339,5 +339,16 @@ window.APPLICATIONS.push(...[
     "signal": "Calculated stretch. Strong alignment in strategic customer ownership, customer-facing architecture, pre/post-sales work, Linux, networking, AWS, IAM/AD, troubleshooting, escalations, and executive communication. Primary gaps are hands-on Kubernetes administration and Hadoop/Spark ecosystem depth.",
     "notes": "Applied Sep 24, 2026 through Talenthop. Talenthop automatically rewrote and submitted the resume and cover letter rather than using V3.3 Revision 9. The generated documents overstated several technical skills, including Kubernetes, Hadoop/Spark, Python, Azure/GCP, and MLOps. If Dataiku advances the application, clarify the accurate hands-on background before the technical interview. Posted US base salary $150K-$200K plus potential variable compensation and stock options.",
     "jobUrl": ""
+  },
+  {
+    "company": "Elastic",
+    "role": "Sr Customer Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across enterprise customer architecture, trusted technical advisory, AWS/Linux/networking/APIs, production troubleshooting, adoption, escalations, and cross-functional work with Sales, Support, Product, Engineering, and Delivery. Primary ramp area is direct Elastic Stack experience.",
+    "notes": "Applied Sep 24, 2026 using a V3.3 Light Tailor resume and tailored DOCX cover letter. Posted compensation is $107,500-$170,100 base plus $46,000-$72,800 target variable, for $153,500-$242,900 OTE on a 70/30 pay mix, plus stock eligibility. Elastic/ELK experience was not claimed.",
+    "jobUrl": ""
   }
 ]);
