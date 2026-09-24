@@ -405,5 +405,60 @@ window.APPLICATIONS.push(...[
     "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",
     "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Role lists 15-20% US travel.",
     "jobUrl": ""
+  },
+  {
+    "company": "Undisclosed AI startup",
+    "role": "Technical Account Manager (TAM) - AI Agents | Cybersecurity",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong TAM fit across enterprise onboarding, implementation, adoption, escalations, AWS/cloud, APIs, and cross-functional Product/Engineering/Sales work. Microsoft Foundry agent credential provides direct agentic AI exposure.",
+    "notes": "Applied Sep 24, 2026. Remote East/Central US. Agentic AI/cybersecurity startup. Primary ramp area is cybersecurity-specific domain depth.",
+    "jobUrl": ""
+  },
+  {
+    "company": "NiCE",
+    "role": "Customer Success Manager / Senior Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong enterprise TAM/customer-success fit across strategic account ownership, executive relationships, implementations, escalations, cloud, telecommunications, networking, technical advisory, retention, and expansion.",
+    "notes": "Applied Sep 24, 2026 using a tailored Senior TAM resume and cover letter. Primary ramp area is direct NiCE product and contact-center platform experience.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Seeq",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across technical customer ownership, strategic enterprise accounts, deployment and rollout planning, platform health, escalation management, infrastructure, networking, APIs, monitoring, and cross-functional coordination.",
+    "notes": "Applied Sep 24, 2026 using a tailored TAM resume and cover letter. Posted salary $130K plus cash bonus incentives. Primary ramp area is Seeq and industrial process analytics.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Planet Technologies",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent alignment across managed services, service delivery, enterprise technical account ownership, escalation management, engineering team leadership, cloud infrastructure, customer retention, and strategic account work.",
+    "notes": "Applied Sep 24, 2026 using a tailored TAM resume and cover letter. Posted salary range $110K-$190K. Entered $155,000 base salary expectation. Primary ramp area is recent Azure/M365 managed-services depth.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Samsara",
+    "role": "Strategic Customer Success / Enterprise Implementation",
+    "status": "Applied",
+    "appliedDate": "2026-09-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong enterprise implementation and customer-success fit across large-scale deployments, adoption, training, strategic account ownership, executive communication, technical products, and cross-functional delivery.",
+    "notes": "Applied Sep 24, 2026 using a tailored enterprise implementation/customer success resume and cover letter. Remote US role with up to 10% travel. Posted base $100,406-$153,409 plus variable compensation/equity. Primary ramp area is IoT/telematics; bachelor's degree is listed as a minimum requirement.",
+    "jobUrl": ""
   }
 ]);
