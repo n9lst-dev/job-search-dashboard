@@ -172,7 +172,7 @@ window.APPLICATIONS.push(...[
     "rejectedDate": "",
     "stage": "Hiring manager outreach received - invited to discuss project",
     "signal": "Excellent alignment across enterprise video systems, solution architecture, networking, REST APIs, cloud/edge/on-premises infrastructure, discovery, deployment, and troubleshooting. Oksana Strukova from Digis contacted Justin directly after the application to discuss the project.",
-    "notes": "Applied Sep 22, 2026 using a targeted AI Video Analytics Solution Architect resume and tailored cover letter. Primary ramp area is computer vision and camera analytics specifically. Remote with periodic US travel; percentage not stated. Oksana Strukova, Talent Acquisition Specialist at Digis, sent direct outreach inviting a discussion about the long-term AI-powered video analytics project for North American enterprise customers."
+    "notes": "Applied Sep 22, 2026 using a targeted AI Video Analytics Solution Architect resume and tailored cover letter. Primary ramp area is computer vision and camera analytics specifically. Remote with periodic US travel; percentage not stated. Oksana Strukova, Talent Acquisition Specialist at Digis, sent direct outreach inviting a discussion about the long-term AI-powered video analytics project for North American enterprise customers.",
     "jobUrl": ""
   },
   {
@@ -337,7 +337,7 @@ window.APPLICATIONS.push(...[
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Calculated stretch. Strong alignment in strategic customer ownership, customer-facing architecture, pre/post-sales work, Linux, networking, AWS, IAM/AD, troubleshooting, escalations, and executive communication. Primary gaps are hands-on Kubernetes administration and Hadoop/Spark ecosystem depth.",
-    "notes": "Applied Sep 24, 2026 using V3.3 Revision 9 without tailoring. Posted US base salary $150K-$200K plus potential variable compensation and stock options. Role supports approximately four strategic clients per TAM.",
+    "notes": "Applied Sep 24, 2026 through Talenthop. Talenthop automatically rewrote and submitted the resume and cover letter rather than using V3.3 Revision 9. The generated documents overstated several technical skills, including Kubernetes, Hadoop/Spark, Python, Azure/GCP, and MLOps. If Dataiku advances the application, clarify the accurate hands-on background before the technical interview. Posted US base salary $150K-$200K plus potential variable compensation and stock options.",
     "jobUrl": ""
   }
 ]);
