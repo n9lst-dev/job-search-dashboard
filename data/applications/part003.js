@@ -134,12 +134,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Nutanix",
     "role": "Services Provider (MSP) Systems Engineer",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-22",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Strong infrastructure pre-sales fit across virtualization, networking, storage, AWS, solution sizing, proposals, POCs, demos, and enterprise customer environments.",
-    "notes": "Applied Sep 22, 2026 using a targeted Systems Engineer resume and tailored cover letter. Posted pay range $207K-$311K. Primary gaps are Nutanix-specific experience, Azure depth, and production Ansible/Terraform experience. Role lists approximately 50% travel.",
+    "rejectedDate": "2026-09-25",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection after review. Nutanix said it received a high volume of applications and moved forward with other candidates; it explicitly did not provide individual feedback at this stage.",
+    "notes": "Applied Sep 22, 2026 for Service Providers Sales Systems Engineer using a targeted Systems Engineer resume and cover letter. Posted pay range $207K-$311K and approximately 50% travel. Rejection received Sep 25, 2026. Original ramp areas were Nutanix-specific experience, Azure depth, and production Ansible/Terraform experience, but Nutanix provided no candidate-specific rejection reason.",
     "jobUrl": ""
   },
   {
