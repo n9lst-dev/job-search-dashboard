@@ -559,5 +559,16 @@ window.APPLICATIONS.push(...[
     "signal": "Exceptional fit across technical discovery, architecture, demos, BOMs and quotes, proposals, AWS/cloud, networking, enterprise IT, and implementation handoff.",
     "notes": "Applied Sep 25, 2026. Fit score 97/100. Primary ramp area: broader hands-on Azure, Microsoft 365, and Google Cloud depth.",
     "jobUrl": ""
+  },
+  {
+    "company": "Genesys",
+    "role": "Solutions Consultant",
+    "status": "Applied",
+    "appliedDate": "2026-09-25",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit across technical pre-sales, customer discovery, solution design, workshops, demos and POCs, AWS/SaaS, APIs and integrations, networking, databases, security, and executive communication.",
+    "notes": "Applied Sep 25, 2026 using a tailored V3.3-9-based resume and cover letter. Fit score 93/100. Primary ramp areas are direct Genesys/contact-center platform experience and deeper CRM-specific implementation experience.",
+    "jobUrl": ""
   }
 ]);
