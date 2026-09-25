@@ -189,12 +189,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "CCC Intelligent Solutions",
     "role": "Senior Solutions Engineer",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-22",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Strong enterprise solution engineering fit across discovery, workflow analysis, demos, technical pre-sales, integrations, executive presentations, objection handling, and implementation handoff.",
-    "notes": "Applied Sep 22, 2026 using a targeted Senior Solutions Engineer resume and tailored cover letter. Salary range $106,277.25-$150,000 plus commission eligibility. Primary gap is direct Auto Physical Damage claims and insurance technology experience; application explicitly positioned enterprise solution engineering/technical pre-sales as the qualifying experience area.",
+    "rejectedDate": "2026-09-25",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection. CCC Intelligent Solutions said it moved forward with candidates whose experience more closely met the requirements. No candidate-specific qualification gap or actionable feedback was provided.",
+    "notes": "Applied Sep 22, 2026 for Senior Solutions Engineer, APD using a targeted resume and cover letter. Rejection received Sep 25, 2026 from the CCC TA Team. Original primary gap was direct Auto Physical Damage claims and insurance technology experience, but CCC did not identify a specific reason for rejection.",
     "jobUrl": ""
   },
   {
