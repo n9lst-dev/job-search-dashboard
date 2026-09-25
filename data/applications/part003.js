@@ -504,5 +504,60 @@ window.APPLICATIONS.push(...[
     "signal": "Exceptional TAM fit across enterprise video, IP networking, codecs/transcoding, telecommunications architecture, complex technical escalations, architecture/integration consulting, customer advocacy, and technical leadership.",
     "notes": "Applied Sep 24, 2026 using a tailored video/IP networking TAM resume and cover letter. Fit score 96/100. Primary ramp area is direct administration of Zoom or comparable unified communications platforms and deeper PBX/SIP/H.323-specific experience.",
     "jobUrl": ""
+  },
+  {
+    "company": "Imprivata",
+    "role": "Solutions Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-25",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong technical presales fit across discovery, demos, POCs, architecture, AWS, VMware, identity, networking, APIs, proposals, and implementation handoff.",
+    "notes": "Applied Sep 25, 2026. Fit score 87/100. Primary ramp areas: direct healthcare IT vendor/VAR experience and Epic/Cerner/MEDITECH.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Orange Logic",
+    "role": "Technical Solutions Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-25",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent enterprise architecture fit across infrastructure sizing, integrations, APIs, technical diagrams, demos, POCs, and digital media workflows.",
+    "notes": "Applied Sep 25, 2026. Fit score 95/100. Primary ramp area: direct DAM product experience.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Talkdesk",
+    "role": "Senior Solution Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-25",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit across discovery, architecture, enterprise implementation, REST/SOAP integrations, technical scoping, and cross-functional delivery.",
+    "notes": "Applied Sep 25, 2026. Fit score 94/100. Primary ramp area: direct CCaaS/UCaaS experience.",
+    "jobUrl": ""
+  },
+  {
+    "company": "PERSUIT",
+    "role": "Senior Solutions Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-25",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across enterprise discovery, solution design, integrations, implementation oversight, senior stakeholders, mentoring, and escalations.",
+    "notes": "Applied Sep 25, 2026. Fit score 82/100. Primary ramp areas: legal technology/e-billing and ERP/AP financial systems.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Blue Mantis",
+    "role": "Pre-Sales Solution Architect",
+    "status": "Applied",
+    "appliedDate": "2026-09-25",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Exceptional fit across technical discovery, architecture, demos, BOMs and quotes, proposals, AWS/cloud, networking, enterprise IT, and implementation handoff.",
+    "notes": "Applied Sep 25, 2026. Fit score 97/100. Primary ramp area: broader hands-on Azure, Microsoft 365, and Google Cloud depth.",
+    "jobUrl": ""
   }
 ]);
