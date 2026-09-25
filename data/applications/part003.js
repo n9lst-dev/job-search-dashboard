@@ -244,10 +244,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Logicalis",
     "role": "Data Center Solutions Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-23",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-09-25",
+    "stage": "Rejected",
     "signal": "Strong fit across data center technical pre-sales, enterprise infrastructure, hybrid cloud, VMware/Hyper-V, servers, storage, networking, solution design, BOMs/SOWs, POCs, demos, and implementation handoff.",
     "notes": "Applied Sep 23, 2026 using a targeted V3.3-based data center Solutions Architect resume and tailored cover letter. Posted base salary $110K-$150K plus commission. Primary gaps are vendor-specific storage and backup platforms/certifications, HCI, SAN technologies, and OEM quoting tools.",
     "jobUrl": "https://himalayas.app/companies/logicalis"
