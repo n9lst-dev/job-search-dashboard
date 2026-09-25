@@ -110,14 +110,14 @@ window.APPLICATIONS.push(...[
     "jobUrl": ""
   },
   {
-    "company": "Undisclosed - Technology Intelligence / SLED",
+    "company": "Together for Talent",
     "role": "Senior Sales Engineer",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-22",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Strong enterprise pre-sales fit across discovery, demos, POCs, RFP/RFI/RFQ responses, cloud and on-prem infrastructure, complex technical environments, and implementation handoff.",
-    "notes": "Applied Sep 22, 2026 using a targeted resume and tailored cover letter. Recruiter-posted role for an undisclosed technology intelligence vendor serving SLED/public sector. Posted compensation $200K-$220K OTE, fully remote, approximately 20% travel. Primary gap is direct SLED/public-sector procurement and ITAM/SAM domain experience.",
+    "rejectedDate": "2026-09-25",
+    "stage": "Application / resume",
+    "signal": "Application-stage rejection. Together for Talent said it would not be moving forward with the Senior Sales Engineer application. No candidate-specific qualification gap or actionable feedback was provided.",
+    "notes": "Applied Sep 22, 2026 for Senior Sales Engineer through Together for Talent. Recruiter-posted role for a technology intelligence vendor serving SLED/public sector. Posted compensation $200K-$220K OTE, fully remote, approximately 20% travel. Rejection received Sep 25, 2026. Original primary gap was direct SLED/public-sector procurement and ITAM/SAM domain experience, but no specific rejection reason was provided.",
     "jobUrl": ""
   },
   {
