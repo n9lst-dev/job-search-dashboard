@@ -453,10 +453,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Samsara",
     "role": "Strategic Customer Success / Enterprise Implementation",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-24",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-09-26",
+    "stage": "Rejected",
     "signal": "Strong enterprise implementation and customer-success fit across large-scale deployments, adoption, training, strategic account ownership, executive communication, technical products, and cross-functional delivery.",
     "notes": "Applied Sep 24, 2026 using a tailored enterprise implementation/customer success resume and cover letter. Remote US role with up to 10% travel. Posted base $100,406-$153,409 plus variable compensation/equity. Primary ramp area is IoT/telematics; bachelor's degree is listed as a minimum requirement.",
     "jobUrl": ""
