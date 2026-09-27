@@ -119,5 +119,16 @@ window.APPLICATIONS.push(...[
     "signal": "Talent Acquisition reviewed the application and advanced Justin to a 30-minute Teams screening call with Blair Johnson for the remote U.S. Pre-Sales Engineer role.",
     "notes": "Application confirmation received Aug 27 through Uniguest's ADP recruiting system. Recruiter screen confirmed for Thursday, Sep 17, 2026 from 12:00 PM to 12:30 PM Indiana Eastern time via Microsoft Teams with Blair Johnson. Initial and replacement Microsoft Bookings links returned invalid-link errors before scheduling was successfully completed. Application predates the locked V3.3 master and belongs to the early post-Sencore active-search cohort.",
     "jobUrl": ""
+  },
+  {
+    "company": "Zoom",
+    "role": "Solutions Consultant",
+    "status": "Rejected",
+    "appliedDate": "2026-08-28",
+    "rejectedDate": "2026-09-27",
+    "stage": "Rejected",
+    "signal": "Application was not previously represented in the current tracker files; Zoom stated that other candidates were better aligned to the job requirements.",
+    "notes": "Applied Aug 28, 2026. Rejection received Sep 27, 2026. This is separate from the Pooled Technical Account Manager application submitted Sep 24, which remains active.",
+    "jobUrl": ""
   }
 ]);
