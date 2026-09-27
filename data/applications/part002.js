@@ -130,5 +130,16 @@ window.APPLICATIONS.push(...[
     "signal": "Application was not previously represented in the current tracker files; Zoom stated that other candidates were better aligned to the job requirements.",
     "notes": "Applied Aug 28, 2026. Rejection received Sep 27, 2026. This is separate from the Pooled Technical Account Manager application submitted Sep 24, which remains active.",
     "jobUrl": ""
+  },
+  {
+    "company": "Acquia",
+    "role": "Senior Solutions Engineer",
+    "status": "Rejected",
+    "appliedDate": "2026-08-04",
+    "rejectedDate": "2026-09-27",
+    "stage": "Rejected",
+    "signal": "Acquia stated that it moved ahead with another candidate who was a better match for the position; no additional individualized reason was provided.",
+    "notes": "Applied Aug 4, 2026. Rejection received Sep 27, 2026.",
+    "jobUrl": ""
   }
 ]);
