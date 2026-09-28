@@ -563,10 +563,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Genesys",
     "role": "Solutions Consultant",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-25",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-09-28",
+    "stage": "Rejected",
     "signal": "Excellent fit across technical pre-sales, customer discovery, solution design, workshops, demos and POCs, AWS/SaaS, APIs and integrations, networking, databases, security, and executive communication.",
     "notes": "Applied Sep 25, 2026 using a tailored V3.3-9-based resume and cover letter. Fit score 93/100. Primary ramp areas are direct Genesys/contact-center platform experience and deeper CRM-specific implementation experience.",
     "jobUrl": ""
