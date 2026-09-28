@@ -519,10 +519,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Orange Logic",
     "role": "Technical Solutions Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-25",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-09-28",
+    "stage": "Rejected",
     "signal": "Excellent enterprise architecture fit across infrastructure sizing, integrations, APIs, technical diagrams, demos, POCs, and digital media workflows.",
     "notes": "Applied Sep 25, 2026. Fit score 95/100. Primary ramp area: direct DAM product experience.",
     "jobUrl": ""
