@@ -211,10 +211,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "MinIO",
     "role": "Field Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-23",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-09-28",
+    "stage": "Rejected",
     "signal": "Calculated stretch with strong overlap across senior customer-facing architecture, enterprise storage and infrastructure, AWS S3, Linux, networking, REST APIs, hybrid environments, technical discovery, POCs, and production delivery.",
     "notes": "Applied Sep 23, 2026 through the Himalayas job board using a targeted V3.3-based Field Architect resume and tailored cover letter. Posted base salary $200K-$225K plus commission and pre-IPO stock options. Primary gaps are deep object-storage/S3 SME depth, Kubernetes, and modern AI/analytics/lakehouse platforms.",
     "jobUrl": "https://himalayas.app/companies/minio"
