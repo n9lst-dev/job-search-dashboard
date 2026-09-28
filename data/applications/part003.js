@@ -398,12 +398,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "FreedomPay",
     "role": "Technical Account Manager",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-24",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-09-28",
+    "stage": "Rejected - location",
     "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",
-    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Role lists 15-20% US travel.",
+    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Role lists 15-20% US travel. FreedomPay declined on Sep 28, 2026 because the position was not available in the applicant’s location; this was a location-based rejection rather than a stated qualifications mismatch.",
     "jobUrl": ""
   },
   {
