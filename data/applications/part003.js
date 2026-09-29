@@ -592,5 +592,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong functional TAM fit across enterprise customer ownership, implementation, adoption, technical troubleshooting, networking, REST APIs, AWS, escalations, expansion support, and executive communication.",
     "notes": "Applied Sep 29, 2026 with tailored V3.3-9-based resume and cover letter. Revised fit score 89/100 after application questions revealed stronger emphasis on direct GRR, logo retention, renewal ownership, and expansion ARR metrics than the posting initially indicated. Justin has adjacent customer health and expansion experience but did not personally carry those formal SaaS retention/renewal KPIs.",
     "jobUrl": ""
+  },
+  {
+    "company": "Deepgram",
+    "role": "Customer Success Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-29",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Exceptional fit across technical customer ownership, solution design, demos and POCs, APIs and integrations, AWS, troubleshooting, strategic accounts, expansion, executive communication, and AI-first workflows.",
+    "notes": "Applied Sep 29, 2026 with tailored V3.3-9-based resume and cover letter. Fit score 97/100. Primary gaps are direct Voice AI/ML experience and prior work specifically at an API-first developer-tools company.",
+    "jobUrl": ""
   }
 ]);
