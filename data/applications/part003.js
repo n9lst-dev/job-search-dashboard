@@ -625,5 +625,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong TAM fit across enterprise customer ownership, onboarding, technical escalation, support and engineering coordination, APIs and integrations, strategic accounts, training, troubleshooting, and expansion support.",
     "notes": "Applied Sep 29, 2026 with tailored V3.3-9-based resume and cover letter. Fit score 91/100. Primary gaps are direct brand-protection/anti-phishing/digital-risk/SOC experience and formal white-label or channel-partner TAM experience.",
     "jobUrl": ""
+  },
+  {
+    "company": "Level AI",
+    "role": "Technical Account / Customer Success",
+    "status": "Applied",
+    "appliedDate": "2026-09-29",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit across enterprise technical customer ownership, adoption, AWS/cloud, APIs and integrations, troubleshooting, strategic accounts, demos/POCs, cross-functional engineering collaboration, and executive communication.",
+    "notes": "Applied Sep 29, 2026 with tailored V3.3-9-based resume and cover letter. Fit score 94/100. Primary gaps are direct AI/NLP platform experience and CCaaS/contact-center AI implementation experience.",
+    "jobUrl": ""
   }
 ]);
