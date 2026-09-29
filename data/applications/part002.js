@@ -141,5 +141,16 @@ window.APPLICATIONS.push(...[
     "signal": "Acquia stated that it moved ahead with another candidate who was a better match for the position; no additional individualized reason was provided.",
     "notes": "Applied Aug 4, 2026. Rejection received Sep 27, 2026.",
     "jobUrl": ""
+  },
+  {
+    "company": "Microsoft",
+    "role": "Infrastructure Solution Engineer Cloud & AI",
+    "status": "Rejected",
+    "appliedDate": "2026-08-28",
+    "rejectedDate": "2026-09-29",
+    "stage": "Rejected",
+    "signal": "Microsoft declined to move forward after reviewing the application; no individualized qualification gap was provided.",
+    "notes": "Applied Aug 28, 2026. Microsoft requisition 200047350. Rejection received Sep 29, 2026.",
+    "jobUrl": ""
   }
 ]);
