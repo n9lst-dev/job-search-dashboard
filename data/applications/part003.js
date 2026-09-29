@@ -233,7 +233,7 @@ window.APPLICATIONS.push(...[
   {
     "company": "Unisys",
     "role": "Principal IT Architect",
-    "status": "Active",
+    "status": "Recruiter Screen",
     "appliedDate": "2026-09-23",
     "rejectedDate": "",
     "stage": "Recruiter call scheduled for Oct 1 at 10:00 AM",
