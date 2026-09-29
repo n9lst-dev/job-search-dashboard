@@ -570,5 +570,16 @@ window.APPLICATIONS.push(...[
     "signal": "Excellent fit across technical pre-sales, customer discovery, solution design, workshops, demos and POCs, AWS/SaaS, APIs and integrations, networking, databases, security, and executive communication.",
     "notes": "Applied Sep 25, 2026 using a tailored V3.3-9-based resume and cover letter. Fit score 93/100. Primary ramp areas are direct Genesys/contact-center platform experience and deeper CRM-specific implementation experience.",
     "jobUrl": ""
+  },
+  {
+    "company": "Leidos",
+    "role": "Solution Architect/Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-09-29",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong infrastructure architecture fit across AWS, data centers, VMware/Hyper-V, Docker, enterprise networking, modernization and migrations, production troubleshooting, documentation, and technical/team leadership.",
+    "notes": "Applied Sep 29, 2026 using a lightly tailored V3.3-9-based resume and cover letter. Fit score 79/100. Primary gaps are Azure depth, Kubernetes, Terraform/Ansible/CloudFormation, formal compliance-framework depth, preferred certifications, and the unusually strong 12+ years leadership/lead architect wording.",
+    "jobUrl": ""
   }
 ]);
