@@ -112,7 +112,7 @@ window.APPLICATIONS.push(...[
   {
     "company": "Uniguest",
     "role": "Pre-Sales Engineer",
-    "status": "Active",
+    "status": "Interview",
     "appliedDate": "2026-08-27",
     "rejectedDate": "",
     "stage": "Recruiter screen scheduled",
