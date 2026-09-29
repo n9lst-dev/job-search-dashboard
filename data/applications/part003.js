@@ -614,5 +614,16 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across customer implementation ownership, Linux, SSH, SQL/PostgreSQL, REST APIs, networking, AWS, integrations, migrations, troubleshooting, training, and complex enterprise deployments.",
     "notes": "Applied Sep 29, 2026 with tailored V3.3-9-based resume and cover letter. Fit score 92/100. Primary gaps are hands-on Python data-processing depth and direct ERP/MES/CMMS/QMS/manufacturing-domain experience.",
     "jobUrl": ""
+  },
+  {
+    "company": "Bolster",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-29",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong TAM fit across enterprise customer ownership, onboarding, technical escalation, support and engineering coordination, APIs and integrations, strategic accounts, training, troubleshooting, and expansion support.",
+    "notes": "Applied Sep 29, 2026 with tailored V3.3-9-based resume and cover letter. Fit score 91/100. Primary gaps are direct brand-protection/anti-phishing/digital-risk/SOC experience and formal white-label or channel-partner TAM experience.",
+    "jobUrl": ""
   }
 ]);
