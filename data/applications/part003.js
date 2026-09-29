@@ -636,5 +636,17 @@ window.APPLICATIONS.push(...[
     "signal": "Strong fit across enterprise technical customer ownership, adoption, AWS/cloud, APIs and integrations, troubleshooting, strategic accounts, demos/POCs, cross-functional engineering collaboration, and executive communication.",
     "notes": "Applied Sep 29, 2026 with tailored V3.3-9-based resume and cover letter. Fit score 94/100. Primary gaps are direct AI/NLP platform experience and CCaaS/contact-center AI implementation experience.",
     "jobUrl": ""
+  },
+  {
+    "company": "n8n",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-09-29",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent match for enterprise technical ownership, production troubleshooting, cloud infrastructure, APIs, integrations, Docker, escalations, and cross-functional customer engineering.",
+    "notes": "Applied Sep 29, 2026. Fit score 93/100. Completed the requested hands-on n8n exercise by building an AI-assisted enterprise customer risk and escalation workflow. Main gaps: Kubernetes depth and longer-term n8n/iPaaS experience.",
+    "jobUrl": ""
   }
+
 ]);
