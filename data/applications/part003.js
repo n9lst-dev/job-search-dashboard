@@ -156,10 +156,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Portside",
     "role": "Solutions Engineer",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-22",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-09-30",
+    "stage": "Rejected",
     "signal": "Strong technical pre-sales fit across discovery, tailored demos, POCs, RFP/RFIs, APIs and integrations, technical objections, architecture, and cross-functional customer work.",
     "notes": "Applied Sep 22, 2026 using a targeted Solutions Engineer resume and tailored cover letter. Fully remote. Aviation is the primary industry ramp area. Entered $150,000 USD for expected compensation.",
     "jobUrl": ""
