@@ -331,11 +331,11 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "Dataiku",
-    "role": "Technical Account Manager",
-    "status": "Applied",
+    "role": "Sr Technical Account Manager - East",
+    "status": "Rejected",
     "appliedDate": "2026-09-24",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-09-30",
+    "stage": "Rejected",
     "signal": "Calculated stretch. Strong alignment in strategic customer ownership, customer-facing architecture, pre/post-sales work, Linux, networking, AWS, IAM/AD, troubleshooting, escalations, and executive communication. Primary gaps are hands-on Kubernetes administration and Hadoop/Spark ecosystem depth.",
     "notes": "Applied Sep 24, 2026 through Talenthop. Talenthop automatically rewrote and submitted the resume and cover letter rather than using V3.3 Revision 9. The generated documents overstated several technical skills, including Kubernetes, Hadoop/Spark, Python, Azure/GCP, and MLOps. If Dataiku advances the application, clarify the accurate hands-on background before the technical interview. Posted US base salary $150K-$200K plus potential variable compensation and stock options.",
     "jobUrl": ""
