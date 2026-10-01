@@ -508,10 +508,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Imprivata",
     "role": "Solutions Engineer",
-    "status": "Applied",
+    "status": "Closed",
     "appliedDate": "2026-09-25",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-10-01",
+    "stage": "Position filled",
     "signal": "Strong technical presales fit across discovery, demos, POCs, architecture, AWS, VMware, identity, networking, APIs, proposals, and implementation handoff.",
     "notes": "Applied Sep 25, 2026. Fit score 87/100. Primary ramp areas: direct healthcare IT vendor/VAR experience and Epic/Cerner/MEDITECH.",
     "jobUrl": ""
