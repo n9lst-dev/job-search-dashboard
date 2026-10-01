@@ -13,12 +13,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Amazon Web Services (AWS)",
     "role": "Sr. Media Specialist TAM, AWS Enterprise Support - Strategic Industries",
-    "status": "Active",
+    "status": "Interview",
     "appliedDate": "2026-09-15",
     "rejectedDate": "",
-    "stage": "Application submitted - hiring manager referral / interview expected",
-    "signal": "Kevin, a former Frontier manager/colleague who now manages the hiring team, personally reached out about the opening and said he would love to get Justin in for an interview.",
-    "notes": "High-priority direct hiring-manager opportunity with unusually strong alignment across AWS Elemental, IPTV/OTT, large-scale video processing, 24x7 production operations, customer engineering, architecture, and technical leadership. Submitted Sep 15 with a purpose-built expanded AWS Media TAM resume.",
+    "stage": "Recruiter screen scheduled - Oct 2, 2026, 1:15-1:45 PM ET",
+    "signal": "Interview process is active. Kevin, the hiring manager and a former Frontier manager/colleague, personally encouraged the application. Recruiter call with Dalia Elshamma is scheduled for Oct 2, 2026. Role is L6.",
+    "notes": "High-priority AWS opportunity with unusually strong alignment across AWS Elemental, IPTV/OTT, large-scale video processing, 24x7 production operations, customer engineering, architecture, and technical leadership. Submitted Sep 15 with a purpose-built expanded AWS Media TAM resume. Recruiter screen booked with Dalia Elshamma for Fri Oct 2, 1:15-1:45 PM ET. Interview prep is underway, including Amazon Leadership Principles and an 8-story STAR bank.",
     "jobUrl": "https://www.amazon.jobs/en/jobs/10509433/sr-media-specialist-tam-aws-enterprise-support-strategic-industries"
   },
   {
