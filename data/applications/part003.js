@@ -90,10 +90,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Eficode",
     "role": "Presales Solutions Architect",
-    "status": "Applied",
+    "status": "Interview",
     "appliedDate": "2026-09-22",
     "rejectedDate": "",
-    "stage": "Application submitted",
+    "stage": "Recruiter screen scheduled Oct 8 at 9:00 AM ET",
     "signal": "Strong presales architecture fit across customer discovery, complex solution design, commercial validation, Sales and Delivery coordination, cloud and infrastructure, APIs and integrations, and implementation handoff.",
     "notes": "Applied Sep 22, 2026 using a targeted V3.3-based resume and tailored cover letter. Remote US role with East Coast hours preferred and approximately 20-25% customer travel. Primary ramp area is dedicated Atlassian, GitHub, GitLab and DevOps developer-platform depth.",
     "jobUrl": ""
