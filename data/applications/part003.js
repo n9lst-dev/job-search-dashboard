@@ -647,6 +647,17 @@ window.APPLICATIONS.push(...[
     "signal": "Excellent match for enterprise technical ownership, production troubleshooting, cloud infrastructure, APIs, integrations, Docker, escalations, and cross-functional customer engineering.",
     "notes": "Applied Sep 29, 2026. Fit score 93/100. Completed the requested hands-on n8n exercise by building an AI-assisted enterprise customer risk and escalation workflow. Main gaps: Kubernetes depth and longer-term n8n/iPaaS experience.",
     "jobUrl": ""
+  },
+  {
+    "company": "Gravitee",
+    "role": "Solutions Engineer",
+    "status": "Rejected",
+    "appliedDate": "2026-08-31",
+    "rejectedDate": "2026-10-07",
+    "stage": "Rejected",
+    "signal": "Application-stage rejection; no detailed feedback provided due to high application volume.",
+    "notes": "Applied Aug 31, 2026. Rejection received Oct 7, 2026 from Jay Morse, US People & Talent Manager. Gravitee said it decided not to proceed after reviewing the application and could not provide detailed feedback due to application volume.",
+    "jobUrl": ""
   }
 
 ]);
