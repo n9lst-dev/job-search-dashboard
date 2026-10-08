@@ -93,9 +93,9 @@ window.APPLICATIONS.push(...[
     "status": "Interview",
     "appliedDate": "2026-09-22",
     "rejectedDate": "",
-    "stage": "Recruiter screen scheduled Oct 8 at 10:00 AM ET",
+    "stage": "Recruiter screen completed Oct 8 - awaiting hiring team feedback",
     "signal": "Strong presales architecture fit across customer discovery, complex solution design, commercial validation, Sales and Delivery coordination, cloud and infrastructure, APIs and integrations, and implementation handoff.",
-    "notes": "Applied Sep 22, 2026 using a targeted V3.3-based resume and tailored cover letter. Remote US role with East Coast hours preferred and approximately 20-25% customer travel. Primary ramp area is dedicated Atlassian, GitHub, GitLab and DevOps developer-platform depth.",
+    "notes": "Applied Sep 22, 2026 using a targeted V3.3-based resume and tailored cover letter. Remote US role with East Coast hours preferred and approximately 20-25% customer travel. Primary ramp area is dedicated Atlassian, GitHub, GitLab and DevOps developer-platform depth. Oct 8 recruiter screen with Sophie completed. $150K base aligned with planned compensation plus commission; OTE not yet disclosed. Sophie will share notes with team and expects to follow up by Wednesday Oct 14. Mentioned two interview rounds; whether inclusive of screen not confirmed.",
     "jobUrl": ""
   },
   {
