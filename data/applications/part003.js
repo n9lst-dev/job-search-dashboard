@@ -658,6 +658,17 @@ window.APPLICATIONS.push(...[
     "signal": "Application-stage rejection; no detailed feedback provided due to high application volume.",
     "notes": "Applied Aug 31, 2026. Rejection received Oct 7, 2026 from Jay Morse, US People & Talent Manager. Gravitee said it decided not to proceed after reviewing the application and could not provide detailed feedback due to application volume.",
     "jobUrl": ""
+  },
+  {
+    "company": "1mind",
+    "role": "Customer Solutions Engineer, AI Agents",
+    "status": "Closed",
+    "appliedDate": "2026-08-31",
+    "rejectedDate": "2026-10-08",
+    "stage": "Position closed",
+    "signal": "Employer notified applicant that the role closed and applications would not move forward; not an individualized rejection.",
+    "notes": "Applied Aug 31, 2026. On Oct 8, 2026, 1mind Talent Team emailed that the Customer Solutions Engineer, AI Agents role is now closed and no applications will advance.",
+    "jobUrl": ""
   }
 
 ]);
