@@ -255,12 +255,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "CDW",
     "role": "Senior Solution Architect Dell",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-23",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-10-11",
+    "stage": "Application rejected",
     "signal": "Strong fit across technical pre-sales, Dell server infrastructure, EMC/Isilon storage, data center architecture, VMware/Hyper-V, Windows/Linux, AWS, solution design, SOWs, demos, and implementation handoff.",
-    "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Senior Solution Architect Dell resume and tailored cover letter. Posted base salary $94.5K-$132.1K with 25% annual bonus target and up to 25% travel. Extensive Dell server experience at Frontier and SeaChange was surfaced. Primary gap is deep current specialization across Dell PowerStore, PowerFlex, PowerScale, VxRail, and Dell Data Protection portfolio.",
+    "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Senior Solution Architect Dell resume and tailored cover letter. Posted base salary $94.5K-$132.1K with 25% annual bonus target and up to 25% travel. Extensive Dell server experience at Frontier and SeaChange was surfaced. Primary gap is deep current specialization across Dell PowerStore, PowerFlex, PowerScale, VxRail, and Dell Data Protection portfolio. Oct 11, 2026: CDW Talent Acquisition emailed that the application was reviewed and candidacy will not move forward; no specific reason supplied.",
     "jobUrl": "https://himalayas.app/companies/cdw"
   },
   {
