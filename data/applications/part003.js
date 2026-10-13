@@ -669,6 +669,17 @@ window.APPLICATIONS.push(...[
     "signal": "Employer notified applicant that the role closed and applications would not move forward; not an individualized rejection.",
     "notes": "Applied Aug 31, 2026. On Oct 8, 2026, 1mind Talent Team emailed that the Customer Solutions Engineer, AI Agents role is now closed and no applications will advance.",
     "jobUrl": ""
+  },
+  {
+    "company": "Flexential",
+    "role": "Field Solutions Engineer III",
+    "status": "Closed",
+    "appliedDate": "",
+    "rejectedDate": "2026-10-13",
+    "stage": "Position filled",
+    "signal": "Flexential Talent Acquisition notified applicant the position had been filled and the application would not move forward.",
+    "notes": "Received position-filled notification Oct 13, 2026. Original application date not yet confirmed; no individual assessment or interview details provided.",
+    "jobUrl": ""
   }
 
 ]);
