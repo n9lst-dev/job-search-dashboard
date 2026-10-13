@@ -375,13 +375,13 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "BMO Financial Group",
-    "role": "Technical Account Manager",
-    "status": "Applied",
+    "role": "Engineering Technical Account Manager (Cloud)",
+    "status": "Rejected",
     "appliedDate": "2026-09-24",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-10-13",
+    "stage": "Rejected - another candidate selected",
     "signal": "Strong customer-facing technical fit; see application materials for role-specific alignment and ramp areas.",
-    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Posted salary $112,200-$209,000.",
+    "notes": "Applied Sep 24, 2026. Targeted V3.3-based resume. Posted salary $112,200-$209,000. Requisition R260015506. Oct 13, 2026: BMO emailed that it had decided to move forward with another candidate; no interview and no individualized feedback.",
     "jobUrl": ""
   },
   {
