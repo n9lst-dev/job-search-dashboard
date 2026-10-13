@@ -674,7 +674,7 @@ window.APPLICATIONS.push(...[
     "company": "Flexential",
     "role": "Field Solutions Engineer III",
     "status": "Closed",
-    "appliedDate": "",
+    "appliedDate": "2026-08-27",
     "rejectedDate": "2026-10-13",
     "stage": "Position filled",
     "signal": "Flexential Talent Acquisition notified applicant the position had been filled and the application would not move forward.",
