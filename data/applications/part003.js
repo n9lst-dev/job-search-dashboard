@@ -680,6 +680,17 @@ window.APPLICATIONS.push(...[
     "signal": "Flexential Talent Acquisition notified applicant the position had been filled and the application would not move forward.",
     "notes": "Received position-filled notification Oct 13, 2026. Original application date not yet confirmed; no individual assessment or interview details provided.",
     "jobUrl": ""
+  },
+  {
+    "company": "Apollo.io",
+    "role": "Solutions Consultant II (Presales)",
+    "status": "Rejected",
+    "appliedDate": "",
+    "rejectedDate": "2026-10-15",
+    "stage": "Rejected after application review",
+    "signal": "Apollo.io recruiting team notified applicant it would not proceed with candidacy for this role.",
+    "notes": "Rejection email received Oct 15, 2026. No specific reason provided. Original application date not yet confirmed.",
+    "jobUrl": ""
   }
 
 ]);
