@@ -685,7 +685,7 @@ window.APPLICATIONS.push(...[
     "company": "Apollo.io",
     "role": "Solutions Consultant II (Presales)",
     "status": "Rejected",
-    "appliedDate": "",
+    "appliedDate": "2026-09-27",
     "rejectedDate": "2026-10-15",
     "stage": "Rejected after application review",
     "signal": "Apollo.io recruiting team notified applicant it would not proceed with candidacy for this role.",
