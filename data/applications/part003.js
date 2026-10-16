@@ -236,7 +236,7 @@ window.APPLICATIONS.push(...[
     "status": "Interview",
     "appliedDate": "2026-09-23",
     "rejectedDate": "",
-    "stage": "Recruiter screen completed - awaiting shortlist decision",
+    "stage": "No shortlist update as of Oct 15 - inactive",
     "signal": "Excellent fit across enterprise infrastructure architecture, technical pre-sales, cloud and data center migrations, VMware/Hyper-V, Linux, Windows Server, networking, storage, databases, project delivery, and technical escalation.",
     "notes": "Applied Sep 23, 2026 using a targeted V3.3-based Principal IT Architect resume and tailored cover letter. Strong alignment with broad enterprise infrastructure and managed services architecture. Minor gaps include dedicated disaster recovery architecture, Oracle depth, and formal ROM terminology. Recruiter called Sep 30, 2026, one day earlier than the scheduled Oct 1 call. Compensation discussed: $150K base plus 15% variable ($172.5K target cash). Role supports a DoD customer and requires a security clearance; Unisys indicated they would work through the clearance process if selected. If shortlisted, interview process is expected to be three rounds.",
     "jobUrl": "https://himalayas.app/companies/unisys"
