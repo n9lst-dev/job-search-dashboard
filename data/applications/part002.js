@@ -112,10 +112,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Uniguest",
     "role": "Pre-Sales Engineer",
-    "status": "Interview",
+    "status": "Withdrawn",
     "appliedDate": "2026-08-27",
     "rejectedDate": "",
-    "stage": "Third interview with Mark scheduled Oct 19, 2:00-2:30 PM ET",
+    "stage": "Candidate withdrew Oct 15 - travel and compensation mismatch",
     "signal": "Talent Acquisition reviewed the application and advanced Justin to a 30-minute Teams screening call with Blair Johnson for the remote U.S. Pre-Sales Engineer role.",
     "notes": "Application confirmation received Aug 27 through Uniguest's ADP recruiting system. Recruiter screen confirmed for Thursday, Sep 17, 2026 from 12:00 PM to 12:30 PM Indiana Eastern time via Microsoft Teams with Blair Johnson. Initial and replacement Microsoft Bookings links returned invalid-link errors before scheduling was successfully completed. Application predates the locked V3.3 master and belongs to the early post-Sencore active-search cohort. Second interview completed Sep 30, 2026. Ryan said Justin was good in his eyes and specifically viewed him as technical and personable enough to be customer-facing.",
     "jobUrl": ""
