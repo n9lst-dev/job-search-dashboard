@@ -266,10 +266,10 @@ window.APPLICATIONS.push(...[
   {
     "company": "Dragos",
     "role": "Lead Business Systems Engineer",
-    "status": "Applied",
+    "status": "Closed",
     "appliedDate": "2026-09-23",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-10-16",
+    "stage": "Position filled - Oct 16",
     "signal": "Stretch application centered on business systems architecture, process redesign, automation, integrations, and stakeholder communication. Salesforce-specific depth is a notable gap.",
     "notes": "Applied Sep 23, 2026 via Wellfound. Application included a response using the Frontier VOD cloud migration and workflow redesign as the closest legitimate example rather than claiming direct Salesforce experience.",
     "jobUrl": ""
