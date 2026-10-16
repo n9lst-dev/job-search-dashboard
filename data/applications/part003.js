@@ -419,11 +419,11 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "NiCE",
-    "role": "Customer Success Manager / Senior Technical Account Manager",
-    "status": "Applied",
+    "role": "Senior Technical Account Manager",
+    "status": "Rejected",
     "appliedDate": "2026-09-24",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-10-16",
+    "stage": "Rejected after application review",
     "signal": "Strong enterprise TAM/customer-success fit across strategic account ownership, executive relationships, implementations, escalations, cloud, telecommunications, networking, technical advisory, retention, and expansion.",
     "notes": "Applied Sep 24, 2026 using a tailored Senior TAM resume and cover letter. Primary ramp area is direct NiCE product and contact-center platform experience.",
     "jobUrl": ""
