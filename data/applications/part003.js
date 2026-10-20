@@ -691,6 +691,28 @@ window.APPLICATIONS.push(...[
     "signal": "Apollo.io recruiting team notified applicant it would not proceed with candidacy for this role.",
     "notes": "Rejection email received Oct 15, 2026. No specific reason provided. Original application date not yet confirmed.",
     "jobUrl": ""
+  },
+  {
+    "company": "DigiCert",
+    "role": "Senior Solutions Engineer",
+    "status": "Rejected",
+    "appliedDate": "",
+    "rejectedDate": "2026-10-20",
+    "stage": "Rejected - other candidates more closely aligned",
+    "signal": "DigiCert informed candidate that it selected other applicants whose backgrounds more closely fit the position.",
+    "notes": "Rejection received Oct 20, 2026. Original application date not confirmed.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Atlassian",
+    "role": "Solutions Engineer, Mid Market",
+    "status": "Closed",
+    "appliedDate": "",
+    "rejectedDate": "2026-10-20",
+    "stage": "Position closed - no additional applications",
+    "signal": "Atlassian confirmed position closed and is not proceeding with additional applications.",
+    "notes": "Closure email received Oct 20, 2026. Original application date not confirmed.",
+    "jobUrl": ""
   }
 
 ]);
