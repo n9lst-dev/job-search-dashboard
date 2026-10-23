@@ -13,9 +13,9 @@ window.APPLICATIONS.push(...[
   {
     "company": "Amazon Web Services (AWS)",
     "role": "Sr. Media Specialist TAM, AWS Enterprise Support - Strategic Industries",
-    "status": "Interview",
+    "status": "Rejected",
     "appliedDate": "2026-09-15",
-    "rejectedDate": "",
+    "rejectedDate": "2026-10-23",
     "stage": "Hiring manager confirmed not selected Oct 23",
     "signal": "Interview process is active. Kevin, the hiring manager and a former Frontier manager/colleague, personally encouraged the application. Recruiter call with Dalia Elshamma is scheduled for Oct 2, 2026. Role is L6.",
     "notes": "High-priority AWS opportunity with unusually strong alignment across AWS Elemental, IPTV/OTT, large-scale video processing, 24x7 production operations, customer engineering, architecture, and technical leadership. Submitted Sep 15 with a purpose-built expanded AWS Media TAM resume. Recruiter screen booked with Dalia Elshamma for Fri Oct 2, 1:15-1:45 PM ET. Recruiter screen occurred Oct 2. Technical phone interview completed Oct 12, 2026; Justin felt it went okay and is awaiting pass/fail decision for next-stage loop.",
