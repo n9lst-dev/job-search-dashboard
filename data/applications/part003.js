@@ -713,6 +713,17 @@ window.APPLICATIONS.push(...[
     "signal": "Atlassian confirmed position closed and is not proceeding with additional applications.",
     "notes": "Closure email received Oct 20, 2026. Original application date not confirmed.",
     "jobUrl": ""
+  },
+  {
+    "company": "ReadMe",
+    "role": "Forward Deployed Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-10-26",
+    "rejectedDate": "",
+    "stage": "Application submitted Oct 26 - awaiting response",
+    "signal": "LinkedIn posting for remote-US Forward Deployed Engineer focused on enterprise technical customer success, onboarding, API integrations, documentation, adoption and account ownership.",
+    "notes": "Applied Oct 26, 2026 via ReadMe careers application, success confirmation received. Submitted targeted V3.3-based resume and personality-focused customized cover letter highlighting 40+ enterprise customers, AWS migration, customer engineering, APIs, authentication and hands-on problem solving. Role is remote US; compensation not published. Source: LinkedIn.",
+    "jobUrl": "https://jobs.ashbyhq.com/readme/22b61ced-c1e2-4425-8a0d-231f4ebb3c8c"
   }
 
 ]);
