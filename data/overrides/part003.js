@@ -43,10 +43,10 @@
   });
 
   updateRole("Uniguest", "Pre-Sales Solutions Engineer", {
-    status: "Interview",
-    stage: "Hiring manager interview completed - recruiter follow-up, update expected next week",
-    signal: "Recruiter screen with Blair Johnson completed Sep 17 and hiring manager interview with Mark Cortina completed Sep 22. Blair proactively followed up Sep 23, saying the team is still working through interviews and gathering feedback and that she expects to have more information next week.",
-    notes: "Applied Aug 27, 2026. Recruiter screen completed Sep 17 with Blair Johnson. Hiring manager interview completed Sep 22 with Mark Cortina, VP, Technical Enterprise Solutions. Blair sent a holding update Sep 23 confirming the process is still active and that more information is expected next week. No follow-up needed this week. Role travel is approximately 40% and remains a point to clarify as the process advances."
+    status: "Withdrawn",
+    stage: "Candidate withdrew Oct 15 - travel and compensation mismatch",
+    signal: "Candidate withdrew on Oct 15 after interviewing. Travel requirements above 40% and compensation were not a fit.",
+    notes: "Applied Aug 27, 2026. Recruiter screen Sep 17 and subsequent interview rounds completed. Withdrew Oct 15 before the next interview due to travel and compensation mismatch. Historical legacy entry; canonical record is in data/applications/part002.js."
   });
 
 
