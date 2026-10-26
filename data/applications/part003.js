@@ -724,6 +724,17 @@ window.APPLICATIONS.push(...[
     "signal": "LinkedIn posting for remote-US Forward Deployed Engineer focused on enterprise technical customer success, onboarding, API integrations, documentation, adoption and account ownership.",
     "notes": "Applied Oct 26, 2026 via ReadMe careers application, success confirmation received. Submitted targeted V3.3-based resume and personality-focused customized cover letter highlighting 40+ enterprise customers, AWS migration, customer engineering, APIs, authentication and hands-on problem solving. Role is remote US; compensation not published. Source: LinkedIn.",
     "jobUrl": "https://jobs.ashbyhq.com/readme/22b61ced-c1e2-4425-8a0d-231f4ebb3c8c"
+  },
+  {
+    "company": "Opensity Solutions",
+    "role": "Title pending - updated position under discussion",
+    "status": "Lead",
+    "appliedDate": "",
+    "rejectedDate": "",
+    "stage": "Preliminary call with Madhu Lakkundia pending; 45-minute interview with Nick Young being arranged",
+    "signal": "Nick Young, Executive Vice President, initiated contact following a LinkedIn networking post, reviewed resume, and advised that recruiting would arrange a preliminary call and an interview with him.",
+    "notes": "On Oct 26, 2026 Nick confirmed Madhu Lakkundia would contact Justin for a quick pre-call and send an updated description for an existing role being revised. Nick intends to schedule a 45-minute interview this week, date/time not yet confirmed. Networking lead, not a submitted job application. Source: direct LinkedIn outreach.",
+    "jobUrl": ""
   }
 
 ]);
