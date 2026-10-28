@@ -727,14 +727,17 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "Opensity Solutions",
-    "role": "Title pending - updated position under discussion",
-    "status": "Lead",
-    "appliedDate": "",
+    "role": "Director, Information Security",
+    "status": "Applied",
+    "appliedDate": "2026-10-28",
     "rejectedDate": "",
-    "stage": "Preliminary call with Madhu Lakkundia pending; 45-minute interview with Nick Young being arranged",
-    "signal": "Nick Young, Executive Vice President, initiated contact following a LinkedIn networking post, reviewed resume, and advised that recruiting would arrange a preliminary call and an interview with him.",
-    "notes": "On Oct 26, 2026 Nick confirmed Madhu Lakkundia would contact Justin for a quick pre-call and send an updated description for an existing role being revised. Nick intends to schedule a 45-minute interview this week, date/time not yet confirmed. Networking lead, not a submitted job application. Source: direct LinkedIn outreach.",
-    "jobUrl": ""
+    "stage": "Awaiting recruiter screen - 20-30 minute introductory call offered, not yet scheduled",
+    "signal": "Company executive personally reviewed resume and referred candidate for this specific Director role. Talent Acquisition contacted candidate directly, requested Workday submission, and invited a conversation.",
+    "notes": "Applied Oct 28, 2026 through Opensity Workday using Opensity-tailored V3.3-based Solutions Professional resume. Executive referral followed direct networking contact Oct 26. Recruiter offered 20-30 minute conversation Oct 28 or 29; no meeting confirmed yet. Potential 45-minute follow-up with executive was discussed, not scheduled. Managed security/SOC specialization is a stretch relative to technical operations and infrastructure leadership. Employer lists USA Remote; travel requirement not verified.",
+    "jobUrl": "https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Remote/Director--Information-Security_R-02504",
+    "source": "Referral",
+    "resumeStrategy": "V3.3 Targeted Custom",
+    "materials": "Opensity Solutions Professional resume"
   }
 
 ]);
