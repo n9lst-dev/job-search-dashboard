@@ -728,16 +728,30 @@ window.APPLICATIONS.push(...[
   {
     "company": "Opensity Solutions",
     "role": "Director, Information Security",
-    "status": "Applied",
+    "status": "Closed",
     "appliedDate": "2026-10-28",
     "rejectedDate": "",
-    "stage": "Awaiting recruiter screen - 20-30 minute introductory call offered, not yet scheduled",
-    "signal": "Company executive personally reviewed resume and referred candidate for this specific Director role. Talent Acquisition contacted candidate directly, requested Workday submission, and invited a conversation.",
-    "notes": "Applied Oct 28, 2026 through Opensity Workday using Opensity-tailored V3.3-based Solutions Professional resume. Executive referral followed direct networking contact Oct 26. Recruiter offered 20-30 minute conversation Oct 28 or 29; no meeting confirmed yet. Potential 45-minute follow-up with executive was discussed, not scheduled. Managed security/SOC specialization is a stretch relative to technical operations and infrastructure leadership. Employer lists USA Remote; travel requirement not verified.",
+    "stage": "Administrative correction - recruiter supplied wrong requisition",
+    "signal": "Executive referral led to a Workday application after Talent Acquisition supplied the Information Security link. Recruiter subsequently confirmed this was the wrong role and provided the Technical Engineering link.",
+    "notes": "Applied Oct 28, 2026 through Workday using the Opensity-tailored V3.3-based Solutions Professional resume. Later on Oct 28, Talent Acquisition clarified the Information Security link was sent in error and redirected candidate to the Director, Technical Engineering posting. Retained as an actual, mistakenly directed application for historical accuracy; administratively closed in tracker, not an employer rejection or a claim the vacancy itself closed. Source: executive referral.",
     "jobUrl": "https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Remote/Director--Information-Security_R-02504",
     "source": "Referral",
     "resumeStrategy": "V3.3 Targeted Custom",
     "materials": "Opensity Solutions Professional resume"
+  },
+  {
+    "company": "Opensity Solutions",
+    "role": "Director, Technical Engineering",
+    "status": "Lead",
+    "appliedDate": "",
+    "rejectedDate": "",
+    "stage": "Corrected application link received - submission not yet confirmed; recruiter call offered",
+    "signal": "Executive reviewed candidate's resume and referred candidate to Talent Acquisition. Recruiter clarified the Information Security link was erroneous and sent the corrected Technical Engineering requisition.",
+    "notes": "On Oct 28, 2026, Talent Acquisition supplied corrected Workday link and asked for a new application confirmation. Recruiter called role 'Director, Technical Engineering' but URL contains 'VP, Technical Engineering'; exact level/title should be verified. Recruiter offered a 20-30 minute call Oct 28 or 29; no time confirmed. A potential 45-minute executive interview was discussed earlier but not scheduled. Opensity-tailored V3.3-based resume available; not yet confirmed used for this specific requisition. Workday URL references Chicago; Indiana eligibility and travel <=35% need verification. Source: executive referral.",
+    "jobUrl": "https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Chicago-IL/VP--Technical-Engineering_R-02178-1",
+    "source": "Referral",
+    "resumeStrategy": "",
+    "materials": ""
   }
 
 ]);
