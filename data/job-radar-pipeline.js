@@ -3,7 +3,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "Boomi",
     "role": "Senior Presales Solutions Engineer, SLED",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/boomilp/jobs/6232832004"
   },
   {
@@ -11,6 +11,12 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Information Systems Engineer",
     "status": "Possible",
     "url": "https://cribl.io/job-detail/"
+  },
+  {
+    "company": "Redis",
+    "role": "Sr. Solution Architect",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/redis/1a295635-e352-4ae1-bbe1-ac922c62a587"
   },
   {
     "company": "Kong",
@@ -31,9 +37,15 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://jobs.ashbyhq.com/kong/8cfc63f7-7cab-4835-94ef-6614a7083878"
   },
   {
+    "company": "Kong",
+    "role": "Staff Technical Customer Success Manager",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/kong/032b7cf8-97dc-4610-8434-e7f4762e020d"
+  },
+  {
     "company": "Elastic",
     "role": "Sr. Solutions Architect - Strategic Central/East (Presales)",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://jobs.elastic.co/jobs"
   },
   {
@@ -43,45 +55,63 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://www.fivetran.com/careers/job"
   },
   {
+    "company": "Teleport",
+    "role": "Senior Technical Account Manager",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/goteleport/2efd60ae-eb92-410b-9fad-9e28b86a7723"
+  },
+  {
+    "company": "Grafana Labs",
+    "role": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6230151004"
+  },
+  {
+    "company": "Grafana Labs",
+    "role": "Solutions Engineer | PST or EST US | Remote",
+    "status": "Awaiting review",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004"
+  },
+  {
     "company": "proof",
     "role": "Principal Solutions Architect",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://www.proofserve.com/careers/4747875005"
   },
   {
     "company": "bakertilly",
     "role": "AI Solutions Engineer",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-WI-Milwaukee/AI-Solutions-Engineer_JR106470-1"
   },
   {
     "company": "illumio",
     "role": "Technical Account Manager",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/illumio/47cb8a57-c44e-426c-828a-ccdf4f60424e"
   },
   {
     "company": "illumio",
     "role": "Sr. Technical Account Manager",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/illumio/4eac1240-145c-4bcf-b40b-d9756c90e04c"
   },
   {
     "company": "firemon",
     "role": "Solutions Architect",
-    "status": "Priority",
+    "status": "Awaiting review",
     "url": "https://jobs.lever.co/firemon/6dafa7fe-f68e-4f62-b463-18f80901483b"
   },
   {
     "company": "toast",
     "role": "Mid-Market Retail Solutions Engineer",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://careers.toasttab.com/jobs"
   },
   {
     "company": "bakertilly",
     "role": "OneStream Solution Architect",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-DC-Washington-DC/OneStream-Solution-Architect_JR106553"
   },
   {
@@ -91,15 +121,9 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://jobs.ashbyhq.com/higgsfieldai/9fe9c9e3-1d57-4971-ae00-1b8046cb4b3a"
   },
   {
-    "company": "linkedinjobs",
-    "role": "Enterprise Technical Account Manager, AMER",
-    "status": "Priority",
-    "url": "https://job-boards.eu.greenhouse.io/linkedinjobs/jobs/5001608101"
-  },
-  {
     "company": "webai",
     "role": "Technical Account Manager",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/webai/7cc189a9-4d71-490a-84e7-aca4def1dbf5"
   },
   {
@@ -109,22 +133,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Director--Systems-Engineering---SaMD_Req-51332"
   },
   {
-    "company": "sophos",
-    "role": "Global Solutions Engineer",
-    "status": "Priority",
-    "url": "https://jobs.lever.co/sophos/286924f3-11cc-4de0-934e-4094ef99081f"
-  },
-  {
     "company": "eng",
     "role": "PLM Solution Architect",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://eng.wd3.myworkdayjobs.com/externalcareers/job/United-States/PLM-Solution-Architect_JR105388"
-  },
-  {
-    "company": "braze",
-    "role": "Lead Solutions Engineer, POC Operations",
-    "status": "Priority",
-    "url": "https://job-boards.greenhouse.io/braze/jobs/8211807"
   },
   {
     "company": "careers-uwmcareers",
@@ -134,26 +146,14 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "Fivetran",
-    "role": "Customer Solutions Architect (Denver)",
-    "status": "Priority",
-    "url": "https://www.fivetran.com/careers/job"
-  },
-  {
-    "company": "Fivetran",
     "role": "Customer Solutions Architect (NYC)",
-    "status": "Priority",
-    "url": "https://www.fivetran.com/careers/job"
-  },
-  {
-    "company": "Fivetran",
-    "role": "Sr. Customer Solutions Architect",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://www.fivetran.com/careers/job"
   },
   {
     "company": "Grafana Labs",
     "role": "Senior Solutions Engineer, Acquisition | West Coast | Remote",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236201004"
   },
   {
@@ -183,13 +183,13 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "icapitalnetwork",
     "role": ".NET Application and Solutions Architect - Assistant Vice President",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8909240002"
   },
   {
     "company": "allenintegratedsolutions",
     "role": "Systems Architect (Senior) Job #929",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/8039148003"
   }
 ];
