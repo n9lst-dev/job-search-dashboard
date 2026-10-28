@@ -1,12 +1,6 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
-    "company": "Temporal",
-    "role": "Staff Solutions Architect, Banking (Dallas)",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/temporal/c07bba44-5506-4b5b-a0e0-5367a18afe29"
-  },
-  {
     "company": "Boomi",
     "role": "Senior Presales Solutions Engineer, SLED",
     "status": "Possible",
@@ -17,12 +11,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Information Systems Engineer",
     "status": "Possible",
     "url": "https://cribl.io/job-detail/"
-  },
-  {
-    "company": "Redis",
-    "role": "Sr. Solution Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/redis/1a295635-e352-4ae1-bbe1-ac922c62a587"
   },
   {
     "company": "Kong",
@@ -43,12 +31,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://jobs.ashbyhq.com/kong/8cfc63f7-7cab-4835-94ef-6614a7083878"
   },
   {
-    "company": "Kong",
-    "role": "Staff Technical Customer Success Manager",
-    "status": "Priority",
-    "url": "https://jobs.ashbyhq.com/kong/032b7cf8-97dc-4610-8434-e7f4762e020d"
-  },
-  {
     "company": "Elastic",
     "role": "Sr. Solutions Architect - Strategic Central/East (Presales)",
     "status": "Possible",
@@ -57,26 +39,8 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "Fivetran",
     "role": "Senior Solutions Architect",
-    "status": "Priority",
+    "status": "Evaluated",
     "url": "https://www.fivetran.com/careers/job"
-  },
-  {
-    "company": "Teleport",
-    "role": "Senior Technical Account Manager",
-    "status": "Priority",
-    "url": "https://jobs.ashbyhq.com/goteleport/2efd60ae-eb92-410b-9fad-9e28b86a7723"
-  },
-  {
-    "company": "Grafana Labs",
-    "role": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
-    "status": "Priority",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6230151004"
-  },
-  {
-    "company": "Grafana Labs",
-    "role": "Solutions Engineer | PST or EST US | Remote",
-    "status": "Priority",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004"
   },
   {
     "company": "proof",
