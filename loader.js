@@ -22,6 +22,7 @@
       for (const file of applicationFiles) await load(file);
       for (const file of manifest.overrides || []) await load(file);
       if (manifest.weekly) await load(manifest.weekly);
+      if (manifest.pipeline) await load(manifest.pipeline);
       await load(manifest.app || "app.js");
     } catch (err) {
       console.error(err);

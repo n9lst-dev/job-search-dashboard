@@ -19,5 +19,6 @@ window.JOB_DATA_MANIFEST = {
     "data/overrides/part003.js"
   ],
   weekly: "data/job-radar-weekly.js",
+  pipeline: "data/job-radar-pipeline.js",
   app: "app.js"
 };

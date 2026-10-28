@@ -1,2 +1,1 @@
-// Populated only by an explicit Career-Ops sync; no individual records are stored here.
-window.JOB_RADAR_WEEKLY = null;
+window.JOB_RADAR_WEEKLY = {"weekStart":"2026-10-25","weekEnd":"2026-10-31","pipeline":{},"submissions":{"confirmed":0},"outcomes":{},"responses":{"recruiterResponses":0},"stages":{},"followUps":{},"resumeStrategies":{}};
