@@ -18,5 +18,6 @@ window.JOB_DATA_MANIFEST = {
     "data/overrides/part002.js",
     "data/overrides/part003.js"
   ],
+  weekly: "data/job-radar-weekly.js",
   app: "app.js"
 };
