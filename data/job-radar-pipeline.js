@@ -191,5 +191,11 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Systems Architect (Senior) Job #929",
     "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/8039148003"
+  },
+  {
+    "company": "Airbyte",
+    "role": "Senior Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/airbyte/cbf66746-9e2a-4b23-a208-a6d78eb5ec63"
   }
 ];
