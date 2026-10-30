@@ -1,6 +1,12 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
+    "company": "base-power",
+    "role": "Hardware Integration Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/base-power/5d6afa58-09be-40ce-b89c-c8baea08a38c"
+  },
+  {
     "company": "airbyte",
     "role": "Senior Technical Account Manager",
     "status": "Evaluated",
@@ -251,12 +257,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "IT Systems Engineer",
     "status": "Possible",
     "url": "https://careers-aluminumdynamics.icims.com/jobs/8075/it-systems-engineer/job"
-  },
-  {
-    "company": "Huntress",
-    "role": "Technical Account Manager II",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/huntress/jobs/8044660003"
   },
   {
     "company": "Huntress",
