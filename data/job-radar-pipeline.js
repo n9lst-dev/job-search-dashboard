@@ -1,9 +1,21 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
+    "company": "aegis-ai",
+    "role": "Customer Engineer/Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/aegis-ai/c5f07542-1fef-4911-b1ae-39df51012605"
+  },
+  {
+    "company": "apex-technology-inc",
+    "role": "Lead Mission Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/f25065c5-8ce0-4424-b797-f9159737995b"
+  },
+  {
     "company": "base-power",
     "role": "Hardware Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/base-power/5d6afa58-09be-40ce-b89c-c8baea08a38c"
   },
   {
@@ -21,7 +33,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "bedrock-robotics",
     "role": "Systems Engineer, Safety",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/bedrock-robotics/18001e6d-4431-4da4-8484-d2a46926f625"
   },
   {
@@ -33,13 +45,13 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "1password",
     "role": "Senior Enterprise Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/1password/363ebcb3-897b-4266-8734-aa7592bd532d"
   },
   {
     "company": "42dot",
     "role": "Sr. Vehicle Operations & Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/42dot/15512e15-01a4-44fd-843d-012746ada1c5"
   },
   {
@@ -75,25 +87,25 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "abbott",
     "role": "Systems Engineer II",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---St-Paul/Systems-Engineer-II_31165097-1"
   },
   {
     "company": "aero",
     "role": "Commercial LEO Development Program (CLDP) Integrated Systems Test & Validation/Systems Engineering & Integration (SE&I) Senior Project Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/Remote---US/Commercial-LEO-Development-Program--CLDP--Integrated-Systems-Test---Validation-Systems-Engineering---Integration--SE-I--Senior-Project-Engineer_R016992"
   },
   {
     "company": "abbott",
     "role": "Staff Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---St-Paul/Staff-Systems-Engineer_31164906"
   },
   {
     "company": "abbott",
     "role": "Staff Software Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Pleasanton/Staff-Software-Systems-Engineer_31165400-1"
   },
   {
@@ -101,12 +113,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Data Solutions Architect - Remote",
     "status": "Evaluated",
     "url": "https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Data-Solutions-Architect---Remote_R8044"
-  },
-  {
-    "company": "abb",
-    "role": "Process Systems Engineer, Pulp & Paper",
-    "status": "Possible",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Westerville/Systems-Engineer-Pulp-Paper-and-Fiber_JR00045530"
   },
   {
     "company": "adobe",
@@ -123,7 +129,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "abbott",
     "role": "Senior Software Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Software-Integration-Engineer_31163894"
   },
   {
@@ -135,7 +141,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "abb",
     "role": "Senior Power Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Senior-Lead-Electrical-Engineer_JR00039556"
   },
   {
@@ -147,7 +153,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "abbott",
     "role": "Principal OT Systems Engineer - Columbus, OH",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Principal-OT-Systems-Engineer---Columbus--OH_31163476"
   },
   {
@@ -159,7 +165,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "adobe",
     "role": "Senior AI Systems Engineer — C++ / Applied AI",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-AI-Systems-Engineer---C-----Applied-AI_R170076"
   },
   {
@@ -171,13 +177,13 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "akumincorp",
     "role": "Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://akumincorp.wd5.myworkdayjobs.com/akumincareers/job/Tennessee-Remote-Worker/Integration-Engineer_2026-7720-1"
   },
   {
     "company": "abacustech",
     "role": "Systems Engineer",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://careers-abacustech.icims.com/jobs/8984/systems-engineer/job"
   },
   {
@@ -189,7 +195,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "amtrustgroup",
     "role": "Director, Systems Engineering",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://careers-amtrustgroup.icims.com/jobs/21122/director%2c-systems-engineering/job"
   },
   {
@@ -201,7 +207,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "abacustech",
     "role": "Sr. Systems Integration Engineer",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://careers-abacustech.icims.com/jobs/8977/sr.-systems-integration-engineer/job"
   },
   {
@@ -218,12 +224,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "allnativegroup",
-    "role": "Systems Engineer",
-    "status": "Possible",
-    "url": "https://careers-allnativegroup.icims.com/jobs/10776/systems-engineer/job"
-  },
-  {
-    "company": "allnativegroup",
     "role": "EAM Solutions Architect",
     "status": "Awaiting review",
     "url": "https://careers-allnativegroup.icims.com/jobs/10773/eam-solutions-architect/job"
@@ -231,31 +231,31 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "abacustech",
     "role": "System Interoperability and Integration Engineer",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://careers-abacustech.icims.com/jobs/8959/system-interoperability-and-integration-engineer/job"
   },
   {
     "company": "abacustech",
     "role": "Multimedia Systems Engineer III",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://careers-abacustech.icims.com/jobs/8945/multimedia-systems-engineer-iii/job"
   },
   {
     "company": "abacustech",
     "role": "Sr. Systems Engineer",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://careers-abacustech.icims.com/jobs/8941/sr.-systems-engineer/job"
   },
   {
     "company": "alexleecareers-alexlee",
     "role": "Retail Systems Engineer III - location Aiken, SC",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://alexleecareers-alexlee.icims.com/jobs/141501/retail-systems-engineer-iii---location-aiken%2c-sc/job"
   },
   {
     "company": "aluminumdynamics",
     "role": "IT Systems Engineer",
-    "status": "Possible",
+    "status": "Awaiting review",
     "url": "https://careers-aluminumdynamics.icims.com/jobs/8075/it-systems-engineer/job"
   },
   {
@@ -267,7 +267,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "agecareers",
     "role": "Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/agecareers/jobs/5462786008"
   },
   {
@@ -279,7 +279,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "2k",
     "role": "Build Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/2k/jobs/8006916003"
   },
   {
@@ -297,7 +297,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "airbnb",
     "role": "Staff Workday Integration Engineer, Tech Foundations",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://careers.airbnb.com/positions/8202878"
   },
   {
@@ -327,7 +327,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "agiloft",
     "role": "Senior Product Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.lever.co/agiloft/6ba4a078-b3e2-40a1-b132-3fd1ed32b2f3"
   },
   {
@@ -357,7 +357,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "coderabbit",
     "role": "Staff GTM Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/coderabbit/a40336da-00c0-41a5-a545-187e006dd421"
   },
   {
@@ -375,7 +375,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "clarium",
     "role": "Data Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/clarium/0ee517d6-6579-4c8d-9562-10785c638a23"
   },
   {
@@ -393,13 +393,13 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "charge-robotics",
     "role": "Senior Robotics Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/charge-robotics/c2dd1643-7e5f-49a7-b63c-b1effdc6ae10"
   },
   {
     "company": "cognition",
     "role": "GTM Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/cognition/dabc56df-b50a-4056-9e01-14ca3e0b12a4"
   },
   {
@@ -423,7 +423,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "cape",
     "role": "Lead Distributed Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/cape/7d19a584-40c0-47ea-9729-53a82d70a625"
   },
   {
@@ -483,25 +483,25 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "aptiv",
     "role": "Radar Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/Sr-Radar-Systems-Engineer_J000702036"
   },
   {
     "company": "aptiv",
     "role": "Senior System Engineer - Core Kernel",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Senior-System-Engineer---Core-Kernel_J000702271"
   },
   {
     "company": "asml",
     "role": "Vacuum Systems Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Vaccum-Systems-Engineer_J-00351740"
   },
   {
     "company": "asml",
     "role": "Vacuum System Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Vacuum-System-Engineer_J-00349793"
   },
   {
@@ -531,13 +531,13 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "aptiv",
     "role": "Vehicle System Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Vehicle-System-Integration-Engineer_J000705591"
   },
   {
     "company": "asml",
     "role": "Sr. Engineer, SEM Systems Engineering",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Sr-Engineer--SEM-Systems-Engineering_J-00353722"
   },
   {
@@ -549,7 +549,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "altera",
     "role": "Full Chip Timing Modeling and Integration Engineer",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Full-Chip-Timing-Modeling-and-Integration-Engineer_R03228"
   },
   {
@@ -597,7 +597,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "aritzia",
     "role": "Digital - Integration Engineer / Senior Integration Engineer (Backend & API Platforms)",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://aritzia.wd3.myworkdayjobs.com/external/job/Seattle-WA-USA-SO---Seattle/Digital---Senior-Integration-Developer_R0023845"
   }
 ];
