@@ -343,12 +343,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Elastic",
     "role": "Sr Customer Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-24",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-10-30",
+    "stage": "Application-stage rejection received Oct 30, 2026",
     "signal": "Strong fit across enterprise customer architecture, trusted technical advisory, AWS/Linux/networking/APIs, production troubleshooting, adoption, escalations, and cross-functional work with Sales, Support, Product, Engineering, and Delivery. Primary ramp area is direct Elastic Stack experience.",
-    "notes": "Applied Sep 24, 2026 using a V3.3 Light Tailor resume and tailored DOCX cover letter. Posted compensation is $107,500-$170,100 base plus $46,000-$72,800 target variable, for $153,500-$242,900 OTE on a 70/30 pay mix, plus stock eligibility. Elastic/ELK experience was not claimed.",
+    "notes": "Applied Sep 24, 2026 using a V3.3 Light Tailor resume and tailored DOCX cover letter. Posted compensation is $107,500-$170,100 base plus $46,000-$72,800 target variable, for $153,500-$242,900 OTE on a 70/30 pay mix, plus stock eligibility. Elastic/ELK experience was not claimed. Oct 30, 2026: Elastic recruiting sent standard rejection email for Sr. Customer Architect. No specific reason or feedback provided.",
     "jobUrl": ""
   },
   {
