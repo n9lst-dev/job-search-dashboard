@@ -189,7 +189,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "abacustech",
     "role": "Cyberspace Defense Analysis Infrastructure Architect",
-    "status": "Priority",
+    "status": "Awaiting review",
     "url": "https://careers-abacustech.icims.com/jobs/9010/cyberspace-defense-analysis-infrastructure-architect/job"
   },
   {
@@ -201,13 +201,13 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "abacustech",
     "role": "Enterprise Architect",
-    "status": "Priority",
+    "status": "Awaiting review",
     "url": "https://careers-abacustech.icims.com/jobs/8983/enterprise-architect/job"
   },
   {
     "company": "adspipe",
     "role": "Director Enterprise Architecture",
-    "status": "Priority",
+    "status": "Awaiting review",
     "url": "https://careers-adspipe.icims.com/jobs/22299/director-enterprise-architecture/job"
   },
   {
@@ -219,7 +219,7 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "allnativegroup",
     "role": "EAM Solutions Architect",
-    "status": "Priority",
+    "status": "Awaiting review",
     "url": "https://careers-allnativegroup.icims.com/jobs/10773/eam-solutions-architect/job"
   },
   {
