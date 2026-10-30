@@ -747,7 +747,7 @@ window.APPLICATIONS.push(...[
     "rejectedDate": "",
     "stage": "Recruiter screen completed Oct 30; hiring-team interview to be scheduled Nov 2 or 3",
     "signal": "Recruiter screen completed Oct 30 following direct executive referral. Recruiter plans next meeting with hiring team; calendar invite pending.",
-    "notes": "Applied to corrected Technical Engineering requisition Oct 28. Recruiter intro call completed Oct 30, 2026. Recruiter indicated four direct reports and minimal travel; next hiring-team discussion is being arranged for Monday Nov 2 or Tuesday Nov 3, not yet confirmed. Executive initiated referral after reviewing resume. Workday title says VP Technical Engineering while recruiter refers to Director; verify final title. No candidate compensation details recorded.",
+    "notes": "Applied to corrected Technical Engineering requisition Oct 28. Recruiter screen completed Oct 30. Recruiter confirmed role would have four direct reports, all individual contributors (not managers); expects a hands-on technical leader who can challenge Solutions Architects and independently review/vet their proposed solutions. Recruiter described travel as minimal. Hiring-team interview proposed for Monday Nov 2 or Tuesday Nov 3; time not yet confirmed. Referral initiated by executive after reviewing resume. Recruiter refers to Director but Workday URL says VP Technical Engineering; official title remains to be verified. No candidate compensation expectation recorded.",
     "jobUrl": "https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Chicago-IL/VP--Technical-Engineering_R-02178-1",
     "source": "Referral",
     "resumeStrategy": "",
