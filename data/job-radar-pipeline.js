@@ -1,288 +1,6 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
-    "company": "Kong",
-    "role": "Staff Solutions Engineer - Central",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/kong/9414e99c-00a5-4386-8c18-e68ff4b03ab3"
-  },
-  {
-    "company": "Kong",
-    "role": "Staff Solutions Engineer - West",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/kong/8cfc63f7-7cab-4835-94ef-6614a7083878"
-  },
-  {
-    "company": "Kong",
-    "role": "Staff Technical Customer Success Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/kong/032b7cf8-97dc-4610-8434-e7f4762e020d"
-  },
-  {
-    "company": "Elastic",
-    "role": "Sr. Solutions Architect - Strategic Central/East (Presales)",
-    "status": "Awaiting review",
-    "url": "https://jobs.elastic.co/jobs"
-  },
-  {
-    "company": "Fivetran",
-    "role": "Senior Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://www.fivetran.com/careers/job"
-  },
-  {
-    "company": "Teleport",
-    "role": "Senior Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/goteleport/2efd60ae-eb92-410b-9fad-9e28b86a7723"
-  },
-  {
-    "company": "Grafana Labs",
-    "role": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6230151004"
-  },
-  {
-    "company": "Grafana Labs",
-    "role": "Solutions Engineer | PST or EST US | Remote",
-    "status": "Awaiting review",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004"
-  },
-  {
-    "company": "proof",
-    "role": "Principal Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://www.proofserve.com/careers/4747875005"
-  },
-  {
-    "company": "bakertilly",
-    "role": "AI Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-WI-Milwaukee/AI-Solutions-Engineer_JR106470-1"
-  },
-  {
-    "company": "illumio",
-    "role": "Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/illumio/47cb8a57-c44e-426c-828a-ccdf4f60424e"
-  },
-  {
-    "company": "illumio",
-    "role": "Sr. Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/illumio/4eac1240-145c-4bcf-b40b-d9756c90e04c"
-  },
-  {
-    "company": "firemon",
-    "role": "Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://jobs.lever.co/firemon/6dafa7fe-f68e-4f62-b463-18f80901483b"
-  },
-  {
-    "company": "toast",
-    "role": "Mid-Market Retail Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://careers.toasttab.com/jobs"
-  },
-  {
-    "company": "bakertilly",
-    "role": "OneStream Solution Architect",
-    "status": "Evaluated",
-    "url": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-DC-Washington-DC/OneStream-Solution-Architect_JR106553"
-  },
-  {
-    "company": "higgsfieldai",
-    "role": "Systems Engineer (Ironclad), Legal Ops",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/higgsfieldai/9fe9c9e3-1d57-4971-ae00-1b8046cb4b3a"
-  },
-  {
-    "company": "webai",
-    "role": "Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/webai/7cc189a9-4d71-490a-84e7-aca4def1dbf5"
-  },
-  {
-    "company": "edwards",
-    "role": "Director, Systems Engineering - SaMD",
-    "status": "Possible",
-    "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Director--Systems-Engineering---SaMD_Req-51332"
-  },
-  {
-    "company": "eng",
-    "role": "PLM Solution Architect",
-    "status": "Evaluated",
-    "url": "https://eng.wd3.myworkdayjobs.com/externalcareers/job/United-States/PLM-Solution-Architect_JR105388"
-  },
-  {
-    "company": "careers-uwmcareers",
-    "role": "Systems Engineer III",
-    "status": "Possible",
-    "url": "https://careers-uwmcareers.icims.com/jobs/16059/systems-engineer-iii/job"
-  },
-  {
-    "company": "Fivetran",
-    "role": "Customer Solutions Architect (NYC)",
-    "status": "Evaluated",
-    "url": "https://www.fivetran.com/careers/job"
-  },
-  {
-    "company": "Grafana Labs",
-    "role": "Senior Solutions Engineer, Acquisition | West Coast | Remote",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236201004"
-  },
-  {
-    "company": "allenintegratedsolutions",
-    "role": "Systems Engineer (Expert) Job# 934",
-    "status": "Possible",
-    "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/8048173003"
-  },
-  {
-    "company": "allenintegratedsolutions",
-    "role": "Systems Engineer (Senior), Job#933",
-    "status": "Possible",
-    "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/8047626003"
-  },
-  {
-    "company": "allenintegratedsolutions",
-    "role": "Systems Engineer (Expert) #931",
-    "status": "Possible",
-    "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/8047364003"
-  },
-  {
-    "company": "allenintegratedsolutions",
-    "role": "Systems Engineer (Senior) Job #560",
-    "status": "Possible",
-    "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/6064976003"
-  },
-  {
-    "company": "icapitalnetwork",
-    "role": ".NET Application and Solutions Architect - Assistant Vice President",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8909240002"
-  },
-  {
-    "company": "allenintegratedsolutions",
-    "role": "Systems Architect (Senior) Job #929",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/8039148003"
-  },
-  {
-    "company": "Airbyte",
-    "role": "Senior Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/airbyte/cbf66746-9e2a-4b23-a208-a6d78eb5ec63"
-  },
-  {
-    "company": "avalanchefusion",
-    "role": "Senior System Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/avalanchefusion/60120d5a-4ce8-4c0e-9b61-567eabce732a"
-  },
-  {
-    "company": "avalanchefusion",
-    "role": "Test Infrastructure Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/avalanchefusion/7594b568-1d97-4d5b-8696-fd8f9706a036"
-  },
-  {
-    "company": "apex-technology-inc",
-    "role": "Senior Mission Integration Engineer - SV Design",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/7a32dd20-ce4f-4fc7-b4bf-34fd712f03f5"
-  },
-  {
-    "company": "apex-technology-inc",
-    "role": "Mission Integration Engineer - Payload I&T",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/8041b533-096c-4dfb-9b25-bc4957f130ef"
-  },
-  {
-    "company": "baseten",
-    "role": "Solutions Architect, EMEA",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/baseten/5a1a7b6c-646b-495c-911a-8fa435c78b6f"
-  },
-  {
-    "company": "bedrock-robotics",
-    "role": "Technical Program Manager, Data Products",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/34fabe31-bb3d-4ce0-98b0-a8301eefc8b3"
-  },
-  {
-    "company": "baseten",
-    "role": "IT Systems Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/baseten/64bdba5c-8cf6-473f-814c-1e86c8c66681"
-  },
-  {
-    "company": "42dot",
-    "role": "Cloud Infrastructure Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/42dot/905f1b60-158a-4aca-a3c3-376cbfdcefa9"
-  },
-  {
-    "company": "base-power",
-    "role": "Sr. Manufacturing Systems Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/base-power/94e19258-21d7-4213-a13c-ff9091bb88fa"
-  },
-  {
-    "company": "axion",
-    "role": "Senior Infrastructure Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/axion/bbf4a041-5933-47dc-9dda-c35f7e960598"
-  },
-  {
-    "company": "bedrock-robotics",
-    "role": "Hydraulics System Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/afbab0b0-0043-4f6a-80cf-247ee62ecbb4"
-  },
-  {
-    "company": "bedrock-robotics",
-    "role": "Electrical Systems Integration Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/83e6ab6f-70ff-4bde-bb02-8c320e54f9a7"
-  },
-  {
-    "company": "apex-technology-inc",
-    "role": "Senior Mission Integration Engineer - Payload I&T",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/b8d4f1cf-d404-470f-90e3-bc722afe8272"
-  },
-  {
-    "company": "bedrock-robotics",
-    "role": "Mechanical Systems Integration Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/9545f318-f2cc-45ad-ad56-5ee1fa8ddf86"
-  },
-  {
-    "company": "base-power",
-    "role": "GTM Systems Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/base-power/f2061575-5656-4117-88b5-8745d490da63"
-  },
-  {
-    "company": "august",
-    "role": "Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/august/99b98fc4-e925-4c36-8148-4716d7354703"
-  },
-  {
-    "company": "apex-technology-inc",
-    "role": "Staff Mission Integration Engineer - SV Design",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/a77db3c6-a623-4c4d-81c4-dbdefd21823f"
-  },
-  {
-    "company": "apex-technology-inc",
-    "role": "Mission Integration Engineer - SV Design",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/5df05676-0644-4c76-845f-4cf803eb0cca"
-  },
-  {
     "company": "1password",
     "role": "Staff Technical Account Manager",
     "status": "Evaluated",
@@ -383,6 +101,12 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Technical Account Manager",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/airbyte/44ea7c1a-a61b-4b41-bc41-009dd6349d83"
+  },
+  {
+    "company": "1password",
+    "role": "Principal Solutions Engineer, Emerging Technologies",
+    "status": "Awaiting review",
+    "url": "https://jobs.ashbyhq.com/1password/b141ee0c-30aa-42f8-8ff7-b353f7f9d060"
   },
   {
     "company": "bedrock-robotics",
@@ -599,5 +323,281 @@ window.JOB_RADAR_PIPELINE = [
     "role": "IT Systems Engineer",
     "status": "Possible",
     "url": "https://careers-aluminumdynamics.icims.com/jobs/8075/it-systems-engineer/job"
+  },
+  {
+    "company": "affirm",
+    "role": "Senior Technical Account Manager (Strategic Alliances)",
+    "status": "Awaiting review",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8044928003"
+  },
+  {
+    "company": "agecareers",
+    "role": "Systems Engineer",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/agecareers/jobs/5462786008"
+  },
+  {
+    "company": "3cloud",
+    "role": "Senior Principal Architect - Enterprise Solutions Architecture",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/3cloud/jobs/8626810002"
+  },
+  {
+    "company": "airbnb",
+    "role": "Staff Technical Program Manager, Infrastructure Security",
+    "status": "Evaluated",
+    "url": "https://careers.airbnb.com/positions/8286207"
+  },
+  {
+    "company": "2k",
+    "role": "Build Systems Engineer",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/2k/jobs/8006916003"
+  },
+  {
+    "company": "abacusinsights",
+    "role": "Solution Architect",
+    "status": "Evaluated",
+    "url": "https://boards.greenhouse.io/abacusinsights/jobs/8843373002"
+  },
+  {
+    "company": "2k",
+    "role": "Senior Manager, Infrastructure Engineering",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/2k/jobs/7994806003"
+  },
+  {
+    "company": "airbnb",
+    "role": "Staff Workday Integration Engineer, Tech Foundations",
+    "status": "Possible",
+    "url": "https://careers.airbnb.com/positions/8202878"
+  },
+  {
+    "company": "airbnb",
+    "role": "Senior Systems Engineer, Tech Foundations",
+    "status": "Evaluated",
+    "url": "https://careers.airbnb.com/positions/8197652"
+  },
+  {
+    "company": "aperturehealth",
+    "role": "Senior Cloud Infrastructure Engineer (AWS) (copy)",
+    "status": "Evaluated",
+    "url": "https://jobs.lever.co/aperturehealth/28ea16e9-4960-4b1d-9959-11ff9352993d"
+  },
+  {
+    "company": "agiloft",
+    "role": "Senior Product Integration Engineer",
+    "status": "Possible",
+    "url": "https://jobs.lever.co/agiloft/6ba4a078-b3e2-40a1-b132-3fd1ed32b2f3"
+  },
+  {
+    "company": "chainalysis-careers",
+    "role": "Solutions Architect",
+    "status": "Awaiting review",
+    "url": "https://jobs.ashbyhq.com/chainalysis-careers/c887c9fe-e9de-445a-9504-9d034465313e"
+  },
+  {
+    "company": "choco",
+    "role": "Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/choco/ea183e2b-a163-492f-86ae-b5aa0454d442"
+  },
+  {
+    "company": "canals",
+    "role": "Implementation Engineer - ERP Integrations",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/canals/d45d8f01-2ba1-4cca-af69-9af3d30c8861"
+  },
+  {
+    "company": "blissway",
+    "role": "Electrical or Embedded Systems Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/blissway/9cc9751f-5995-422b-baa9-3ac57f3d24e1"
+  },
+  {
+    "company": "coderabbit",
+    "role": "Staff GTM Systems Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/coderabbit/a40336da-00c0-41a5-a545-187e006dd421"
+  },
+  {
+    "company": "clickup",
+    "role": "Senior Technical Account Manager - Strategic Services",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/clickup/e5630b2c-1663-4c86-a230-625c0c09a191"
+  },
+  {
+    "company": "cape",
+    "role": "Technical Program Manager, Network",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/cape/ad2f6353-fff7-4153-af1d-e7a3674fdd82"
+  },
+  {
+    "company": "clarium",
+    "role": "Data Integration Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/clarium/0ee517d6-6579-4c8d-9562-10785c638a23"
+  },
+  {
+    "company": "charge-robotics",
+    "role": "Senior Robotics Integration Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/charge-robotics/c2dd1643-7e5f-49a7-b63c-b1effdc6ae10"
+  },
+  {
+    "company": "cognition",
+    "role": "GTM Systems Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/cognition/dabc56df-b50a-4056-9e01-14ca3e0b12a4"
+  },
+  {
+    "company": "collective",
+    "role": "Senior Cloud Infrastructure Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/collective/a0b0dcc0-f0d9-45c4-9ba5-31ac01bcd46b"
+  },
+  {
+    "company": "cogent-security",
+    "role": "Enterprise Technical Account Manager",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/cogent-security/394474c6-d922-4cfd-bd9a-ee86a4ec526c"
+  },
+  {
+    "company": "cape",
+    "role": "Lead Distributed Systems Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/cape/7d19a584-40c0-47ea-9729-53a82d70a625"
+  },
+  {
+    "company": "blissway",
+    "role": "Embedded Systems Engineer, Senior",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/blissway/6200a755-2d26-4971-bf3b-c443dbf1da78"
+  },
+  {
+    "company": "coder",
+    "role": "Senior Solutions Engineer (US Federal)",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/coder/a923d2a8-a994-4cc2-9c71-bc8e7d99f583"
+  },
+  {
+    "company": "coder",
+    "role": "Senior Solutions Engineer (US West)",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/coder/bc552c4c-4a8b-4995-a110-3d2822f07f03"
+  },
+  {
+    "company": "appliedis",
+    "role": "Cloud Architect",
+    "status": "Evaluated",
+    "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Cloud-Architect_JR2026001424"
+  },
+  {
+    "company": "allstate",
+    "role": "Digital Product Manager - Control Integration Engineering",
+    "status": "Possible",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager---Control-Integration-Engineering_R36421"
+  },
+  {
+    "company": "aptiv",
+    "role": "Embedded Systems Engineer",
+    "status": "Possible",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/Embedded-Systems-Engineer_J000702089"
+  },
+  {
+    "company": "aptiv",
+    "role": "Radar Systems Engineer",
+    "status": "Possible",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/Sr-Radar-Systems-Engineer_J000702036"
+  },
+  {
+    "company": "aptiv",
+    "role": "Senior System Engineer - Core Kernel",
+    "status": "Possible",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Senior-System-Engineer---Core-Kernel_J000702271"
+  },
+  {
+    "company": "asml",
+    "role": "Vacuum Systems Engineer",
+    "status": "Possible",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Vaccum-Systems-Engineer_J-00351740"
+  },
+  {
+    "company": "asml",
+    "role": "Vacuum System Engineer",
+    "status": "Possible",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Vacuum-System-Engineer_J-00349793"
+  },
+  {
+    "company": "alliance",
+    "role": "Principal Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Solutions-Architect-Sr_R00209629-1"
+  },
+  {
+    "company": "allstate",
+    "role": "Infrastructure Solutions Engineer Lead Consultant",
+    "status": "Evaluated",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---AZ-Remote/Infrastructure-Solutions-Engineer-Lead-Consultant_R35826-1"
+  },
+  {
+    "company": "allstate",
+    "role": "Infrastructure Solutions Engineer Senior Consultant II",
+    "status": "Evaluated",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---AZ-Remote/Infrastructure-Solutions-Engineer-Senior-Consultant-II_R35827-1"
+  },
+  {
+    "company": "aptiv",
+    "role": "Senior Solutions architect",
+    "status": "Evaluated",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Senior-Solutions-architect_J000705532"
+  },
+  {
+    "company": "aptiv",
+    "role": "Vehicle System Integration Engineer",
+    "status": "Possible",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Vehicle-System-Integration-Engineer_J000705591"
+  },
+  {
+    "company": "asml",
+    "role": "Sr. Engineer, SEM Systems Engineering",
+    "status": "Possible",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Sr-Engineer--SEM-Systems-Engineering_J-00353722"
+  },
+  {
+    "company": "altera",
+    "role": "Full Chip Timing Modeling and Integration Engineer",
+    "status": "Possible",
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Full-Chip-Timing-Modeling-and-Integration-Engineer_R03228"
+  },
+  {
+    "company": "allstate",
+    "role": "Enterprise Architect - Emerging Analytics",
+    "status": "Evaluated",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Enterprise-Architect---Emerging-Analytics_R35217"
+  },
+  {
+    "company": "altera",
+    "role": "Lead Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Lead-Technical-Program-Manager_R03288"
+  },
+  {
+    "company": "alteryx",
+    "role": "Sr. Solution Architect, Professional Services - Agentic AI",
+    "status": "Evaluated",
+    "url": "https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Sr-Solution-Architect--Professional-Services---Agentic-AI_R12518"
+  },
+  {
+    "company": "alteryx",
+    "role": "Lead Solution Architect, Professional Services - Agentic AI",
+    "status": "Evaluated",
+    "url": "https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Lead-Solution-Architect--Professional-Services---Agentic-AI_R12519"
+  },
+  {
+    "company": "aritzia",
+    "role": "Digital - Integration Engineer / Senior Integration Engineer (Backend & API Platforms)",
+    "status": "Possible",
+    "url": "https://aritzia.wd3.myworkdayjobs.com/external/job/Seattle-WA-USA-SO---Seattle/Digital---Senior-Integration-Developer_R0023845"
   }
 ];
