@@ -1,12 +1,6 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
-    "company": "base-power",
-    "role": "Hardware Integration Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/base-power/5d6afa58-09be-40ce-b89c-c8baea08a38c"
-  },
-  {
     "company": "airbyte",
     "role": "Senior Technical Account Manager",
     "status": "Evaluated",
@@ -47,6 +41,12 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Technical Solution Architect",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/benchling/65d30858-1165-4c3f-8ba1-38489fa2e63f"
+  },
+  {
+    "company": "assured",
+    "role": "Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/assured/c3b06f35-8b7d-4b85-b2f7-fefb1bae6e87"
   },
   {
     "company": "aes",
