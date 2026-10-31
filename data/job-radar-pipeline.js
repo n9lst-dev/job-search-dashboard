@@ -1,603 +1,603 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
-    "company": "aegis-ai",
-    "role": "Customer Engineer/Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/aegis-ai/c5f07542-1fef-4911-b1ae-39df51012605"
-  },
-  {
-    "company": "apex-technology-inc",
-    "role": "Lead Mission Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/f25065c5-8ce0-4424-b797-f9159737995b"
-  },
-  {
-    "company": "base-power",
-    "role": "Hardware Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/base-power/5d6afa58-09be-40ce-b89c-c8baea08a38c"
-  },
-  {
-    "company": "airbyte",
-    "role": "Senior Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/airbyte/44ea7c1a-a61b-4b41-bc41-009dd6349d83"
-  },
-  {
-    "company": "1password",
-    "role": "Principal Solutions Engineer, Emerging Technologies",
-    "status": "Awaiting review",
-    "url": "https://jobs.ashbyhq.com/1password/b141ee0c-30aa-42f8-8ff7-b353f7f9d060"
-  },
-  {
-    "company": "bedrock-robotics",
-    "role": "Systems Engineer, Safety",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/18001e6d-4431-4da4-8484-d2a46926f625"
-  },
-  {
-    "company": "airwallex",
-    "role": "Senior Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/airwallex/b8059bae-1a9e-4f4a-86f2-3eddb43d0d7e"
-  },
-  {
-    "company": "1password",
-    "role": "Senior Enterprise Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/1password/363ebcb3-897b-4266-8734-aa7592bd532d"
-  },
-  {
-    "company": "42dot",
-    "role": "Sr. Vehicle Operations & Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/42dot/15512e15-01a4-44fd-843d-012746ada1c5"
-  },
-  {
-    "company": "benchling",
-    "role": "Technical Solution Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/benchling/65d30858-1165-4c3f-8ba1-38489fa2e63f"
-  },
-  {
-    "company": "assured",
-    "role": "Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/assured/c3b06f35-8b7d-4b85-b2f7-fefb1bae6e87"
-  },
-  {
-    "company": "aes",
-    "role": "Solutions Engineer – Systems Integration (BESS)",
-    "status": "Evaluated",
-    "url": "https://aes.wd1.myworkdayjobs.com/aes_clean_energy/job/US-Louisville-CO/Solutions-Engineer---Systems-Integration--BESS-_R1065126-2"
-  },
-  {
-    "company": "aes",
-    "role": "Senior Solutions Engineer – Systems Integration (BESS)",
-    "status": "Evaluated",
-    "url": "https://aes.wd1.myworkdayjobs.com/aes_clean_energy/job/US-Louisville-CO/Senior-Solutions-Engineer---Systems-Integration_R1063460"
-  },
-  {
-    "company": "abbott",
-    "role": "Head of Enterprise Architecture",
-    "status": "Evaluated",
-    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Wisconsin---Madison/Head-of-Enterprise-Architecture_31161473"
-  },
-  {
-    "company": "abbott",
-    "role": "Systems Engineer II",
-    "status": "Evaluated",
-    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---St-Paul/Systems-Engineer-II_31165097-1"
-  },
-  {
-    "company": "aero",
-    "role": "Commercial LEO Development Program (CLDP) Integrated Systems Test & Validation/Systems Engineering & Integration (SE&I) Senior Project Engineer",
-    "status": "Evaluated",
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Remote---US/Commercial-LEO-Development-Program--CLDP--Integrated-Systems-Test---Validation-Systems-Engineering---Integration--SE-I--Senior-Project-Engineer_R016992"
-  },
-  {
-    "company": "abbott",
-    "role": "Staff Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---St-Paul/Staff-Systems-Engineer_31164906"
-  },
-  {
-    "company": "abbott",
-    "role": "Staff Software Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Pleasanton/Staff-Software-Systems-Engineer_31165400-1"
-  },
-  {
-    "company": "aaaie",
-    "role": "Data Solutions Architect - Remote",
-    "status": "Evaluated",
-    "url": "https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Data-Solutions-Architect---Remote_R8044"
-  },
-  {
-    "company": "adobe",
-    "role": "Senior Enterprise Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Senior-Enterprise-Technical-Account-Manager_R172593"
-  },
-  {
-    "company": "acrisure",
-    "role": "Lead Integration Architect, Finance Systems Automation",
-    "status": "Evaluated",
-    "url": "https://acrisure.wd1.myworkdayjobs.com/acrisure/job/100-Ottawa-Ave-Sw----GRAND-RAPIDS-MI/Lead-Integration-Architect--Finance-Systems-Automation_JR114572"
-  },
-  {
-    "company": "abbott",
-    "role": "Senior Software Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Software-Integration-Engineer_31163894"
-  },
-  {
-    "company": "alkami",
-    "role": "Sr. Implementation Engineer (MANTL)",
+    "company": "andurilindustries",
+    "role": "Systems Engineer - Missile Defense",
     "status": "Possible",
-    "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Sr-Implementation-Engineer--MANTL-_JR-000900"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272035007"
   },
   {
-    "company": "abb",
-    "role": "Senior Power Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Senior-Lead-Electrical-Engineer_JR00039556"
-  },
-  {
-    "company": "alkami",
-    "role": "Sr. Solution Architect, Integrations (MANTL)",
-    "status": "Evaluated",
-    "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Sr-Solution-Architect--Integrations--MANTL-_JR-000897"
-  },
-  {
-    "company": "abbott",
-    "role": "Principal OT Systems Engineer - Columbus, OH",
-    "status": "Evaluated",
-    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Principal-OT-Systems-Engineer---Columbus--OH_31163476"
-  },
-  {
-    "company": "adobe",
-    "role": "Enterprise Architect",
-    "status": "Evaluated",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Enterprise-Architect_R161570"
-  },
-  {
-    "company": "adobe",
-    "role": "Senior AI Systems Engineer — C++ / Applied AI",
-    "status": "Evaluated",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-AI-Systems-Engineer---C-----Applied-AI_R170076"
-  },
-  {
-    "company": "accenture",
-    "role": "Azure Enterprise Architect - Full Stack & AI Solutions",
-    "status": "Evaluated",
-    "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Chicago-Accenture-Tower-Corp/Azure-Enterprise-Architect---Full-Stack---AI-Solutions_R00355631"
-  },
-  {
-    "company": "akumincorp",
-    "role": "Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://akumincorp.wd5.myworkdayjobs.com/akumincareers/job/Tennessee-Remote-Worker/Integration-Engineer_2026-7720-1"
-  },
-  {
-    "company": "abacustech",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-abacustech.icims.com/jobs/8984/systems-engineer/job"
-  },
-  {
-    "company": "abilegroup",
-    "role": "Cybersecurity Implementation Engineer",
+    "company": "andurilindustries",
+    "role": "Systems Engineer - Machine Learning",
     "status": "Possible",
-    "url": "https://careers-abilegroup.icims.com/jobs/3662/cybersecurity-implementation-engineer/job"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272037007"
   },
   {
-    "company": "amtrustgroup",
-    "role": "Director, Systems Engineering",
-    "status": "Awaiting review",
-    "url": "https://careers-amtrustgroup.icims.com/jobs/21122/director%2c-systems-engineering/job"
+    "company": "andurilindustries",
+    "role": "Quality Systems Engineer, Battlespace Awareness",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236058007"
   },
   {
-    "company": "abacustech",
-    "role": "Cyberspace Defense Analysis Infrastructure Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-abacustech.icims.com/jobs/9010/cyberspace-defense-analysis-infrastructure-architect/job"
-  },
-  {
-    "company": "abacustech",
-    "role": "Sr. Systems Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-abacustech.icims.com/jobs/8977/sr.-systems-integration-engineer/job"
-  },
-  {
-    "company": "abacustech",
-    "role": "Enterprise Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-abacustech.icims.com/jobs/8983/enterprise-architect/job"
-  },
-  {
-    "company": "adspipe",
-    "role": "Director Enterprise Architecture",
-    "status": "Awaiting review",
-    "url": "https://careers-adspipe.icims.com/jobs/22299/director-enterprise-architecture/job"
-  },
-  {
-    "company": "allnativegroup",
-    "role": "EAM Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-allnativegroup.icims.com/jobs/10773/eam-solutions-architect/job"
-  },
-  {
-    "company": "abacustech",
-    "role": "System Interoperability and Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-abacustech.icims.com/jobs/8959/system-interoperability-and-integration-engineer/job"
-  },
-  {
-    "company": "abacustech",
-    "role": "Multimedia Systems Engineer III",
-    "status": "Awaiting review",
-    "url": "https://careers-abacustech.icims.com/jobs/8945/multimedia-systems-engineer-iii/job"
-  },
-  {
-    "company": "abacustech",
-    "role": "Sr. Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-abacustech.icims.com/jobs/8941/sr.-systems-engineer/job"
-  },
-  {
-    "company": "alexleecareers-alexlee",
-    "role": "Retail Systems Engineer III - location Aiken, SC",
-    "status": "Awaiting review",
-    "url": "https://alexleecareers-alexlee.icims.com/jobs/141501/retail-systems-engineer-iii---location-aiken%2c-sc/job"
-  },
-  {
-    "company": "aluminumdynamics",
-    "role": "IT Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-aluminumdynamics.icims.com/jobs/8075/it-systems-engineer/job"
-  },
-  {
-    "company": "Huntress",
-    "role": "Technical Account Manager III",
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer - Maritime Enabling Technology",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/huntress/jobs/8044692003"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251195007"
   },
   {
-    "company": "agecareers",
-    "role": "Systems Engineer",
+    "company": "altentechnologyusa",
+    "role": "Automotive Electrical Systems Engineer",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5271786007"
+  },
+  {
+    "company": "altentechnologyusa",
+    "role": "Technical Program Manager (Automotive)",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/agecareers/jobs/5462786008"
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5271758007"
   },
   {
-    "company": "airbnb",
-    "role": "Staff Technical Program Manager, Infrastructure Security",
+    "company": "altentechnologyusa",
+    "role": "Systems Architect",
     "status": "Evaluated",
-    "url": "https://careers.airbnb.com/positions/8286207"
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5271735007"
   },
   {
-    "company": "2k",
-    "role": "Build Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/2k/jobs/8006916003"
-  },
-  {
-    "company": "abacusinsights",
-    "role": "Solution Architect",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/abacusinsights/jobs/8843373002"
-  },
-  {
-    "company": "2k",
-    "role": "Senior Manager, Infrastructure Engineering",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/2k/jobs/7994806003"
-  },
-  {
-    "company": "airbnb",
-    "role": "Staff Workday Integration Engineer, Tech Foundations",
-    "status": "Evaluated",
-    "url": "https://careers.airbnb.com/positions/8202878"
-  },
-  {
-    "company": "affirm",
-    "role": "Staff Technical Program Manager, Engineering Onboarding",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7984707003"
-  },
-  {
-    "company": "airbnb",
-    "role": "Senior Systems Engineer, Tech Foundations",
-    "status": "Evaluated",
-    "url": "https://careers.airbnb.com/positions/8197652"
-  },
-  {
-    "company": "affirm",
-    "role": "Senior Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832310003"
-  },
-  {
-    "company": "aperturehealth",
-    "role": "Senior Cloud Infrastructure Engineer (AWS) (copy)",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/aperturehealth/28ea16e9-4960-4b1d-9959-11ff9352993d"
-  },
-  {
-    "company": "agiloft",
-    "role": "Senior Product Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/agiloft/6ba4a078-b3e2-40a1-b132-3fd1ed32b2f3"
-  },
-  {
-    "company": "choco",
+    "company": "alphasense",
     "role": "Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/choco/ea183e2b-a163-492f-86ae-b5aa0454d442"
+    "status": "Awaiting review",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8515925002"
   },
   {
-    "company": "butterflymx",
-    "role": "Sr. Technical Program Manager, Hardware",
+    "company": "andurilindustries",
+    "role": "Staff Technical Program Manager, Cross Domain Solutions",
     "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/butterflymx/79bb8c20-eeda-4acd-8994-f0ffb9dfc8e9"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269798007"
   },
   {
-    "company": "canals",
-    "role": "Implementation Engineer - ERP Integrations",
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer, RVTM",
+    "status": "Evaluated",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267911007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Lead Quality Systems Engineer - Maritime",
     "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/canals/d45d8f01-2ba1-4cca-af69-9af3d30c8861"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269559007"
   },
   {
-    "company": "blissway",
-    "role": "Electrical or Embedded Systems Engineer",
+    "company": "andurilindustries",
+    "role": "2027 Early Career Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268883007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "CAD Systems Architect",
+    "status": "Evaluated",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262845007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineering Integration and Test Lead, Maritime",
     "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/blissway/9cc9751f-5995-422b-baa9-3ac57f3d24e1"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267902007"
   },
   {
-    "company": "coderabbit",
-    "role": "Staff GTM Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/coderabbit/a40336da-00c0-41a5-a545-187e006dd421"
-  },
-  {
-    "company": "clickup",
-    "role": "Senior Technical Account Manager - Strategic Services",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/clickup/e5630b2c-1663-4c86-a230-625c0c09a191"
-  },
-  {
-    "company": "cape",
-    "role": "Technical Program Manager, Network",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/cape/ad2f6353-fff7-4153-af1d-e7a3674fdd82"
-  },
-  {
-    "company": "clarium",
-    "role": "Data Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/clarium/0ee517d6-6579-4c8d-9562-10785c638a23"
-  },
-  {
-    "company": "chromatic",
-    "role": "Senior Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/chromatic/c94c54b0-8d9b-43c4-8d86-5aa01c75c5f5"
-  },
-  {
-    "company": "clickup",
-    "role": "Senior Technical Account Manager - Customer Success (AMER)",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/clickup/f0763501-cbdd-498d-91a3-c88e4e3b93a0"
-  },
-  {
-    "company": "charge-robotics",
-    "role": "Senior Robotics Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/charge-robotics/c2dd1643-7e5f-49a7-b63c-b1effdc6ae10"
-  },
-  {
-    "company": "cognition",
-    "role": "GTM Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/cognition/dabc56df-b50a-4056-9e01-14ca3e0b12a4"
-  },
-  {
-    "company": "collective",
-    "role": "Senior Cloud Infrastructure Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/collective/a0b0dcc0-f0d9-45c4-9ba5-31ac01bcd46b"
-  },
-  {
-    "company": "candidhealth",
-    "role": "Technical Program Manager - Implementation",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/candidhealth/0fd5d4d9-e011-4ec6-9976-c40ddcab8e30"
-  },
-  {
-    "company": "cogent-security",
-    "role": "Enterprise Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/cogent-security/394474c6-d922-4cfd-bd9a-ee86a4ec526c"
-  },
-  {
-    "company": "cape",
-    "role": "Lead Distributed Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/cape/7d19a584-40c0-47ea-9729-53a82d70a625"
-  },
-  {
-    "company": "blissway",
-    "role": "Embedded Systems Engineer, Senior",
+    "company": "andurilindustries",
+    "role": "Vehicle Battery Systems Engineer",
     "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/blissway/6200a755-2d26-4971-bf3b-c443dbf1da78"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267767007"
   },
   {
-    "company": "coder",
-    "role": "Senior Solutions Engineer (US Federal)",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/coder/a923d2a8-a994-4cc2-9c71-bc8e7d99f583"
-  },
-  {
-    "company": "cohere",
-    "role": "Technical Program Manager, AI Delivery",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e"
-  },
-  {
-    "company": "coder",
-    "role": "Senior Solutions Engineer (US West)",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/coder/bc552c4c-4a8b-4995-a110-3d2822f07f03"
-  },
-  {
-    "company": "chainalysis-careers",
-    "role": "Senior Solutions Architect (FDE) - Intelligence",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/chainalysis-careers/45f29aaf-f9d7-437d-ba36-fec94d137ab1"
-  },
-  {
-    "company": "cape",
-    "role": "Technical Program Manager, Security",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/cape/b15f165f-8bc2-474f-8c83-748f43397221"
-  },
-  {
-    "company": "appliedis",
-    "role": "Cloud Architect",
-    "status": "Evaluated",
-    "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Cloud-Architect_JR2026001424"
-  },
-  {
-    "company": "allstate",
-    "role": "Digital Product Manager - Control Integration Engineering",
+    "company": "archer56",
+    "role": "Sr. Systems Engineer",
     "status": "Possible",
-    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager---Control-Integration-Engineering_R36421"
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/8035779003"
   },
   {
-    "company": "aptiv",
-    "role": "Embedded Systems Engineer",
+    "company": "andurilindustries",
+    "role": "Classified Systems Engineer",
     "status": "Possible",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/Embedded-Systems-Engineer_J000702089"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267122007"
   },
   {
-    "company": "aptiv",
-    "role": "Radar Systems Engineer",
+    "company": "anaplan",
+    "role": "Sr. Solution Architect",
     "status": "Evaluated",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/Sr-Radar-Systems-Engineer_J000702036"
+    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8890869002"
   },
   {
-    "company": "aptiv",
-    "role": "Senior System Engineer - Core Kernel",
+    "company": "andurilindustries",
+    "role": "Electromechanical Integration Engineer - Air Vehicles",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5266468007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Technical Program Manager, Advanced Targeting Systems",
     "status": "Evaluated",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Senior-System-Engineer---Core-Kernel_J000702271"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262878007"
   },
   {
-    "company": "asml",
-    "role": "Vacuum Systems Engineer",
+    "company": "andurilindustries",
+    "role": "Hardware Systems Integration Engineer",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5266146007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Systems Engineer, Software Defined Weapons Optic",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265744007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Mechanical Launch Integration Engineer, Space",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236381007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Infrastructure Engineer",
     "status": "Evaluated",
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Vaccum-Systems-Engineer_J-00351740"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5264403007"
   },
   {
-    "company": "asml",
-    "role": "Vacuum System Engineer",
+    "company": "andurilindustries",
+    "role": "Senior Technical Program Manager - Lethality Team",
     "status": "Evaluated",
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Vacuum-System-Engineer_J-00349793"
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205664007"
   },
   {
-    "company": "alliance",
-    "role": "Principal Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Solutions-Architect-Sr_R00209629-1"
+    "company": "andurilindustries",
+    "role": "2027 Early Career Systems Engineer",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007"
   },
   {
-    "company": "allstate",
-    "role": "Infrastructure Solutions Engineer Lead Consultant",
-    "status": "Evaluated",
-    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---AZ-Remote/Infrastructure-Solutions-Engineer-Lead-Consultant_R35826-1"
+    "company": "andurilindustries",
+    "role": "Senior Quality System Engineer",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261681007"
   },
   {
-    "company": "allstate",
-    "role": "Infrastructure Solutions Engineer Senior Consultant II",
-    "status": "Evaluated",
-    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---AZ-Remote/Infrastructure-Solutions-Engineer-Senior-Consultant-II_R35827-1"
+    "company": "andurilindustries",
+    "role": "Senior AI Infrastructure Engineer, Physical Infrastructure",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5227989007"
   },
   {
-    "company": "aptiv",
-    "role": "Senior Solutions architect",
-    "status": "Evaluated",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Senior-Solutions-architect_J000705532"
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer, Maritime",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5258836007"
   },
   {
-    "company": "aptiv",
-    "role": "Vehicle System Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Vehicle-System-Integration-Engineer_J000705591"
+    "company": "andurilindustries",
+    "role": "Staff Mission Systems Engineer, Electronic Assemblies, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260298007"
   },
   {
-    "company": "asml",
-    "role": "Sr. Engineer, SEM Systems Engineering",
-    "status": "Evaluated",
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Sr-Engineer--SEM-Systems-Engineering_J-00353722"
+    "company": "andurilindustries",
+    "role": "Systems Engineering Manager, Mission Autonomy",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260288007"
   },
   {
-    "company": "aptiv",
-    "role": "Edge Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Boston-MA---USA/Senior-Solutions-Architect_J000698020"
+    "company": "amperesand",
+    "role": "Technical Program Manager, Data Center Power Systems",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4426329009"
   },
   {
-    "company": "altera",
-    "role": "Full Chip Timing Modeling and Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Full-Chip-Timing-Modeling-and-Integration-Engineer_R03228"
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249099007"
   },
   {
-    "company": "altera",
+    "company": "andurilindustries",
+    "role": "Systems Engineer",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223625007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Mission Systems Engineer, Electronic Warfare, Air Dominance & Strike, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5258927007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Mission Systems Engineer, Electronic Warfare, Air Dominance & Strike, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5258924007"
+  },
+  {
+    "company": "altentechnologyusa",
+    "role": "HIL Bench setup & Integration Engineer",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5257451007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, Army (CUAS)",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256907007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Technical Program Manager, Omen Mission Systems",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239450007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Technical Program Manager, PMO",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256456007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Mission Systems Engineer, EO/IR Seekers",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256234007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Mission Systems Engineer, Antenna Lead",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256233007"
+  },
+  {
+    "company": "altentechnologyusa",
+    "role": "Software Integration Engineer - Lab Automation",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5255768007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Weapons Integration Engineer, Thunder",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235314007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, Enterprise Mesh (Active Clearance)",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232483007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer (Warfighter Systems)",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249396007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Technical Operations Specialist, Discovery",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248371007"
+  },
+  {
+    "company": "altentechnologyusa",
+    "role": "Technical Program Manager Interior Systems",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5253286007"
+  },
+  {
+    "company": "altentechnologyusa",
+    "role": "Staff Technical Program Manager — Android Framework & Projection Certification",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5253151007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Technical Program Manager, Maritime International Deployments",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252777007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Technical Program Manager, Autonomous Launchers",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252479007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff T&E Technical Program Manager, Strategic Defense",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251790007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Technical Program Manager, Program Protection",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247528007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, Spacecraft Operations (RPO)",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5250549007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Technical Program Manager, Core Technology",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249877007"
+  },
+  {
+    "company": "andurilindustries",
     "role": "Senior Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Senior-Technical-Program-Manager_R03296"
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246050007"
   },
   {
-    "company": "allstate",
-    "role": "Enterprise Architect - Emerging Analytics",
-    "status": "Evaluated",
-    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Enterprise-Architect---Emerging-Analytics_R35217"
+    "company": "andurilindustries",
+    "role": "Technical Program Manager",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202997007"
   },
   {
-    "company": "altera",
-    "role": "Lead Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Lead-Technical-Program-Manager_R03288"
+    "company": "andurilindustries",
+    "role": "Systems Engineer, Space Imaging",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248689007"
   },
   {
-    "company": "argonne",
-    "role": "AVTC Technical Operations and Battery Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/AVTC-Technical-Operations-and-Battery-Systems-Engineer_423510-1"
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer, Space Imaging",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248684007"
   },
   {
-    "company": "alteryx",
-    "role": "Sr. Solution Architect, Professional Services - Agentic AI",
-    "status": "Evaluated",
-    "url": "https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Sr-Solution-Architect--Professional-Services---Agentic-AI_R12518"
+    "company": "andurilindustries",
+    "role": "Senior AI Infrastructure Engineer",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248215007"
   },
   {
-    "company": "alteryx",
-    "role": "Lead Solution Architect, Professional Services - Agentic AI",
-    "status": "Evaluated",
-    "url": "https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Lead-Solution-Architect--Professional-Services---Agentic-AI_R12519"
+    "company": "andurilindustries",
+    "role": "Staff Technical Program Manager, Advanced Effects - Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247764007"
   },
   {
-    "company": "altera",
-    "role": "Workday Functional Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Workday-Functional-Solutions-Architect_R03249"
+    "company": "andurilindustries",
+    "role": "Technical Program Manager, Mission Systems - Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197347007"
   },
   {
-    "company": "aritzia",
-    "role": "Digital - Integration Engineer / Senior Integration Engineer (Backend & API Platforms)",
+    "company": "andurilindustries",
+    "role": "Senior Telecom Infrastructure Engineer",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241090007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Maritime Technical Operations Engineer",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5245866007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, Maritime",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242250007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineering Integration and Test Lead, IBCS-M",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241848007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, Air Defense",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242751007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer - Payload Module Lead",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235560007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Systems Engineer - Payload Lead",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235529007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Lead Systems Engineer, Mission Autonomy, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242181007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Systems Engineer, EW",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241731007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, EW",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241726007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior RF Mission Systems Engineer, Air Dominance & Strike, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239144007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Winter 2027 Systems Engineer Co-op",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007"
+  },
+  {
+    "company": "alphafmcroles",
+    "role": "Lead Solutions Architect",
     "status": "Evaluated",
-    "url": "https://aritzia.wd3.myworkdayjobs.com/external/job/Seattle-WA-USA-SO---Seattle/Digital---Senior-Integration-Developer_R0023845"
+    "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8811581002"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Systems Engineer, Strategic Defense",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226951007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer, Technology Release",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5238409007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Technical Program Manager, Connected Warfare (Active Clearance)",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235151007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer, AI Containerized Systems",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237929007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Electrical Integration Systems Engineer, Edge Compute and Communications, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236154007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Electrical Integration Systems Engineer, Edge Compute and Communications, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236153007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Electrical Integration Systems Engineer, Edge Compute and Communications, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5233989007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Systems Engineer, C2 Networking, Edge Compute and Communications, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236144007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer, C2 Networking, Edge Compute and Communications, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236143007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, C2 Networking, Edge Compute and Communications, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5233962007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Systems Engineer, C2 Integration, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236127007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer, C2 Integration, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236123007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, C2 Integration, Active Clearance",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5233972007"
+  },
+  {
+    "company": "altentechnologyusa",
+    "role": "Electrical Systems Engineer",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5235450007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Staff Technical Program Manager, Intelligence Systems",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235119007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Technical Program Manager, Intelligence Systems",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234912007"
+  },
+  {
+    "company": "altentechnologyusa",
+    "role": "Senior Logistics Systems Engineer",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5234039007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer, Intelligence Systems",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232496007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Systems Engineer (Integration & Test), Intelligence Systems",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232215007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer, Intelligence Systems",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232222007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Systems Engineer (Integration & Test), Intelligence Systems",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228694007"
+  },
+  {
+    "company": "altentechnologyusa",
+    "role": "Senior Systems Engineer",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5231060007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Deputy Technical Program Manager",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225971007"
+  },
+  {
+    "company": "andurilindustries",
+    "role": "Senior Technical Program Manager, ArsenalOS",
+    "status": "Possible",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229594007"
+  },
+  {
+    "company": "bellese",
+    "role": "Growth Solution Architect",
+    "status": "Evaluated",
+    "url": "https://jobs.lever.co/bellese/a71fa39e-3dc0-451e-8a5d-810020f3c40e"
   }
 ];
