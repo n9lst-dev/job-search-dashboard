@@ -1,6 +1,12 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
+    "company": "harvey",
+    "role": "Staff Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/harvey/9ea6dcda-7869-4181-b493-2822bbc14097"
+  },
+  {
     "company": "formance",
     "role": "Solutions Engineer, Ledger",
     "status": "Evaluated",
@@ -101,12 +107,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Staff Software Systems Engineer",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/formenergy/7e308d89-4c08-4de8-b6b3-f12cf06e0c1d"
-  },
-  {
-    "company": "flowengineering",
-    "role": "Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://jobs.ashbyhq.com/flowengineering/dc3891be-d3a1-4a74-b997-15c4de87ae58"
   },
   {
     "company": "graymatter-robotics",
