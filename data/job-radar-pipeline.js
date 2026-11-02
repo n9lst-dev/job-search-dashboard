@@ -1,6 +1,156 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
+    "company": "backblaze",
+    "role": "Sr. Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/backblaze/jobs/5440590008"
+  },
+  {
+    "company": "axon",
+    "role": "Business Systems Architect – Finance (D365 FO)",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/axon/jobs/8011899003"
+  },
+  {
+    "company": "axon",
+    "role": "Senior Hardware Systems Engineer – Counter-UAS (Onsite)",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7600731003"
+  },
+  {
+    "company": "avepoint",
+    "role": "Channel Solution Engineer",
+    "status": "Evaluated",
+    "url": "https://www.avepoint.com/careers/job-detail"
+  },
+  {
+    "company": "astspacemobile",
+    "role": "Associate RF System Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://ast-science.com/company/careers/"
+  },
+  {
+    "company": "axon",
+    "role": "Senior Technical Program Manager II - AI",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7933317003"
+  },
+  {
+    "company": "astspacemobile",
+    "role": "Infrastructure Engineer - NOC (Service Assurance)",
+    "status": "Evaluated",
+    "url": "https://ast-science.com/company/careers/"
+  },
+  {
+    "company": "backblaze",
+    "role": "Sr. Technical Program Manager (Security)",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/backblaze/jobs/5422975008"
+  },
+  {
+    "company": "astspacemobile",
+    "role": "Launch Campaign Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://ast-science.com/company/careers/"
+  },
+  {
+    "company": "attaintalent",
+    "role": "Director, Business Systems & Solution Architecture (D365 F&O)",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/attaintalent/jobs/5419986008"
+  },
+  {
+    "company": "brillio-2",
+    "role": "Enterprise Architect - R01571847",
+    "status": "Evaluated",
+    "url": "https://jobs.lever.co/brillio-2/38f3186a-0256-4b52-a218-12b37fea91f0"
+  },
+  {
+    "company": "cardiosense",
+    "role": "Head of Technical Operations and Clinical Engineering",
+    "status": "Evaluated",
+    "url": "https://jobs.lever.co/cardiosense/e4496ee0-ab5b-4ed7-afb9-8098d0237397"
+  },
+  {
+    "company": "cfgi",
+    "role": "AI Solutions Architecture - Managing Director",
+    "status": "Evaluated",
+    "url": "https://jobs.lever.co/cfgi/9e5965b2-f453-474b-8d95-72dc63453093"
+  },
+  {
+    "company": "fleetworks",
+    "role": "Head of Solutions Engineering",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/fleetworks/071c9585-0355-466c-a673-74b269f8141e"
+  },
+  {
+    "company": "go-nimbly",
+    "role": "RevOps Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/go-nimbly/12798834-7310-477e-ad91-fed15c0ec8c9"
+  },
+  {
+    "company": "hadrian-automation",
+    "role": "Technical Program Manager, Manufacturing Operations",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/hadrian-automation/f1323d3d-ddbf-4ea7-9093-1051caa08ccf"
+  },
+  {
+    "company": "fluidstack",
+    "role": "Security Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/fluidstack/d361fe45-3c3d-4d7c-9f03-716dcc6884df"
+  },
+  {
+    "company": "harvey",
+    "role": "Senior Infrastructure Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/harvey/54770fc2-8dc0-4812-bfc5-0f4d628b97d9"
+  },
+  {
+    "company": "formenergy",
+    "role": "Lead System Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/formenergy/4653eaa3-f681-45fb-ba57-abb90e1eb19c"
+  },
+  {
+    "company": "factory",
+    "role": "Regional Director, Solutions Engineering, Enterprise",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/factory/e14aa79f-d498-4fdd-a299-cb8927641876"
+  },
+  {
+    "company": "formenergy",
+    "role": "Senior Staff Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/formenergy/018bb73d-a291-4eb9-a29e-ab040f0b9a06"
+  },
+  {
+    "company": "havocai",
+    "role": "Vehicle Autonomy Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/havocai/a5644e94-3367-4040-9b36-62a76efcb8da"
+  },
+  {
+    "company": "halobraid",
+    "role": "Principal Mechanical Engineer / Systems Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/halobraid/7bc13219-088f-48aa-96da-c5f4f12a44ba"
+  },
+  {
+    "company": "gallatin",
+    "role": "Infrastructure Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/gallatin/cdf53060-0a24-4c07-93db-fd8c793266b8"
+  },
+  {
+    "company": "gallatin",
+    "role": "Senior Director, Solutions Architecture",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/gallatin/a4c4fdf3-4247-4c65-a220-7738447429ec"
+  },
+  {
     "company": "harvey",
     "role": "Staff Technical Program Manager",
     "status": "Evaluated",
@@ -107,6 +257,12 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Staff Software Systems Engineer",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/formenergy/7e308d89-4c08-4de8-b6b3-f12cf06e0c1d"
+  },
+  {
+    "company": "gridcare",
+    "role": "Principal Power Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/gridcare/61c3a627-f5a8-4952-817f-19e5be993e95"
   },
   {
     "company": "graymatter-robotics",
@@ -225,8 +381,8 @@ window.JOB_RADAR_PIPELINE = [
   {
     "company": "boeing",
     "role": "Systems Engineering Manager",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Systems-Engineering-Manager_JR2026527375"
+    "status": "Evaluated",
+    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Systems-Engineering-Manager_JR2026528206"
   },
   {
     "company": "boeing",
@@ -350,18 +506,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "boeing",
-    "role": "Software Systems Engineer",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Software-Systems-Engineer_JR2026524316"
-  },
-  {
-    "company": "borgwarner",
-    "role": "Electronics and Controls System Engineer",
-    "status": "Possible",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Arden---North-Carolina---USA/Electronics-and-Controls-System-Engineer_R2026-3694"
-  },
-  {
-    "company": "boeing",
     "role": "Senior Systems Engineer - Product Owner",
     "status": "Evaluated",
     "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Senior-Systems-Engineer---Product-Owner_JR2026520526-1"
@@ -373,40 +517,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Mission-Systems-Engineers--Associate-or-Experienced-_JR2026526246"
   },
   {
-    "company": "boeing",
-    "role": "Senior Weapon System Integration Engineer",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Senior-Weapon-System-Integration-Engineer_JR2026522415"
-  },
-  {
     "company": "canadiansolar",
     "role": "Technical Solutions Engineer",
     "status": "Evaluated",
     "url": "https://canadiansolar.wd5.myworkdayjobs.com/estorage/job/US---Remote/Technical-Solutions-Engineer_10001538"
-  },
-  {
-    "company": "carrier",
-    "role": "Director Systems Engineering- Data Centers",
-    "status": "Possible",
-    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/Florida-US-Remote/Director-Systems-Engineering--Data-Centers_30203663"
-  },
-  {
-    "company": "boeing",
-    "role": "Simulation Integration Engineer (Experienced or Senior)",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Long-Beach-CA/Simulation-Integration-Engineer--Experienced-or-Senior-_JR2026525270"
-  },
-  {
-    "company": "bpinternational",
-    "role": "Senior Production Systems Engineer",
-    "status": "Possible",
-    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpcareers/job/United-States-of-America---Colorado---Denver/Senior-Production-Systems-Engineer_RQ117460"
-  },
-  {
-    "company": "boeing",
-    "role": "Modeling and Simulation Systems Engineer (Mid-Level or Senior)",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/tap2/job/USA---Albuquerque-NM/Modeling-and-Simulation-Systems-Engineer--Mid-Level-or-Senior-_JR2026496140-4"
   },
   {
     "company": "boeing",
@@ -433,66 +547,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-IL-Remote-Location/Global-Solution-Architect---Automation---Remote_R027402"
   },
   {
-    "company": "carrier",
-    "role": "New Product Development – Refrigeration Systems Engineer",
-    "status": "Possible",
-    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/New-Product-Development---Refrigeration-Systems-Engineer_30218137"
-  },
-  {
-    "company": "carrier",
-    "role": "New Product Development – Sr. Refrigeration Systems Engineer",
-    "status": "Possible",
-    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/New-Product-Development---Sr-Refrigeration-Systems-Engineer_30218136"
-  },
-  {
-    "company": "broadcom",
-    "role": "RF System Engineer",
-    "status": "Possible",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-California--San-Jose---1730-Fox-Drive/RF-System-Engineer_R027112"
-  },
-  {
-    "company": "boeing",
-    "role": "787 Cabin Systems Engineer - Experienced or Senior",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---North-Charleston-SC/XMLNAME-787-Cabin-Systems-Engineer---Experienced-or-Senior_JR2026499295"
-  },
-  {
-    "company": "boeing",
-    "role": "Systems Engineer - Sys Architecting, Requirements & Interfaces (Experienced, Lead)",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Systems-Engineer---Sys-Architecting--Requirements---Interfaces--Experienced--Lead-_JR2026524087-2"
-  },
-  {
-    "company": "boeing",
-    "role": "Mid-level Ground Systems Engineer for MILSATCOM Program",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Mid-level-Ground-Systems-Engineer-for-MILSATCOM-Program_JR2026507793"
-  },
-  {
-    "company": "boeing",
-    "role": "Systems Engineer - Digital Signal Processing (Associate or Mid-level)",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026502195-1"
-  },
-  {
-    "company": "boeing",
-    "role": "Experienced Systems Engineer - Product Owner",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Experienced-Systems-Engineer---Product-Owner_JR2026512628"
-  },
-  {
-    "company": "boeing",
-    "role": "Lead Integration Engineer - Career / Expert (Anti-Tamper)",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Lead-Integration-Engineer---Career---Expert--Anti-Tamper-_JR2026519684"
-  },
-  {
-    "company": "boeing",
-    "role": "IT Systems Engineer - Millennium Space Systems",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/tap2/job/USA---El-Segundo-CA/IT-Systems-Engineer---Millennium-Space-Systems_JR2026526283-3"
-  },
-  {
     "company": "boeing",
     "role": "ASIC Subsystem Engineer (Mid-level or Lead)",
     "status": "Possible",
@@ -500,27 +554,9 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "boeing",
-    "role": "Propulsion Systems Engineer, Mid-Career and Senior",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/tap2/job/USA---Kennedy-Space-Center-FL/Propulsion-Systems-Engineer--Mid-Career-and-Senior_JR2026522546-3"
-  },
-  {
-    "company": "boeing",
     "role": "Senior Cloud Solution Architect",
     "status": "Evaluated",
     "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Senior-Cloud-Solution-Architect_JR2026513827"
-  },
-  {
-    "company": "boeing",
-    "role": "Associate or Mid-level Ground Systems Engineer for MILSATCOM Program",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Associate-or-Mid-level-Ground-Systems-Engineer-for-MILSATCOM-Program_JR2026523943-1"
-  },
-  {
-    "company": "boeing",
-    "role": "Lead or Senior Satellite Systems Ground Systems Engineer",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Lead-or-Senior-Satellite-Systems-Ground-Systems-Engineer_JR2026517918"
   },
   {
     "company": "boeing",
@@ -541,40 +577,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---North-Charleston-SC/Customer-Engineers--Experienced-and-Senior-_JR2026526523"
   },
   {
-    "company": "capitalone",
-    "role": "Integration Engineer 4 (IBM MQ)",
-    "status": "Possible",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Integration-Engineer-4--IBM-MQ-_R1003272-1"
-  },
-  {
-    "company": "boeing",
-    "role": "Lead Software Systems Engineer",
-    "status": "Possible",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Lead-Software-Systems-Engineer_JR2026526897"
-  },
-  {
-    "company": "cboe",
-    "role": "Sr. Information Security Engineer (Systems Engineer)",
-    "status": "Possible",
-    "url": "https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Kansas-City-MO/Sr-Information-Security-Engineer_R-4384-1"
-  },
-  {
-    "company": "campingworld",
-    "role": "Payment Systems Engineer",
-    "status": "Possible",
-    "url": "https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/Payment-Systems-Engineer_26_08685-1"
-  },
-  {
     "company": "campbellsoup",
     "role": "BTP Solution Engineer",
     "status": "Evaluated",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/BTP-Solution-Engineer_Req-68452"
-  },
-  {
-    "company": "carrier",
-    "role": "Integration Engineer - Abound",
-    "status": "Possible",
-    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAFLO-Carrier-Home-Florida-Remote-Location-Remote-City-FL-33412-USA/Integration-Engineer---Abound_30218403"
   },
   {
     "company": "canadiansolar",
@@ -583,15 +589,9 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://canadiansolar.wd5.myworkdayjobs.com/estorage/job/US---Remote/Sr-Technical-Solutions-Engineer_10001502"
   },
   {
-    "company": "bracco",
-    "role": "Manager, Systems Engineering - Bracco Medical Technologies",
-    "status": "Possible",
-    "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Manager--Systems-Engineering---Bracco-Medical-Technologies_JR100375"
-  },
-  {
     "company": "boseallaboutme",
     "role": "Software Integration Engineer - Audio Technology",
-    "status": "Possible",
+    "status": "Evaluated",
     "url": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Software-Integration-Engineer---Audio-Technology_R29231"
   },
   {
