@@ -1,603 +1,603 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
-    "company": "intercom",
-    "role": "Senior Manager, Solutions Engineering",
+    "company": "ngc",
+    "role": "Principal Systems Engineer",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/8338105"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/Principal-Systems-Engineer_R10255042-1"
   },
   {
-    "company": "gongio",
-    "role": "AI Enterprise Architect",
+    "company": "ngc",
+    "role": "Systems Engineering Manager 3",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gongio/jobs/4723250006"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/Systems-Engineering-Manager-3_R10257514"
   },
   {
-    "company": "hypori",
-    "role": "Technical Account Manager, Federal",
+    "company": "ngc",
+    "role": "Staff Systems Engineer (Part-Time)",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/hypori/jobs/6238934004"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Missouri-Whiteman-AFB/Staff-Systems-Engineer--Part-Time-_R10253760"
   },
   {
-    "company": "hypori",
-    "role": "Technical Account Manager, Commercial",
+    "company": "ngc",
+    "role": "HW Requirements Systems Engineer (Level 2 or Level 3)",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/hypori/jobs/6238922004"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/HW-Requirements-Systems-Engineer---Level-2-or-Level-3-_R10256044"
   },
   {
-    "company": "grvty",
-    "role": "Senior SIGINT Systems Engineer",
+    "company": "pfizer",
+    "role": "Cell Culture Technical Operations Specialist II",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/grvty/jobs/4470314009"
+    "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---New-York---Pearl-River/Cell-Culture-Technical-Operations-Specialist-II_4965503-2"
   },
   {
-    "company": "gitlab",
-    "role": "Senior Professional Services Engineer - PubSec",
+    "company": "ngc",
+    "role": "Sentinel Systems Engineering Manager 2 - NH&S C&L Design Support - 12730-2",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8838394002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Systems-Engineering-Manager-2---NH-S-C-L-Design-Support---12730-2_R10257269"
   },
   {
-    "company": "gitlab",
-    "role": "Senior Solutions Architect - East Enterprise team",
+    "company": "ngc",
+    "role": "Senior Principal Systems Engineer - State Estimation and Target Tracking",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8906915002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/Senior-Principal-Systems-Engineer---State-Estimation-and-Target-Tracking_R10239092"
   },
   {
-    "company": "gomotive",
-    "role": "Senior Manager, Commercial Solutions Engineering (Nashville or Austin)",
+    "company": "ngc",
+    "role": "Electrical Engineering Systems Architect - 6",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8913574002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Electrical-Engineering-Systems-Architect---6_R10257319"
   },
   {
-    "company": "ionq",
-    "role": "Staff Technical Program Manager",
+    "company": "ngc",
+    "role": "Space Principal/ Sr. Principal Launch and Operations Systems Engineer (AHT)",
     "status": "Evaluated",
-    "url": "https://ionq.com/job"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/Space-Principal--Sr-Principal-Launch-and-Operations-Systems-Engineer--AHT-_R10244454"
   },
   {
-    "company": "gomotive",
-    "role": "Senior Technical Program Manager",
+    "company": "ngc",
+    "role": "Staff Principal Systems Engineer 5",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8899524002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Charlottesville/Staff-Principal-Systems-Engineer-5_R10257351"
   },
   {
-    "company": "gitlab",
-    "role": "Solutions Architect - SLED (West)",
+    "company": "ngc",
+    "role": "Software Systems Engineer - Level 3/4 (AHT)",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907130002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Software-Systems-Engineer---Level-3-4--AHT-_R10257232"
   },
   {
-    "company": "gitlab",
-    "role": "Sr. Manager, Solutions Architect - SMB",
+    "company": "ngc",
+    "role": "Director Systems Engineering 2 - I&S BU Chief Engineer/ Mission 1 SE&I IPT Lead",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886626002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Director-Systems-Engineering-2---I-S-BU-Chief-Engineer--Mission-1-SE-I-IPT-Lead_R10257258"
   },
   {
-    "company": "imc",
-    "role": "Systems Engineer - Global Development Platform",
+    "company": "ngc",
+    "role": "Staff PLM Systems Architect - 19785*",
     "status": "Evaluated",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/5004989101"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Staff-PLM-Systems-Architect---19785-_R10257366"
   },
   {
-    "company": "highmetric",
-    "role": "ServiceNow Solution Architect - FSO, CSM",
+    "company": "ngc",
+    "role": "Sentinel - Principal Systems Engineer - 19830",
     "status": "Evaluated",
-    "url": "https://www.newrocket.com/careers/job"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Principal-Systems-Engineer---19830_R10257505"
   },
   {
-    "company": "industrialelectricmanufacturing",
-    "role": "Power Solution Architect – California & West Region USA",
+    "company": "owensminor",
+    "role": "Sr. Data Solution Architect",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4457701009"
+    "url": "https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---US/Sr-Data-Solution-Architect_REQ_26_33940"
   },
   {
-    "company": "gitlab",
-    "role": "Staff Solutions Architect, AI Subject Matter Expert",
+    "company": "ngc",
+    "role": "System Engineer 2 / 3",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886426002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Corinne/System-Engineer-2---3_R10257288"
   },
   {
-    "company": "instacart",
-    "role": "Senior Software Engineer II, Ads Data Solutions Engineering",
+    "company": "ngc",
+    "role": "Manufacturing Systems Engineer - Level 4",
     "status": "Evaluated",
-    "url": "https://instacart.careers/job/"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/Manufacturing-Systems-Engineer---Level-4_R10254130-1"
   },
   {
-    "company": "grvty",
-    "role": "Systems Engineer",
+    "company": "ngc",
+    "role": "Systems Engineer (Obsolescence) -- IBCS Poland (NAREW)",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/grvty/jobs/4401877009"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Systems-Engineer---Obsolescence------IBCS-Poland--NAREW-_R10257151"
   },
   {
-    "company": "gitlab",
-    "role": "Senior Solutions Architect Operations Manager",
+    "company": "ngc",
+    "role": "Cyber Systems Engineer",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770661002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/Cyber-Systems-Engineer_R10257152"
   },
   {
-    "company": "icapitalnetwork",
-    "role": "Sales Solutions Engineer - Associate",
+    "company": "ngc",
+    "role": "Staff Cyber Systems Engineer",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8861304002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/Staff-Cyber-Systems-Engineer_R10254019"
   },
   {
-    "company": "hypori",
-    "role": "Systems Integration Engineer",
+    "company": "ngc",
+    "role": "Senior Principal Safety Systems Engineer",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/hypori/jobs/6220076004"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/Senior-Principal-Safety-Systems-Engineer_R10257255"
   },
   {
-    "company": "gitlab",
-    "role": "Senior Professional Services Engineer - PubSec - US Only",
+    "company": "ngc",
+    "role": "Sentinel Principal/Sr Principal Systems Engineer - 18980*",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8838331002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Principal-Sr-Principal-Systems-Engineer---18980-_R10257092"
   },
   {
-    "company": "gitlab",
-    "role": "Senior Director, Global SME Solutions Architecture",
+    "company": "ngc",
+    "role": "Sr. Principal PLM Systems Architect - 19873*",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8862046002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sr-Principal-PLM-Systems-Architect---19873-_R10256736"
   },
   {
-    "company": "jrc",
-    "role": "Missile Integration Engineer (Flight to Shipboard Integration Engineer)",
+    "company": "nttlimited",
+    "role": "Senior Solutions Architect",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/jrc/jobs/4436511009"
+    "url": "https://nttlimited.wd3.myworkdayjobs.com/internal_employees_not_on_workday/job/Texas-United-States-of-America/Senior-Solutions-Architect_R-151359"
   },
   {
-    "company": "googlefiber",
-    "role": "Technical Program Manager, Colocation Service Delivery & Management",
+    "company": "ngc",
+    "role": "Systems Engineering Manager 2",
     "status": "Evaluated",
-    "url": "https://fiber.google.com/careers/job/"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Systems-Engineering-Manager-2_R10256060"
   },
   {
-    "company": "humaninterest",
-    "role": "Senior Technical Program Manager",
+    "company": "ngc",
+    "role": "Sr. Staff Systems Engineer (RF Communications)",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8237089"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/Sr-Staff-Systems-Engineer--RF-Communications-_R10245985-1"
   },
   {
-    "company": "inversionspace",
-    "role": "Parachute Systems Engineer II",
+    "company": "ngc",
+    "role": "Sentinel - Systems Engineer - Power & Distribution (Levels T03/T04) - 20015",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4740204005"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer---Power---Distribution--Levels-T03-T04----20015_R10254602"
   },
   {
-    "company": "hyliion",
-    "role": "Technical Program Manager",
+    "company": "ngc",
+    "role": "Sentinel - Principal/Sr. Principal Systems Engineer - 20419",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/hyliion/jobs/6216185004"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Principal-Sr-Principal-Systems-Engineer----20419_R10256160"
   },
   {
-    "company": "inversionspace",
-    "role": "Technical Program Manager II",
+    "company": "ngc",
+    "role": "Sentinel Flight Test Design Review Campaign Lead- Systems Engineering Manager 3- 20479",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4739081005"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Flight-Test-Design-Review-Campaign-Lead--Systems-Engineering-Manager-3--20479_R10256859"
   },
   {
-    "company": "interpayments",
-    "role": "Solutions Architect",
+    "company": "ngc",
+    "role": "Systems Engineer Integration Lead - Level 5",
     "status": "Evaluated",
-    "url": "https://interpayments.com/who-we-are/careers/"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Systems-Engineer-Integration-Lead---Level-5_R10256669"
   },
   {
-    "company": "harnessinc",
-    "role": "Forward Deployed Engineer (Implementation Engineering)",
+    "company": "ngc",
+    "role": "Systems Engineer 4 - RF Communications - Space AHT",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Systems-Engineer-4---RF-Communications---Space-AHT_R10248533"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer - Level 4 (AHT)",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Systems-Engineer---Level-4--AHT-_R10256883"
+  },
+  {
+    "company": "ngc",
+    "role": "Space Vehicle Systems Engineer – Level 5",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Space-Vehicle-Systems-Engineer---Level-5_R10256277"
+  },
+  {
+    "company": "ngc",
+    "role": "Cyber Systems Engineer - Level 4",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Cyber-Systems-Engineer---Level-4_R10256652"
+  },
+  {
+    "company": "rb",
+    "role": "Sr. Integration Architect",
+    "status": "Evaluated",
+    "url": "https://rb.wd5.myworkdayjobs.com/frs/job/San-Francisco-CA/Sr-Integration-Architect_R-0000033239-2"
+  },
+  {
+    "company": "ngc",
+    "role": "Sentinel - Sr. Staff Systems Engineer - 19221",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Sentinel---Sr-Staff-Systems-Engineer---19221_R10256941"
+  },
+  {
+    "company": "ngc",
+    "role": "Certified TEMPEST Professional Level I or II (Staff Systems Engineer Level 5)",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Certified-TEMPEST-Professional-Level-I-or-II--Staff-Systems-Engineer-Level-5-_R10255713"
+  },
+  {
+    "company": "ngc",
+    "role": "Sentinel - Systems Engineer - Modeling Simulation & Analysis (MS&A) - 20056",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer---Modeling-Simulation---Analysis--MS-A----20056_R10254324-1"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer: Mission Modeling Simulation – Level 3 or 4 (AHT)",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Systems-Engineer--Mission-Modeling-Simulation---Level-3-or-4--AHT-_R10256615"
+  },
+  {
+    "company": "ngc",
+    "role": "Staff Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Woodland-Hills/Staff-Systems-Engineer_R10254724"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems/Principal Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Camarillo/Systems-Principal-Systems-Engineer_R10256707"
+  },
+  {
+    "company": "roche",
+    "role": "ERP Product Lifecycle Management Business Partner (Solution Architect BP)",
+    "status": "Evaluated",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/ERP-Product-Lifecycle-Management-Business-Partner--Solution-Architect-BP-_202610-126806-2"
+  },
+  {
+    "company": "ngc",
+    "role": "Sentinel - Systems / Principal Systems Engineer - MS&A - 20105",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Systems---Principal-Systems-Engineer---MS-A---20105_R10256182"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer - Technical Data Package Delivery (Principal or Sr. Principal Engineer Level)",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Systems-Engineer---Technical-Data-Package-Delivery--Principal-or-Sr-Principal-Engineer-Level-_R10255618"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer / Principal Systems Engineer - Integration & Test",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Woodland-Hills/Systems-Engineer---Principal-Systems-Engineer---Integration---Test_R10255036-1"
+  },
+  {
+    "company": "ngc",
+    "role": "SEIT CAM Systems Engineer Level 3/4 (AHT)",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Northridge/SEIT-CAM-Systems-Engineer-Level-3-4--AHT-_R10256523"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer - Level 4 - Space AHT",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-4---Space-AHT_R10253187"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer - Level 3 - Space AHT",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Systems-Engineer---Level-3---Space-AHT_R10256414"
+  },
+  {
+    "company": "polaris",
+    "role": "Controls/Automation Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Huntsville-AL-USA/Systems-Engineer_R29728"
+  },
+  {
+    "company": "ngc",
+    "role": "Sentinel Systems Engineering Department Manager 3 - 20402",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Systems-Engineering-Department-Manager-3---20402_R10256440"
+  },
+  {
+    "company": "ngc",
+    "role": "Hiring Cleared Systems Engineers Level 3 or 4 (AHT)",
     "status": "Possible",
-    "url": "https://www.harness.io/company/jobs/apply"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/Hiring-Cleared-Systems-Engineers-Level-3-or-4--AHT-_R10253161"
   },
   {
-    "company": "hubblenetwork",
-    "role": "Senior Wireless Systems Engineer, R&D",
+    "company": "ngc",
+    "role": "Navigation Systems Engineer / Principal Navigation Systems Engineer",
     "status": "Evaluated",
-    "url": "https://hubble.com/careers"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Woodland-Hills/Navigation-Systems-Engineer---Principal-Navigation-Systems-Engineer_R10256253"
   },
   {
-    "company": "impiricus",
-    "role": "AI Solutions Architect",
+    "company": "ngc",
+    "role": "Space Principal/Sr. Principal Mission Validation Lead Systems Engineer",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/impiricus/jobs/5432801008"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/Space-Principal-Sr-Principal-Mission-Validation-Lead-Systems-Engineer_R10255742-1"
   },
   {
-    "company": "googlefiber",
-    "role": "Senior Technical Program Manager, Network Facilities",
+    "company": "ngc",
+    "role": "Principal / Senior Principal Navigation Systems Engineer",
     "status": "Evaluated",
-    "url": "https://fiber.google.com/careers/job/"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Woodland-Hills/Principal---Senior-Principal-Navigation-Systems-Engineer_R10256242"
   },
   {
-    "company": "iconcareers",
-    "role": "Systems Engineer",
+    "company": "ngc",
+    "role": "Power Systems Engineer 2/3",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/iconcareers/jobs/6203643004"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Magna/Power-Systems-Engineer-2-3_R10256230"
   },
   {
-    "company": "iconcareers",
-    "role": "Technical Account Manager",
+    "company": "nidec",
+    "role": "Quality Systems Engineer",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/iconcareers/jobs/6195139004"
+    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAIllinoisSt-Charles-IL/Quality-Systems-Engineer_R0018103"
   },
   {
-    "company": "ionq",
-    "role": "Senior Staff Technical Program Manager - Compute Platform",
+    "company": "ngc",
+    "role": "Sr Principal Systems Engineer",
     "status": "Evaluated",
-    "url": "https://ionq.com/job"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Woodland-Hills/Sr-Principal-Systems-Engineer_R10252444"
   },
   {
-    "company": "itero-group",
-    "role": "Senior Manager, Data Solutions Engineering – Tax & Accounting",
+    "company": "ngc",
+    "role": "Sr Staff Systems Engineer",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/itero-group/jobs/5425172008"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Arizona-Gilbert/Sr-Staff-Systems-Engineer_R10256048"
   },
   {
-    "company": "gitlab",
-    "role": "Solutions Architect, Public Sector - East",
+    "company": "ngc",
+    "role": "Sentinel - Principal / Sr. Principal Systems Engineer - 19420",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790680002"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Principal-Systems-Architect-Engineer_R10244555"
   },
   {
-    "company": "greenpointtechnologies",
-    "role": "Electrical Systems Engineer",
+    "company": "ngc",
+    "role": "Principal / Sr. Principal Systems Engineer – Integration & Test",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/Principal---Sr-Principal-Systems-Engineer---Integration---Test_R10256071"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer/Principal Systems Engineer-Level 2 OR Level 3",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/Systems-Engineer-Principal-Engineer-Systems-Level-2-OR-Level-3_R10252512"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineering Manager 1",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Systems-Engineering-Manager-1_R10255789"
+  },
+  {
+    "company": "ngc",
+    "role": "Senior Principal Systems Engineer (Level 4)",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/Senior-Principal-Systems-Engineer--Level-4-_R10255595"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer/ Principal Systems Engineer (Level 2 & 3)",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/Systems-Engineer--Principal-Systems-Engineer--Level-2---3-_R10255589"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer Level 5 - Mission Modeling Simulation",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Systems-Engineer-Level-5---Mission-Modeling-Simulation_R10246660"
+  },
+  {
+    "company": "ngc",
+    "role": "Systems Engineer Level 4 – COAST Ground SEIT",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Systems-Engineer-Level-4---COAST-Ground-SEIT_R10255658"
+  },
+  {
+    "company": "ngc",
+    "role": "Sentinel - Systems Engineer/Principal Systems Engineer - 20393",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer-Principal-Systems-Engineer---20393_R10255405"
+  },
+  {
+    "company": "ngc",
+    "role": "Consulting Engineer Systems Architect",
+    "status": "Evaluated",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Consulting-Engineer-Systems-Architect_R10255857"
+  },
+  {
+    "company": "ngc",
+    "role": "Sr. Principal Subsystems Engineer",
     "status": "Possible",
-    "url": "https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5421462008"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/Sr-Principal-Subsystems-Engineer_R10253891"
   },
   {
-    "company": "grvty",
-    "role": "Geospatial Systems Engineer (Mid or Senior Level)",
+    "company": "roberthalf",
+    "role": "Databricks Solutions Architect Senior Manager",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/grvty/jobs/4398411009"
+    "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitina/job/CHICAGO/Databricks-Solutions-Architect-Senior-Manager_JR-261885-1"
   },
   {
-    "company": "itd",
-    "role": "Technical Program Manager (TPM III) - 6318",
+    "company": "roberthalf",
+    "role": "Databricks Solutions Architect Manager",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/itd/jobs/4406374009"
+    "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitina/job/CHICAGO/Databricks-Solutions-Architect-Manager_JR-261892"
   },
   {
-    "company": "inversionspace",
-    "role": "Senior RF Systems Engineer",
+    "company": "roberthalf",
+    "role": "Databricks Solutions Architect Associate Director",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4733511005"
+    "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitina/job/CHICAGO/Databricks-Solutions-Architect-Associate-Director_JR-261882"
   },
   {
-    "company": "grvty",
-    "role": "Senior Systems Engineer",
+    "company": "ngc",
+    "role": "Sr. Principal / Staff Software Systems Engineer (TS Clearance)",
     "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/grvty/jobs/4401904009"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/Sr-Principal---Staff-Software-Systems-Engineer--TS-Clearance-_R10255913"
   },
   {
-    "company": "sonarsource",
-    "role": "Technical Account Manager (Technical Advisory)",
+    "company": "ngc",
+    "role": "Sentinel Systems Engineering HSI HSA and Compliance Section Manager 2 - 17426-1",
     "status": "Evaluated",
-    "url": "https://jobs.lever.co/sonarsource/745158b4-6932-47ac-9486-15920f92ddd4"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Sentinel-Systems-Engineering-HSI-HSA-and-Compliance-Section-Manager-2---17426-1_R10255364"
   },
   {
-    "company": "thinkahead",
-    "role": "Senior Client Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/thinkahead/5dfd6343-e9f1-4eaf-a633-67f363ee4ff4"
-  },
-  {
-    "company": "thinkahead",
-    "role": "Agentic Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/thinkahead/c8f0deac-765b-4721-a5c4-7544e3230aa5"
-  },
-  {
-    "company": "sysdig",
-    "role": "Senior Customer Solutions Engineer (Central US)",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/sysdig/8d94b1fc-7861-40ac-878d-69e2c61a0e82"
-  },
-  {
-    "company": "shieldai",
-    "role": "Staff Systems Engineer (R5982)",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/shieldai/920ddfc2-b289-4ca6-8d33-e10bfa7e575f"
-  },
-  {
-    "company": "skylineconstruction",
-    "role": "Senior Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/skylineconstruction/ad6f398b-40a8-482d-83ee-2b3eb8a3a036"
-  },
-  {
-    "company": "thinkahead",
-    "role": "Identity Security Specialist Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/thinkahead/04ae8571-193c-41d4-a1ac-046bba8580c0"
-  },
-  {
-    "company": "redcanyonsoftware",
-    "role": "Principal Software Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/redcanyonsoftware/cf6cc0f1-c735-40a0-bef3-36847fa84163"
-  },
-  {
-    "company": "exegy",
-    "role": "System Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/exegy/ecba4089-becd-4cd2-b484-068e3a7845ce"
-  },
-  {
-    "company": "akur8",
-    "role": "Senior Solution Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/akur8/8e940954-7a2f-439e-9f55-295bd7026f51"
-  },
-  {
-    "company": "camunda",
-    "role": "Technical Account Manager - USA",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/camunda/cdc6bcf5-ba9a-48c7-901b-865ecf854c2e"
-  },
-  {
-    "company": "anrok",
-    "role": "Partner Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/anrok/a7b9b79d-c91b-436a-94f6-2c5d7a908aca"
-  },
-  {
-    "company": "msd",
-    "role": "Building Automation System Engineer",
-    "status": "Evaluated",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Building-Automation-System-Engineer_R424147-1"
-  },
-  {
-    "company": "medtronic",
-    "role": "Sr. Principal Clinical Data and Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Principal-Clinical-Data-and-Solutions-Architect_R79614-1"
-  },
-  {
-    "company": "jabil",
-    "role": "Sr. Principal Technical Program Manager, Hyperscale",
-    "status": "Evaluated",
-    "url": "https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Sr-Principal-Technical-Program-Manager_J2469395"
-  },
-  {
-    "company": "integralads",
-    "role": "Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://integralads.wd1.myworkdayjobs.com/iascareers/job/US---New-York-NY/Solutions-Engineer_R-101580"
-  },
-  {
-    "company": "integralads",
-    "role": "Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://integralads.wd1.myworkdayjobs.com/iascareers/job/US---Chicago-IL/Technical-Account-Manager_R-101576"
-  },
-  {
-    "company": "mtb",
-    "role": "Lead ATM Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/Lead-ATM-Systems-Engineer_R91789"
-  },
-  {
-    "company": "msd",
-    "role": "Associate Specialist, Technical Operations Engineering",
-    "status": "Evaluated",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Associate-Specialist--Technical-Operations-Engineering_R423712-1"
-  },
-  {
-    "company": "medtronic",
-    "role": "Sr. Systems Engineer - Medical Device",
+    "company": "ngc",
+    "role": "Staff Mechanical Systems Engineer",
     "status": "Possible",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Systems-Engineer---Medical-Device_R77105-1"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/Staff-Mechanical-Systems-Engineer_R10255538"
   },
   {
-    "company": "medtronic",
-    "role": "Sr. Software Systems Engineer - Premarket Design Quality",
+    "company": "nordsonhcm",
+    "role": "Application/System Engineer II",
     "status": "Evaluated",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Sr-Software-Systems-Engineer_R74046-1"
+    "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Application-System-Engineer-I_REQ52310"
   },
   {
-    "company": "iqvia",
-    "role": "Workplace IT Solutions Engineer (Onsite)",
+    "company": "roberthalf",
+    "role": "Senior Solutions Architect Associate Director",
     "status": "Evaluated",
-    "url": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/New-York-NY-United-States-of-America/Workplace-IT-Solutions-Engineer_R1552007"
+    "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitina/job/INDIANAPOLIS/Senior-Solutions-Architect-Associate-Director_JR-261822"
   },
   {
-    "company": "medtronic",
-    "role": "Principal Systems Engineer (CAS)",
+    "company": "ngc",
+    "role": "Sentinel - Sr Principal Systems Engineer - 19826",
     "status": "Evaluated",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-Systems-Engineer--CAS-_R79717-2"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Sr-Principal-Systems-Engineer---19599_R10246797-1"
   },
   {
-    "company": "medtronic",
-    "role": "Sr. Principal Systems Engineer - Medical Device",
-    "status": "Possible",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Principal-Systems-Engineer_R77106-1"
-  },
-  {
-    "company": "medtronic",
-    "role": "Principal Systems Engineer - Cardiac Ablation Solutions",
+    "company": "ngc",
+    "role": "Systems Engineer - Level 3 (Agile Release Train Engineer) - AHT",
     "status": "Evaluated",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-Systems-Engineer_R70312-1"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/Systems-Engineer---Level-3--Agile-Release-Train-Engineer----AHT_R10255334"
   },
   {
-    "company": "medtronic",
-    "role": "Sr. Integration Engineer",
+    "company": "ngc",
+    "role": "Principal Systems Engineer 3/4",
     "status": "Evaluated",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Sr-Integration-Engineer_R78900-1"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/Principal-Systems-Engineer-3-4_R10255083-1"
   },
   {
-    "company": "jci",
-    "role": "Ctrls Systems Engineer II",
+    "company": "pwc",
+    "role": "Microsoft D365 ERP OR AI/CoPilot Functional Solution Architect - Senior Manager",
     "status": "Evaluated",
-    "url": "https://jci.wd5.myworkdayjobs.com/jci/job/Hagatna-Guam-United-States-of-America/Ctrls-Systems-Engineer-II_WD30277206-1"
+    "url": "https://pwc.wd3.myworkdayjobs.com/us_experienced_careers/job/IL-Chicago/Microsoft-D365-ERP-OR-AI-CoPilot-Functional-Solution-Architect---Senior-Manager_763799WD"
   },
   {
-    "company": "invenergyllc",
-    "role": "Senior Technical Program Manager, Data Center Construction & Delivery – Digital Infrastructure",
+    "company": "philips",
+    "role": "Global Systems Engineering Leader, SRC",
     "status": "Evaluated",
-    "url": "https://invenergyllc.wd1.myworkdayjobs.com/invenergyllc/job/Chicago-IL/Senior-Technical-Program-Manager--Data-Center-Construction---Delivery---Digital-Infrastructure_R11521"
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Global-Systems-Engineering-Leader--SRC_590956-1"
   },
   {
-    "company": "medtronic",
-    "role": "Technical Program Manager - Data Enablement",
+    "company": "ngc",
+    "role": "Principal/Sr. Principal Systems Engineer (19982)",
     "status": "Evaluated",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Jacksonville-Florida-United-States-of-America/Technical-Program-Manager---Data-Enablement_R75514-1"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Principal-Sr-Principal-Systems-Engineer--19982-_R10253863"
   },
   {
-    "company": "msd",
-    "role": "2027 Future Talent Program - Device Development & Technology - Device Technical Operations - Co-op",
+    "company": "ngc",
+    "role": "Sentinel Systems Engineering Manager 2-19941",
     "status": "Evaluated",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---North-Carolina---Wilson/XMLNAME-2027-Future-Talent-Program---Device-Development---Technology---Device-Technical-Operations---Co-op_R422540"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/Sentinel-Systems-Engineering-Manager-2-19941_R10254386"
   },
   {
-    "company": "lumentum",
-    "role": "Optical Module Integration Engineer",
+    "company": "ngc",
+    "role": "SkillBridge - Principal Systems Engineer (E2 Hawkeye)",
     "status": "Evaluated",
-    "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/USA---CA---San-Jose-Ridder/Optical-Module-Integration-Engineer_20261562"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/SkillBridge---Principal-Systems-Engineer---E2-Hawkeye-_R10254898"
   },
   {
-    "company": "lambweston",
-    "role": "Sr Manufacturing Systems Engineer",
+    "company": "ngc",
+    "role": "System Engineer Level 5 - Mission Operations SME",
     "status": "Evaluated",
-    "url": "https://lambweston.wd1.myworkdayjobs.com/lamb_external/job/Quincy-WA-USA-Plant/Sr-Manufacturing-Systems-Engineer_Req-271999"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/System-Engineer-Level-5---Mission-Operations-SME_R10255028"
   },
   {
-    "company": "jci",
-    "role": "Fire Alarm Detection Application Systems Engineer",
+    "company": "ngc",
+    "role": "System Engineer Level 3/4 - Mission Operations Engineer",
     "status": "Evaluated",
-    "url": "https://jci.wd5.myworkdayjobs.com/jci/job/Raleigh-North-Carolina-United-States-of-America/Fire-Alarm-Detection-Application-Systems-Engineer_WD30283548"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/System-Engineer-Level-3-4---Mission-Operations-Engineer_R10255013"
   },
   {
-    "company": "manulife",
-    "role": "Senior Technical Program Manager",
+    "company": "ngc",
+    "role": "Sentinel Training Devices Systems Engineering Manager 2 - 19976",
     "status": "Evaluated",
-    "url": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/USA-Massachusetts-Boston-200-Berkeley-Street/Senior-Technical-Program-Manager_JR26100857"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel-Training-Devices-Systems-Engineering-Manager-2---19976_R10254784"
   },
   {
-    "company": "kyndryl",
-    "role": "Managing Data Architect— Data & Cloud Architecture Lead",
+    "company": "ngc",
+    "role": "Sentinel - Sr Principal Post Flight Analysis Systems Engineer - 20147",
     "status": "Evaluated",
-    "url": "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Research-Triangle-Park-NC-USA/Managing-Data-Architect--Data---Cloud-Architecture-Lead_R-57845"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Sr-Principal-Post-Flight-Analysis-Systems-Engineer---20147_R10254215"
   },
   {
-    "company": "mtb",
-    "role": "Enterprise Architect for Finance & Corp Functions",
+    "company": "ngc",
+    "role": "System Engineer Level 2 - Mission Operations Engineer",
     "status": "Evaluated",
-    "url": "https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/Enterprise-Architect-for-Finance---Corp-Functions_R91316"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/System-Engineer-Level-2---Mission-Operations-Engineer_R10254977"
   },
   {
-    "company": "jabil",
-    "role": "Sr. Principal Mechanical Integration Engineer – Data Center Liquid Cooling (REMOTE)",
-    "status": "Possible",
-    "url": "https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Sr-Principal-Mechanical-Integration-Engineer---Data-Center-Liquid-Cooling--REMOTE-_J2469431"
-  },
-  {
-    "company": "kyndryl",
-    "role": "SAP Solutions Architect",
+    "company": "ngc",
+    "role": "Sentinel - Principal Modeling Simulation and Analysis Systems Engineer - 19866",
     "status": "Evaluated",
-    "url": "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Dallas-USDALFRI-Frisco-AI-HUB/SAP-Solutions-Architect_R-70863-1"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/Sentinel---Principal-Modeling-Simulation-and-Analysis-Systems-Engineer---19866_R10250832-1"
   },
   {
-    "company": "magellanhealth",
-    "role": "Principal Data and Integration Engineer",
+    "company": "ngc",
+    "role": "Special Programs & Futures Systems Engineering Manager 2- 20140",
     "status": "Evaluated",
-    "url": "https://magellanhealth.wd5.myworkdayjobs.com/magellan_health_careers/job/United-States/Principal-Data-and-Integration-Engineer_R00000071197"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Special-Programs---Futures-Systems-Engineering-Manager-2--20140_R10253628"
   },
   {
-    "company": "itron",
-    "role": "AI Solutions Architect Associate",
+    "company": "ngc",
+    "role": "Space Vehicle Systems Engineer - Level 3",
     "status": "Evaluated",
-    "url": "https://itron.wd5.myworkdayjobs.com/early_careers/job/United-States-of-America-Texas-Austin/AI-Solutions-Architect-Associate_JR102937-1"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Arizona-Gilbert/a-Space-Vehicle-Systems-Engineer---Level-3_R10255106"
   },
   {
-    "company": "kla",
-    "role": "Service System Engineer (Mechanical/Optical)",
-    "status": "Possible",
-    "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/USA-MI-Ann-Arbor-KLA/Service-System-Engineer--Mechanical-Optical-_2636762"
-  },
-  {
-    "company": "masco",
-    "role": "R&D Lead Systems Architect",
+    "company": "ngc",
+    "role": "Space Vehicle Systems Engineer",
     "status": "Evaluated",
-    "url": "https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/R-D-Lead-Systems-Architect_REQ54670-1"
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Arizona-Gilbert/Space-Vehicle-Systems-Engineer_R10255096"
   },
   {
-    "company": "ms",
-    "role": "Principal Technical Program Manager - Parametric",
+    "company": "onehealthineers",
+    "role": "Sr Solutions Architect (VP), Central Zone- Remote",
     "status": "Evaluated",
-    "url": "https://ms.wd5.myworkdayjobs.com/external/job/Alpharetta-Georgia-United-States-of-America/Principal-Technical-Program-Manager---Parametric_PT-JR035742"
+    "url": "https://onehealthineers.wd3.myworkdayjobs.com/ijmhrms/job/MLV-LB/Sr-Solutions-Architect--VP---Central-Zone--Remote_R-31302"
   },
   {
-    "company": "medtronic",
-    "role": "Prin Hardware System Engineer",
+    "company": "redhat",
+    "role": "Account Solution Architect",
     "status": "Evaluated",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Prin-Hardware-System-Engineer_R79668-1"
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-IL/Account-Solution-Architect_R-058387-2"
   },
   {
-    "company": "integer",
-    "role": "Solutions Architect IV, Procurement",
+    "company": "plantemoran",
+    "role": "Solution Architect",
     "status": "Evaluated",
-    "url": "https://integer.wd1.myworkdayjobs.com/external/job/Remote---United-States/Solutions-Architect-IV--Procurement_R36704"
+    "url": "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/Solution-Architect_JR-02734"
   },
   {
-    "company": "masco",
-    "role": "Lead Software Systems Engineer",
+    "company": "pureinsurance",
+    "role": "Solutions Architect, Financial Systems (Duck Creek Billing)",
     "status": "Evaluated",
-    "url": "https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/Lead-Software-Systems-Engineer_REQ54610-1"
+    "url": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Solutions-Architect--Financial-Systems_R2713"
   },
   {
-    "company": "jci",
-    "role": "HVAC Controls Systems Engineer Leader",
+    "company": "nttlimited",
+    "role": "Senior Solutions Architect - Google",
     "status": "Evaluated",
-    "url": "https://jci.wd5.myworkdayjobs.com/jci/job/Knoxville-Tennessee-United-States-of-America/HVAC-Controls-Systems-Engineer-Leader_WD30281587"
+    "url": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Southfield-Michigan-USA/Senior-Solutions-Architect---Google_R-149739"
   },
   {
-    "company": "infobip",
-    "role": "Senior Solution Engineer",
+    "company": "redhat",
+    "role": "Global Specialist Solution Architect - Lightwell",
     "status": "Evaluated",
-    "url": "https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Chicago-USA/Senior-Solution-Engineer_JR104203"
-  },
-  {
-    "company": "livenation",
-    "role": "LN Media & Sponsorship || Lead AI Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://livenation.wd503.myworkdayjobs.com/lnexternalsite/job/New-York-NY-USA/LN-Media---Sponsorship----Lead-AI-Solutions-Engineer_JR-89547-1"
-  },
-  {
-    "company": "jci",
-    "role": "HVAC Building Systems Engineering Leader",
-    "status": "Evaluated",
-    "url": "https://jci.wd5.myworkdayjobs.com/jci/job/Madison-Wisconsin-United-States-of-America/HVAC-Building-Systems-Engineering-Leader_WD30281479-1"
-  },
-  {
-    "company": "livenation",
-    "role": "Systems Engineer III, Datacenter Operations",
-    "status": "Evaluated",
-    "url": "https://livenation.wd503.myworkdayjobs.com/tmexternalsite/job/Ashburn-VA-USA/Systems-Engineer-III--Datacenter-Operations_JR-92915"
-  },
-  {
-    "company": "infobip",
-    "role": "Solution Engineer",
-    "status": "Evaluated",
-    "url": "https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Jersey-City-USA/Solution-Engineer-1_JR104885"
-  },
-  {
-    "company": "ms",
-    "role": "Technical Program Manager - Vice President",
-    "status": "Evaluated",
-    "url": "https://ms.wd5.myworkdayjobs.com/external/job/New-York-New-York-United-States-of-America/Technical-Financial-Program-Manager---Vice-President_PT-JR041991"
-  },
-  {
-    "company": "irhythmtech",
-    "role": "Senior Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Sr-Systems-Engineer-I_JR1432"
-  },
-  {
-    "company": "intapp",
-    "role": "Solution Engineer",
-    "status": "Evaluated",
-    "url": "https://intapp.wd1.myworkdayjobs.com/intapp/job/Charlotte-NC/Solution-Engineer_R2025314-1"
-  },
-  {
-    "company": "jci",
-    "role": "HVAC Building Controls Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jci.wd5.myworkdayjobs.com/jci/job/Indianapolis-IN-Castleton-Park/HVAC-Building-Controls-Systems-Engineer_WD30276727-1"
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Global-Specialist-Solution-Architect---Lightwell_R-059025-1"
   }
 ];
