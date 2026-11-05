@@ -1,6 +1,12 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
+    "company": "oportun",
+    "role": "Staff Technical Program Manager (R14286)",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/oportun/jobs/4739783005"
+  },
+  {
     "company": "nice",
     "role": "Lead Technical Account Manager",
     "status": "Evaluated",
@@ -209,12 +215,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "AI Infrastructure Engineer",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/playerzero/388aec5c-6b3b-43d9-9bf0-0eb98d78f3da"
-  },
-  {
-    "company": "playerzero",
-    "role": "Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/playerzero/494db8ab-97d7-4886-b532-ce63bc5a1212"
   },
   {
     "company": "playerzero",
