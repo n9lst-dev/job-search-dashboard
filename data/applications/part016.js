@@ -8,5 +8,17 @@ window.APPLICATIONS.push(...[
     "stage": "Application submitted",
     "jobUrl": "https://jobs.ashbyhq.com/playerzero/494db8ab-97d7-4886-b532-ce63bc5a1212",
     "resumeStrategy": "V3.3 Master"
+  },
+  {
+    "company": "Box",
+    "role": "Solutions Architect, Professional Services",
+    "status": "Rejected",
+    "appliedDate": "",
+    "rejectedDate": "2026-11-06",
+    "stage": "Application-stage rejection - not selected",
+    "signal": "Box recruiting notified candidate that they would not move forward, stating background was not quite the match for this position. No detailed skill-gap feedback provided.",
+    "notes": "Rejection notification shared November 6, 2026. Original application date not yet established. Application history preserved.",
+    "jobUrl": "",
+    "resumeStrategy": ""
   }
 ]);
