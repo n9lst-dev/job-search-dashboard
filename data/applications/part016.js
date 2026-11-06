@@ -13,11 +13,11 @@ window.APPLICATIONS.push(...[
     "company": "Box",
     "role": "Solutions Architect, Professional Services",
     "status": "Rejected",
-    "appliedDate": "",
+    "appliedDate": "2026-11-05",
     "rejectedDate": "2026-11-06",
     "stage": "Application-stage rejection - not selected",
     "signal": "Box recruiting notified candidate that they would not move forward, stating background was not quite the match for this position. No detailed skill-gap feedback provided.",
-    "notes": "Rejection notification shared November 6, 2026. Original application date not yet established. Application history preserved.",
+    "notes": "Rejection notification shared November 6, 2026. Applied November 5, 2026. Application history preserved.",
     "jobUrl": "",
     "resumeStrategy": ""
   }
