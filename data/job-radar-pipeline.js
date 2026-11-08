@@ -1,324 +1,6 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
-    "company": "lmi",
-    "role": "Senior Atlassian Solution Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-lmi.icims.com/jobs/14818/senior-atlassian-solution-architect/job"
-  },
-  {
-    "company": "jobs-nffinc",
-    "role": "Enterprise Architect",
-    "status": "Awaiting review",
-    "url": "https://jobs-nffinc.icims.com/jobs/3494/enterprise-architect/job"
-  },
-  {
-    "company": "nonacademiccareers-udst",
-    "role": "Lead Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://nonacademiccareers-udst.icims.com/jobs/4826/00001889---lead-systems-engineer/job"
-  },
-  {
-    "company": "nonacademiccareers-udst",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://nonacademiccareers-udst.icims.com/jobs/4819/00001025---systems-engineer/job"
-  },
-  {
-    "company": "jobs-sierralobo",
-    "role": "Rocket Propulsion Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://jobs-sierralobo.icims.com/jobs/3516/rocket-propulsion-systems-engineer/job"
-  },
-  {
-    "company": "jobs-mutualofenumclaw",
-    "role": "Enterprise Architect",
-    "status": "Awaiting review",
-    "url": "https://jobs-mutualofenumclaw.icims.com/jobs/2378/enterprise-architect/job"
-  },
-  {
-    "company": "jobs-precisionsolutions",
-    "role": "Model-Based Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://jobs-precisionsolutions.icims.com/jobs/4907/model-based-systems-engineer/job"
-  },
-  {
-    "company": "jobs-fishercareers",
-    "role": "Enterprise Architect – Data, AI",
-    "status": "Awaiting review",
-    "url": "https://jobs-fishercareers.icims.com/jobs/20415/enterprise-architect-%e2%80%93-data%2c-ai/job"
-  },
-  {
-    "company": "kehe",
-    "role": "Director, Infrastructure Engineering",
-    "status": "Awaiting review",
-    "url": "https://careers-kehe.icims.com/jobs/30159/director%2c-infrastructure-engineering/job"
-  },
-  {
-    "company": "main-princeton",
-    "role": "Cloud Infrastructure Engineer",
-    "status": "Awaiting review",
-    "url": "https://main-princeton.icims.com/jobs/22205/cloud-infrastructure-engineer/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Lead AI Solution Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173397/lead-ai-solution-architect/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Systems Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173387/systems-architect/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Information Security Systems Engineer (ISSE)",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/171280/information-security-systems-engineer-%28isse%29/job"
-  },
-  {
-    "company": "rovisys",
-    "role": "Lead Control Systems Engineer/Developer",
-    "status": "Awaiting review",
-    "url": "https://careers-rovisys.icims.com/jobs/2184/lead-control-systems-engineer-developer/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Remote Systems Integration Engineer - SME",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172910/remote-systems-integration-engineer---sme/job"
-  },
-  {
-    "company": "corporatecareers-aus",
-    "role": "Security Solutions Architect II",
-    "status": "Awaiting review",
-    "url": "https://corporatecareers-aus.icims.com/jobs/1742634/security-solutions-architect-ii/job"
-  },
-  {
-    "company": "pmat",
-    "role": "Mid-Level Model Based Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://pmat.bamboohr.com/careers/334"
-  },
-  {
-    "company": "ntara",
-    "role": "Solutions Engineer - DAM Practice",
-    "status": "Awaiting review",
-    "url": "https://ntara.bamboohr.com/careers/105"
-  },
-  {
-    "company": "trase",
-    "role": "Staff/Senior Staff Technical Program Manager, Federal",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/trase/jobs/5273082007"
-  },
-  {
-    "company": "ultimagenomics",
-    "role": "Sr. Software Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/6251156004"
-  },
-  {
-    "company": "stratolaunch",
-    "role": "AI Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5475102008"
-  },
-  {
-    "company": "uniteus",
-    "role": "Senior Customer Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/uniteus/jobs/8931724002"
-  },
-  {
-    "company": "veeamsoftware",
-    "role": "Senior Sales Systems Engineer (South Atlantic)",
-    "status": "Evaluated",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5025222101"
-  },
-  {
-    "company": "twilio",
-    "role": "Staff, Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8350197"
-  },
-  {
-    "company": "verisign",
-    "role": "VMware Infrastructure Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/verisign/jobs/8045911003"
-  },
-  {
-    "company": "torcrobotics",
-    "role": "Application Integration Engineer 1",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8924000002"
-  },
-  {
-    "company": "vardaspace",
-    "role": "Senior Space Systems Engineer, Avionics",
-    "status": "Possible",
-    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8113432003"
-  },
-  {
-    "company": "vast",
-    "role": "Integration Engineer, Avionics Test",
-    "status": "Possible",
-    "url": "https://boards.greenhouse.io/vast/jobs/4726227006"
-  },
-  {
-    "company": "vast",
-    "role": "Integration Engineer, Fluid Systems Test",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/vast/jobs/4726226006"
-  },
-  {
-    "company": "veracode",
-    "role": "Technical Program Manager, Customer Onboarding",
-    "status": "Evaluated",
-    "url": "https://www.veracode.com/career/job"
-  },
-  {
-    "company": "stripe",
-    "role": "Manager, Solutions Architecture Transformation",
-    "status": "Evaluated",
-    "url": "https://stripe.com/jobs/search"
-  },
-  {
-    "company": "vast",
-    "role": "Senior Infrastructure Engineer",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/vast/jobs/4724967006"
-  },
-  {
-    "company": "verkada",
-    "role": "Solutions Engineering Manager, Select & Territory",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5238218007"
-  },
-  {
-    "company": "stripe",
-    "role": "Global Head of Specialist Solutions Architecture, Revenue Suite",
-    "status": "Evaluated",
-    "url": "https://stripe.com/jobs/search"
-  },
-  {
-    "company": "vast",
-    "role": "Senior Power Systems Engineer, Lunar",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/vast/jobs/4722703006"
-  },
-  {
-    "company": "trase",
-    "role": "Director, Production and Infrastructure Engineering",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/trase/jobs/5275199007"
-  },
-  {
-    "company": "veeamsoftware",
-    "role": "Sales Systems Engineer II",
-    "status": "Evaluated",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996666101"
-  },
-  {
-    "company": "tenet3",
-    "role": "Solutions Engineer- On Site",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/tenet3/jobs/8894939002"
-  },
-  {
-    "company": "verifone",
-    "role": "Systems Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/verifone/jobs/8027074003"
-  },
-  {
-    "company": "starburst",
-    "role": "Manager, Solution Architects- US East",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/starburst/jobs/5448060008"
-  },
-  {
-    "company": "stripe",
-    "role": "Technical Program Manager, Extensibility Platform",
-    "status": "Evaluated",
-    "url": "https://stripe.com/jobs/search"
-  },
-  {
-    "company": "tomorrow",
-    "role": "Sr Satellite Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/tomorrow/jobs/8034027003"
-  },
-  {
-    "company": "tenstorrent",
-    "role": "Technical Program Manager, Platform & Runtime Engineering",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5265014007"
-  },
-  {
-    "company": "talkdesk2",
-    "role": "Associate Solutions Engineer - Mixed Industries (West)",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/talkdesk2/jobs/8249947"
-  },
-  {
-    "company": "stratacareers",
-    "role": "Infrastructure Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/stratacareers/jobs/8030865003"
-  },
-  {
-    "company": "upstart",
-    "role": "Integration Engineer - Contract",
-    "status": "Evaluated",
-    "url": "https://careers.upstart.com/jobs"
-  },
-  {
-    "company": "veeamsoftware",
-    "role": "AI Solution Architect",
-    "status": "Evaluated",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999633101"
-  },
-  {
-    "company": "vast",
-    "role": "Fluid Systems Engineering",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/vast/jobs/4715767006"
-  },
-  {
-    "company": "vaxcyte",
-    "role": "Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/vaxcyte/jobs/5447325008"
-  },
-  {
-    "company": "stripe",
-    "role": "Solutions Architect, AI",
-    "status": "Evaluated",
-    "url": "https://stripe.com/jobs/search"
-  },
-  {
-    "company": "techholding",
-    "role": "Solutions Engineer | Contract | Remote USA",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/techholding/jobs/4741712005"
-  },
-  {
-    "company": "thatch",
-    "role": "IT Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://thatch.com/jobs/5442634008"
-  },
-  {
-    "company": "themichaeljfoxfoundation",
-    "role": "Lead Data Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/themichaeljfoxfoundation/jobs/4426354009"
-  },
-  {
     "company": "stripe",
     "role": "Solutions Architect",
     "status": "Evaluated",
@@ -599,5 +281,323 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Solutions Engineer, Commercial",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/clickup/8ccf4b52-77e6-47ee-8c30-6634605eb975"
+  },
+  {
+    "company": "peopletec",
+    "role": "Systems Integration & Lab Infrastructure Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-peopletec.icims.com/jobs/5448/systems-integration-%26-lab-infrastructure-engineer/job"
+  },
+  {
+    "company": "quanta",
+    "role": "Systems Engineer, Platform Engineering",
+    "status": "Awaiting review",
+    "url": "https://careers-quanta.icims.com/jobs/19644/systems-engineer%2c-platform-engineering/job"
+  },
+  {
+    "company": "sargentlundy",
+    "role": "Automation & Control Systems Engineering Consultant 2 - Mission Critical",
+    "status": "Awaiting review",
+    "url": "https://careers-sargentlundy.icims.com/jobs/28715/automation-%26-control-systems-engineering-consultant-2---mission-critical/job"
+  },
+  {
+    "company": "sargentlundy",
+    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
+    "status": "Awaiting review",
+    "url": "https://careers-sargentlundy.icims.com/jobs/28703/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
+  },
+  {
+    "company": "sargentlundy",
+    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
+    "status": "Awaiting review",
+    "url": "https://careers-sargentlundy.icims.com/jobs/28700/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
+  },
+  {
+    "company": "primehealthcare",
+    "role": "Enterprise Systems Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-primehealthcare.icims.com/jobs/288955/enterprise-systems-engineer/job"
+  },
+  {
+    "company": "sas",
+    "role": "Senior Forward Deployed Solutions Architect, Large Pharma",
+    "status": "Awaiting review",
+    "url": "https://careers-sas.icims.com/jobs/46012/senior-forward-deployed-solutions-architect%2c-large-pharma/job"
+  },
+  {
+    "company": "peraton",
+    "role": "Diagnostic System Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-peraton.icims.com/jobs/173240/diagnostic-system-engineer/job"
+  },
+  {
+    "company": "peraton",
+    "role": "Senior Systems Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-peraton.icims.com/jobs/173004/senior-systems-engineer/job"
+  },
+  {
+    "company": "peraton",
+    "role": "Systems Engineer, Test Automation",
+    "status": "Awaiting review",
+    "url": "https://careers-peraton.icims.com/jobs/172296/systems-engineer%2c-test-automation/job"
+  },
+  {
+    "company": "peraton",
+    "role": "Cyber Systems Engineering, Senior Advisor",
+    "status": "Awaiting review",
+    "url": "https://careers-peraton.icims.com/jobs/171541/cyber-systems-engineering%2c-senior-advisor/job"
+  },
+  {
+    "company": "peraton",
+    "role": "Senior SIGINT Systems Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-peraton.icims.com/jobs/173177/senior-sigint-systems-engineer/job"
+  },
+  {
+    "company": "peraton",
+    "role": "Senior Systems Integration Engineer (Active TS/SCI/Poly)",
+    "status": "Awaiting review",
+    "url": "https://careers-peraton.icims.com/jobs/172988/senior-systems-integration-engineer--%28active-ts-sci-poly%29/job"
+  },
+  {
+    "company": "peraton",
+    "role": "Systems Engineer - DoD AI Program",
+    "status": "Awaiting review",
+    "url": "https://careers-peraton.icims.com/jobs/172908/systems-engineer---dod-ai-program/job"
+  },
+  {
+    "company": "riverbed",
+    "role": "Solutions Engineer, Federal (U.S. Navy)",
+    "status": "Awaiting review",
+    "url": "https://careers-riverbed.icims.com/jobs/8075/solutions-engineer%2c-federal-%28u.s.-navy%29/job"
+  },
+  {
+    "company": "rdi",
+    "role": "Infrastructure Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-rdi.icims.com/jobs/8538/infrastructure-engineer/job"
+  },
+  {
+    "company": "riverbed",
+    "role": "Solutions Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-riverbed.icims.com/jobs/8064/solutions-engineer/job"
+  },
+  {
+    "company": "riverbed",
+    "role": "Solutions Engineer, Federal (U.S. Army)",
+    "status": "Awaiting review",
+    "url": "https://careers-riverbed.icims.com/jobs/8059/solutions-engineer%2c-federal-%28u.s.-army%29/job"
+  },
+  {
+    "company": "quvia",
+    "role": "Solutions Engineer",
+    "status": "Awaiting review",
+    "url": "https://quvia.bamboohr.com/careers/252"
+  },
+  {
+    "company": "waymo",
+    "role": "Staff Systems Engineer, Driving Behaviors",
+    "status": "Evaluated",
+    "url": "https://careers.withwaymo.com/jobs"
+  },
+  {
+    "company": "waymo",
+    "role": "Senior Staff Technical Program Manager, New Product Programs",
+    "status": "Evaluated",
+    "url": "https://careers.withwaymo.com/jobs"
+  },
+  {
+    "company": "waymo",
+    "role": "Senior Systems Engineer, Vehicle Security",
+    "status": "Evaluated",
+    "url": "https://careers.withwaymo.com/jobs"
+  },
+  {
+    "company": "yipitdata",
+    "role": "IT Systems Engineer I",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/yipitdata/jobs/8329263"
+  },
+  {
+    "company": "voyagertechnologiesinc",
+    "role": "Systems Engineer VI - Systems",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4463235009"
+  },
+  {
+    "company": "waymo",
+    "role": "Senior Technical Program Manager, Fleet",
+    "status": "Evaluated",
+    "url": "https://careers.withwaymo.com/jobs"
+  },
+  {
+    "company": "wizinc",
+    "role": "Technical Account Manager, Southeast",
+    "status": "Evaluated",
+    "url": "https://www.wiz.io/careers/job/4723042006/:title"
+  },
+  {
+    "company": "wizinc",
+    "role": "Solutions Engineer, Growth - East",
+    "status": "Evaluated",
+    "url": "https://www.wiz.io/careers/job/4722439006/:title"
+  },
+  {
+    "company": "wizinc",
+    "role": "Senior Analyst, GTM Systems & Tools (Customer Engineering)",
+    "status": "Evaluated",
+    "url": "https://www.wiz.io/careers/job/4718673006/:title"
+  },
+  {
+    "company": "yipitdata",
+    "role": "Solutions Engineering Analyst",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/yipitdata/jobs/8164264"
+  },
+  {
+    "company": "waymo",
+    "role": "Senior Systems Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://careers.withwaymo.com/jobs"
+  },
+  {
+    "company": "zoo",
+    "role": "Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://zoo.dev/jobs/4737898005"
+  },
+  {
+    "company": "wing",
+    "role": "Senior SAP Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://wing.com/careers/8780936002"
+  },
+  {
+    "company": "wizinc",
+    "role": "Senior Partner Solutions Architect – GSI",
+    "status": "Evaluated",
+    "url": "https://www.wiz.io/careers/job/4703947006/:title"
+  },
+  {
+    "company": "wayvia",
+    "role": "Solutions Engineer II",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/wayvia/jobs/8822291002"
+  },
+  {
+    "company": "voyagertechnologiesinc",
+    "role": "MSAD Systems Engineer V - Team Manager",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4412153009"
+  },
+  {
+    "company": "waymo",
+    "role": "Technical Program Manager - Onboard Systems, ML Modeling",
+    "status": "Evaluated",
+    "url": "https://careers.withwaymo.com/jobs"
+  },
+  {
+    "company": "virbiotechnologyinc",
+    "role": "Senior IT Security & Infrastructure Engineer (Temporary)",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/virbiotechnologyinc/jobs/4733945005"
+  },
+  {
+    "company": "smiledigitalhealth",
+    "role": "Senior Solutions Architect - Remote US",
+    "status": "Evaluated",
+    "url": "https://jobs.lever.co/smiledigitalhealth/3a727804-d154-4ce1-bb11-cdcb72bbc645"
+  },
+  {
+    "company": "mindrobotics",
+    "role": "Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/mindrobotics/f81d85b6-36f3-41f3-b383-d05cfa997017"
+  },
+  {
+    "company": "formance",
+    "role": "Pre-Sales Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/formance/7da53ad4-f5f4-43fd-8524-f59019115f13"
+  },
+  {
+    "company": "odys-aviation",
+    "role": "Lead Propulsion Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/odys-aviation/03f3d4c0-3d89-4df6-9241-0dd292dd0f6c"
+  },
+  {
+    "company": "fullstory",
+    "role": "Customer Solutions Engineer, Strategic Accounts",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/fullstory/740cc466-d9f7-4ebc-a355-3376ad4355fe"
+  },
+  {
+    "company": "northwoodspace",
+    "role": "Senior Infrastructure Engineer (Platform)",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/87bd8fc1-54ea-4bda-90fc-95a956ea92f5"
+  },
+  {
+    "company": "livekit",
+    "role": "Staff GTM Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/livekit/cbf7c302-9e6a-4f8d-8896-5be61ae908c1"
+  },
+  {
+    "company": "helion",
+    "role": "Machine Maintenance and Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/helion/010f7d80-9850-4b65-a23a-b5bbd71370db"
+  },
+  {
+    "company": "openai",
+    "role": "Technical Program Manager, Capacity Analytics & Tooling",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/openai/5cc72bc7-e6a0-40e0-9f60-23474cd9acdb"
+  },
+  {
+    "company": "openai",
+    "role": "Technical Program Manager, Research Compute Services",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/openai/e49133e6-4030-4295-b393-1725aa410344"
+  },
+  {
+    "company": "openai",
+    "role": "Technical Program Manager, Global Infrastructure Planning",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/openai/df242b29-6a84-4968-8d57-cbeec20dee67"
+  },
+  {
+    "company": "openai",
+    "role": "Technical Program Manager, Compute Infrastructure",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3"
+  },
+  {
+    "company": "northwoodspace",
+    "role": "Infrastructure Engineer (Platform)",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/39d7a585-76f5-4c39-9a5a-b4e8002cdd43"
+  },
+  {
+    "company": "openai",
+    "role": "Technical Program Manager, People Innovation Labs",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/openai/87ef8476-e930-47ed-abc2-a1bedcc074fb"
+  },
+  {
+    "company": "lambda",
+    "role": "Senior Technical Program Manager - Public Cloud",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/Lambda/3d51be65-e95a-4666-8789-1aadc21b3b73"
+  },
+  {
+    "company": "openloophealth",
+    "role": "Pharmacy & Clinical Systems Engineer",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/openloophealth/323698cb-bd39-4107-92b6-f31c42e14437"
   }
 ];
