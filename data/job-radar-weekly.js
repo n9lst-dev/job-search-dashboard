@@ -1,1 +1,1 @@
-window.JOB_RADAR_WEEKLY = {"weekStart":"2026-11-08","weekEnd":"2026-11-14","pipeline":{"Evaluated":33,"Other leads":1,"Preparation blocked":421},"submissions":{"confirmed":0},"outcomes":{},"responses":{"recruiterResponses":0},"stages":{},"followUps":{},"resumeStrategies":{}};
+window.JOB_RADAR_WEEKLY = {"weekStart":"2026-11-08","weekEnd":"2026-11-14","pipeline":{"Evaluated":48,"Other leads":4,"Preparation blocked":430},"submissions":{"confirmed":0},"outcomes":{},"responses":{"recruiterResponses":0},"stages":{},"followUps":{},"resumeStrategies":{}};
