@@ -1,330 +1,6 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
-    "company": "base-power",
-    "role": "Hardware Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/base-power/f3318660-62b4-4157-b577-a8d9bcf2e978"
-  },
-  {
-    "company": "eightsleep",
-    "role": "Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/eightsleep/91c6ada6-363f-4365-aa32-fc1809354a9f"
-  },
-  {
-    "company": "embedding-vc",
-    "role": "Solution Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/embedding-vc/b821e16b-3272-4650-af67-de16eeeb4010"
-  },
-  {
-    "company": "exa",
-    "role": "Solutions Architect, US Remote",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/exa/2aea5e9f-ff9f-4981-8c49-367502fa0f7e"
-  },
-  {
-    "company": "civilgrid",
-    "role": "Senior/Staff Security & Infrastructure Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/civilgrid/6f556437-92b3-4559-9c54-ea0fac24e726"
-  },
-  {
-    "company": "baseten",
-    "role": "Manager, Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/baseten/1532aa00-5a93-4967-bb24-6561495d9605"
-  },
-  {
-    "company": "andromeda",
-    "role": "Technical Program Manager, Infrastructure",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/andromeda/89e34063-02e8-421d-8441-9d50d5e84717"
-  },
-  {
-    "company": "fluidstack",
-    "role": "Technical Program Manager, Data Center Operations",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/fluidstack/30a7f509-2d10-4bba-9e8c-9bfd9f5e6af5"
-  },
-  {
-    "company": "bjakcareer",
-    "role": "AI Phone - On-device AI / ML Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/35c196ae-294a-4f85-b2bf-094f8a065c0b"
-  },
-  {
-    "company": "bjakcareer",
-    "role": "AI Phone - Android Device Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/12b1eb0f-f597-462a-948d-f36c06d16314"
-  },
-  {
-    "company": "bjakcareer",
-    "role": "AI Phone - AI Application Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/24359ee7-9edb-4c5d-aa8c-1559c0228a75"
-  },
-  {
-    "company": "bjakcareer",
-    "role": "AI Phone - Senior Android System Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/e60c7813-8975-4ef0-a3f7-c4ca88b1bae2"
-  },
-  {
-    "company": "crusoe",
-    "role": "Staff Technical Program Manager, Firmware Lifecycle and Release Management",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/Crusoe/81b7a0a6-3ccf-49b2-acf4-26f16fd8ea79"
-  },
-  {
-    "company": "exa",
-    "role": "Solutions Architect, NYC",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/exa/18d1ef7b-3604-40e0-900b-c546162c9a95"
-  },
-  {
-    "company": "clickup",
-    "role": "Senior Solutions Engineer, Commercial",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/clickup/8ccf4b52-77e6-47ee-8c30-6634605eb975"
-  },
-  {
-    "company": "peopletec",
-    "role": "Systems Integration & Lab Infrastructure Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peopletec.icims.com/jobs/5448/systems-integration-%26-lab-infrastructure-engineer/job"
-  },
-  {
-    "company": "quanta",
-    "role": "Systems Engineer, Platform Engineering",
-    "status": "Awaiting review",
-    "url": "https://careers-quanta.icims.com/jobs/19644/systems-engineer%2c-platform-engineering/job"
-  },
-  {
-    "company": "sargentlundy",
-    "role": "Automation & Control Systems Engineering Consultant 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28715/automation-%26-control-systems-engineering-consultant-2---mission-critical/job"
-  },
-  {
-    "company": "sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28703/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28700/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
-    "company": "primehealthcare",
-    "role": "Enterprise Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-primehealthcare.icims.com/jobs/288955/enterprise-systems-engineer/job"
-  },
-  {
-    "company": "sas",
-    "role": "Senior Forward Deployed Solutions Architect, Large Pharma",
-    "status": "Awaiting review",
-    "url": "https://careers-sas.icims.com/jobs/46012/senior-forward-deployed-solutions-architect%2c-large-pharma/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Diagnostic System Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173240/diagnostic-system-engineer/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Senior Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173004/senior-systems-engineer/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Systems Engineer, Test Automation",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172296/systems-engineer%2c-test-automation/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Cyber Systems Engineering, Senior Advisor",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/171541/cyber-systems-engineering%2c-senior-advisor/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Senior SIGINT Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173177/senior-sigint-systems-engineer/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Senior Systems Integration Engineer (Active TS/SCI/Poly)",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172988/senior-systems-integration-engineer--%28active-ts-sci-poly%29/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Systems Engineer - DoD AI Program",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172908/systems-engineer---dod-ai-program/job"
-  },
-  {
-    "company": "riverbed",
-    "role": "Solutions Engineer, Federal (U.S. Navy)",
-    "status": "Awaiting review",
-    "url": "https://careers-riverbed.icims.com/jobs/8075/solutions-engineer%2c-federal-%28u.s.-navy%29/job"
-  },
-  {
-    "company": "rdi",
-    "role": "Infrastructure Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-rdi.icims.com/jobs/8538/infrastructure-engineer/job"
-  },
-  {
-    "company": "riverbed",
-    "role": "Solutions Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-riverbed.icims.com/jobs/8064/solutions-engineer/job"
-  },
-  {
-    "company": "riverbed",
-    "role": "Solutions Engineer, Federal (U.S. Army)",
-    "status": "Awaiting review",
-    "url": "https://careers-riverbed.icims.com/jobs/8059/solutions-engineer%2c-federal-%28u.s.-army%29/job"
-  },
-  {
-    "company": "quvia",
-    "role": "Solutions Engineer",
-    "status": "Awaiting review",
-    "url": "https://quvia.bamboohr.com/careers/252"
-  },
-  {
-    "company": "waymo",
-    "role": "Staff Systems Engineer, Driving Behaviors",
-    "status": "Evaluated",
-    "url": "https://careers.withwaymo.com/jobs"
-  },
-  {
-    "company": "waymo",
-    "role": "Senior Staff Technical Program Manager, New Product Programs",
-    "status": "Evaluated",
-    "url": "https://careers.withwaymo.com/jobs"
-  },
-  {
-    "company": "waymo",
-    "role": "Senior Systems Engineer, Vehicle Security",
-    "status": "Evaluated",
-    "url": "https://careers.withwaymo.com/jobs"
-  },
-  {
-    "company": "yipitdata",
-    "role": "IT Systems Engineer I",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/yipitdata/jobs/8329263"
-  },
-  {
-    "company": "voyagertechnologiesinc",
-    "role": "Systems Engineer VI - Systems",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4463235009"
-  },
-  {
-    "company": "waymo",
-    "role": "Senior Technical Program Manager, Fleet",
-    "status": "Evaluated",
-    "url": "https://careers.withwaymo.com/jobs"
-  },
-  {
-    "company": "wizinc",
-    "role": "Technical Account Manager, Southeast",
-    "status": "Evaluated",
-    "url": "https://www.wiz.io/careers/job/4723042006/:title"
-  },
-  {
-    "company": "wizinc",
-    "role": "Solutions Engineer, Growth - East",
-    "status": "Evaluated",
-    "url": "https://www.wiz.io/careers/job/4722439006/:title"
-  },
-  {
-    "company": "wizinc",
-    "role": "Senior Analyst, GTM Systems & Tools (Customer Engineering)",
-    "status": "Evaluated",
-    "url": "https://www.wiz.io/careers/job/4718673006/:title"
-  },
-  {
-    "company": "yipitdata",
-    "role": "Solutions Engineering Analyst",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/yipitdata/jobs/8164264"
-  },
-  {
-    "company": "waymo",
-    "role": "Senior Systems Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://careers.withwaymo.com/jobs"
-  },
-  {
-    "company": "zoo",
-    "role": "Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://zoo.dev/jobs/4737898005"
-  },
-  {
-    "company": "wing",
-    "role": "Senior SAP Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://wing.com/careers/8780936002"
-  },
-  {
-    "company": "wizinc",
-    "role": "Senior Partner Solutions Architect – GSI",
-    "status": "Evaluated",
-    "url": "https://www.wiz.io/careers/job/4703947006/:title"
-  },
-  {
-    "company": "wayvia",
-    "role": "Solutions Engineer II",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/wayvia/jobs/8822291002"
-  },
-  {
-    "company": "voyagertechnologiesinc",
-    "role": "MSAD Systems Engineer V - Team Manager",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4412153009"
-  },
-  {
-    "company": "waymo",
-    "role": "Technical Program Manager - Onboard Systems, ML Modeling",
-    "status": "Evaluated",
-    "url": "https://careers.withwaymo.com/jobs"
-  },
-  {
-    "company": "virbiotechnologyinc",
-    "role": "Senior IT Security & Infrastructure Engineer (Temporary)",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/virbiotechnologyinc/jobs/4733945005"
-  },
-  {
-    "company": "smiledigitalhealth",
-    "role": "Senior Solutions Architect - Remote US",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/smiledigitalhealth/3a727804-d154-4ce1-bb11-cdcb72bbc645"
-  },
-  {
-    "company": "mindrobotics",
-    "role": "Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/mindrobotics/f81d85b6-36f3-41f3-b383-d05cfa997017"
-  },
-  {
     "company": "formance",
     "role": "Pre-Sales Solutions Engineer",
     "status": "Evaluated",
@@ -599,5 +275,329 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Enterprise Architect",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/skyflow/714f3bb3-39df-4b7b-9e13-eae5cccd48e5"
+  },
+  {
+    "company": "Datadog",
+    "role": "Technical Account Manager 2 - New York",
+    "status": "Evaluated",
+    "url": "https://careers.datadoghq.com/detail/8357178/"
+  },
+  {
+    "company": "Datadog",
+    "role": "Technical Account Manager 3 - Denver",
+    "status": "Evaluated",
+    "url": "https://careers.datadoghq.com/detail/8350824/"
+  },
+  {
+    "company": "vyos",
+    "role": "System Engineer",
+    "status": "Awaiting review",
+    "url": "https://vyos.bamboohr.com/careers/107"
+  },
+  {
+    "company": "vidizmo",
+    "role": "Technical Account Manager (Pre-Sales)",
+    "status": "Awaiting review",
+    "url": "https://vidizmo.bamboohr.com/careers/441"
+  },
+  {
+    "company": "tractionrec",
+    "role": "Salesforce Solution Engineer (Hybrid or Remote)",
+    "status": "Awaiting review",
+    "url": "https://tractionrec.bamboohr.com/careers/154"
+  },
+  {
+    "company": "vozy",
+    "role": "Technical Operations Engineer (Voice & Integrations)",
+    "status": "Awaiting review",
+    "url": "https://vozy.bamboohr.com/careers/150"
+  },
+  {
+    "company": "versafile1",
+    "role": "Solutions Architect",
+    "status": "Awaiting review",
+    "url": "https://versafile1.bamboohr.com/careers/151"
+  },
+  {
+    "company": "clearwayjobs",
+    "role": "Manager, Power Systems Engineering",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5282038007"
+  },
+  {
+    "company": "capstoneintegratedsolutions",
+    "role": "Solution Architect (AWS / AI)",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/capstoneintegratedsolutions/jobs/5265331007"
+  },
+  {
+    "company": "coherehealth",
+    "role": "Lead Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8197660003"
+  },
+  {
+    "company": "cognite",
+    "role": "Senior Solution Architect",
+    "status": "Evaluated",
+    "url": "https://job-boards.eu.greenhouse.io/cognite/jobs/5029120101"
+  },
+  {
+    "company": "conga",
+    "role": "Sr Pre-Sales Solution Architect",
+    "status": "Awaiting review",
+    "url": "https://job-boards.greenhouse.io/conga/jobs/5280608007"
+  },
+  {
+    "company": "collibra",
+    "role": "Senior Federal Enterprise Solution Architect",
+    "status": "Evaluated",
+    "url": "https://www.collibra.com/us/en/company/careers/job-listing/"
+  },
+  {
+    "company": "cultureamp",
+    "role": "Director, Solutions Engineering",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8351331"
+  },
+  {
+    "company": "coinbase",
+    "role": "Staff Enterprise Architect",
+    "status": "Evaluated",
+    "url": "https://www.coinbase.com/careers/positions/8348153"
+  },
+  {
+    "company": "codeandtheory",
+    "role": "Solution Architect, Data Engineering (US)",
+    "status": "Evaluated",
+    "url": "https://www.codeandtheory.com/careers/8924732002"
+  },
+  {
+    "company": "blackduck",
+    "role": "Sr Technical Success Manager",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/blackduck/jobs/5464706008"
+  },
+  {
+    "company": "collibra",
+    "role": "Federal Enterprise Solution Architect",
+    "status": "Evaluated",
+    "url": "https://www.collibra.com/us/en/company/careers/job-listing/"
+  },
+  {
+    "company": "blackduck",
+    "role": "Lead Technical Success Manager",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/blackduck/jobs/5464719008"
+  },
+  {
+    "company": "candidly",
+    "role": "Senior Infrastructure Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/candidly/jobs/5278496007"
+  },
+  {
+    "company": "codeandtheory",
+    "role": "Adobe Multi-Solution Architect, Adobe Commerce (US)",
+    "status": "Evaluated",
+    "url": "https://www.codeandtheory.com/careers/8922336002"
+  },
+  {
+    "company": "cleo",
+    "role": "Implementation Engineer",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/cleo/jobs/4747888005"
+  },
+  {
+    "company": "coherehealth",
+    "role": "Senior Director, Solutions Architecture",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8047242003"
+  },
+  {
+    "company": "cleo",
+    "role": "Solutions Architect Associate",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/cleo/jobs/4747892005"
+  },
+  {
+    "company": "block",
+    "role": "Senior Finance Systems Engineer: Oracle Fusion",
+    "status": "Evaluated",
+    "url": "http://block.xyz/careers/jobs/5442269008"
+  },
+  {
+    "company": "clearwayjobs",
+    "role": "AI Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5272966007"
+  },
+  {
+    "company": "checkr",
+    "role": "Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/checkr/jobs/8310728"
+  },
+  {
+    "company": "charlesriverassociates",
+    "role": "Systems Engineer (IT Services)",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/1142524"
+  },
+  {
+    "company": "careaccess",
+    "role": "Senior IT Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/careaccess/jobs/4464514009"
+  },
+  {
+    "company": "clear",
+    "role": "Hardware Infrastructure Engineer II",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/clear/jobs/8201085"
+  },
+  {
+    "company": "cargurus",
+    "role": "Senior Principal Software Engineer, Cloud Architecture",
+    "status": "Evaluated",
+    "url": "https://careers.cargurus.com/us/en/job/8285501"
+  },
+  {
+    "company": "chaosindustries",
+    "role": "Principal Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5262770007"
+  },
+  {
+    "company": "chaosindustries",
+    "role": "Principal Mechanical Systems Engineer, IPT Lead",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5262777007"
+  },
+  {
+    "company": "chaosindustries",
+    "role": "Principal Avionics Systems Engineer, IPT Lead",
+    "status": "Possible",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5262761007"
+  },
+  {
+    "company": "chaosindustries",
+    "role": "Principal Mission Systems Engineer, IPT Lead",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5262759007"
+  },
+  {
+    "company": "chaosindustries",
+    "role": "Senior Communications Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5262183007"
+  },
+  {
+    "company": "castaigroupinc",
+    "role": "AI Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://cast.ai/careers/apply/"
+  },
+  {
+    "company": "contentful",
+    "role": "Senior Technical Account Manager",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8257080"
+  },
+  {
+    "company": "coinbase",
+    "role": "Staff Technical Program Manager, Consumer",
+    "status": "Evaluated",
+    "url": "https://www.coinbase.com/careers/positions/8259801"
+  },
+  {
+    "company": "coherehealth",
+    "role": "Director, Solutions Architecture",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8013507003"
+  },
+  {
+    "company": "conga",
+    "role": "Associate Principal Solution Architect",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/conga/jobs/5252340007"
+  },
+  {
+    "company": "chaosindustries",
+    "role": "Senior Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5255583007"
+  },
+  {
+    "company": "chaosindustries",
+    "role": "Senior Systems Engineer, Algorithm Development - Effectors",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5255580007"
+  },
+  {
+    "company": "c3iot",
+    "role": "Technical Program Manager, Release Management - C3 Agentic AI Platform",
+    "status": "Evaluated",
+    "url": "https://c3.ai/job-description/8831493002"
+  },
+  {
+    "company": "chime",
+    "role": "Senior Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://boards.greenhouse.io/chime/jobs/8765682002"
+  },
+  {
+    "company": "blumira",
+    "role": "Solution Engineer, Post-Sales",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/blumira/jobs/6191614004"
+  },
+  {
+    "company": "cleo",
+    "role": "Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/cleo/jobs/4733431005"
+  },
+  {
+    "company": "cordial81",
+    "role": "Senior Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://boards.greenhouse.io/cordial81/jobs/8801116002"
+  },
+  {
+    "company": "wetravel",
+    "role": "Senior Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/wetravel/c1b3c257-8baa-4be4-8400-13d988eed5d4"
+  },
+  {
+    "company": "whippy",
+    "role": "Solutions Engineer, Post-Sale (Remote LATAM or US)",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/whippy/b7f61bde-b61b-40be-aef6-e34ec78be91e"
+  },
+  {
+    "company": "whippy",
+    "role": "Enterprise Solutions Engineer, Post-Sale (Remote LATAM or US)",
+    "status": "Awaiting review",
+    "url": "https://jobs.ashbyhq.com/whippy/663c37f8-23b7-4da3-93e1-ea921c9a7752"
+  },
+  {
+    "company": "whippy",
+    "role": "Associate Solutions Engineer, Post-Sale (Remote LATAM or US)",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/whippy/45a5f2e9-2b18-49e5-b3b0-9b32a5de8052"
+  },
+  {
+    "company": "xona-space",
+    "role": "Test Infrastructure/Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/xona-space/47de67f1-f131-425f-9385-9374b84cf938"
+  },
+  {
+    "company": "weave",
+    "role": "Salesforce Development Manager & Systems Architect",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/weave/5648ae73-a63c-4918-9929-293f9d0fb44b"
   }
 ];
