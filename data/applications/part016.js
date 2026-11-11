@@ -339,5 +339,16 @@ window.APPLICATIONS.push(...[
     "source": "Automated application",
     "notes": "Employer confirmation and LiftmyCV auto-apply report received.",
     "jobUrl": ""
+  },
+  {
+    "company": "Contruent",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-11-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Post-sales, non-quota enterprise TAM role emphasizing proactive technical health, strategic partnerships, renewals, adoption, architecture guidance and executive escalation leadership.",
+    "notes": "Applied November 11, 2026 (user-confirmed). Background strongly matches enterprise SaaS TAM, strategic accounts, escalation and stakeholder leadership; stated direct Contruent Enterprise/Ares Prism experience and capital project controls domain not established. Occasional domestic and international travel. Job URL and resume strategy not supplied.",
+    "jobUrl": ""
   }
 ]);
