@@ -350,5 +350,17 @@ window.APPLICATIONS.push(...[
     "signal": "Post-sales, non-quota enterprise TAM role emphasizing proactive technical health, strategic partnerships, renewals, adoption, architecture guidance and executive escalation leadership.",
     "notes": "Applied November 11, 2026 (user-confirmed). Background strongly matches enterprise SaaS TAM, strategic accounts, escalation and stakeholder leadership; stated direct Contruent Enterprise/Ares Prism experience and capital project controls domain not established. Occasional domestic and international travel. Job URL and resume strategy not supplied.",
     "jobUrl": ""
+  },
+  {
+    "company": "HubSpot",
+    "role": "Solutions Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-11-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "LinkedIn",
+    "signal": "Role POS-P2934: AI-era technical pre-sales with outcome-led demos, customer discovery, HubSpot architecture, integrations, hands-on proofs with AI coding tools and Breeze AI agents.",
+    "notes": "User confirmed application Nov 11. Several levels and Mid-Market/Corp segments mentioned. Published annual cash compensation $105,800-$151,200 includes base plus eligible variable/bonus, not necessarily base salary. Strong customer-facing enterprise architecture and discovery skills; direct HubSpot developer/Breeze experience not established. Occasional customer travel.",
+    "jobUrl": ""
   }
 ]);
