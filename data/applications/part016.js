@@ -362,5 +362,16 @@ window.APPLICATIONS.push(...[
     "signal": "Role POS-P2934: AI-era technical pre-sales with outcome-led demos, customer discovery, HubSpot architecture, integrations, hands-on proofs with AI coding tools and Breeze AI agents.",
     "notes": "User confirmed application Nov 11. Several levels and Mid-Market/Corp segments mentioned. Published annual cash compensation $105,800-$151,200 includes base plus eligible variable/bonus, not necessarily base salary. Strong customer-facing enterprise architecture and discovery skills; direct HubSpot developer/Breeze experience not established. Occasional customer travel.",
     "jobUrl": ""
+  },
+  {
+    "company": "FullStack",
+    "role": "Solutions Architect",
+    "status": "Applied",
+    "appliedDate": "2026-11-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "100% remote, client-facing pre-sales solutions architecture for custom software and AI solutions; enterprise discovery, demos, technical roadmaps, scoping, cloud modernization and integrations.",
+    "notes": "Applied Nov 11, 2026 (user-confirmed). Role seeks 10+ years software engineering/architecture leadership, advanced JavaScript/TypeScript (Node.js, React), Python for AI workflows, hands-on AWS/Azure/GCP, and verified CS/SE-related bachelor's degree. Excellent enterprise customer/pre-sales/solution architecture transfer; deep hands-on full-stack coding and degree requirement are qualification gaps or require verification. Compensation listed as competitive without published range. User did not provide job URL or resume strategy.",
+    "jobUrl": ""
   }
 ]);
