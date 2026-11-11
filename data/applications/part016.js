@@ -308,17 +308,6 @@ window.APPLICATIONS.push(...[
     "jobUrl": ""
   },
   {
-    "company": "BioCryst Pharmaceuticals",
-    "role": "Assoc. Director, Regulatory Affairs Strategy",
-    "status": "Applied",
-    "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "source": "Company careers",
-    "notes": "Employer confirmation received. Role appears outside usual technical scope; review auto-apply settings.",
-    "jobUrl": ""
-  },
-  {
     "company": "OpenRouter",
     "role": "Solutions Architect",
     "status": "Applied",
@@ -349,17 +338,6 @@ window.APPLICATIONS.push(...[
     "stage": "Application submitted",
     "source": "Automated application",
     "notes": "Employer confirmation and LiftmyCV auto-apply report received.",
-    "jobUrl": ""
-  },
-  {
-    "company": "Bolder Apps",
-    "role": "Solutions Architect (US only)",
-    "status": "Applied",
-    "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "source": "Automated application",
-    "notes": "Employer and Workable confirmations received. Submitted application copy contains a wrong US state and apparently incorrect hourly compensation answer; verify privately.",
     "jobUrl": ""
   }
 ]);
