@@ -1,378 +1,6 @@
 // Sanitized leads. NOT submitted applications.
 window.JOB_RADAR_PIPELINE = [
   {
-    "company": "formance",
-    "role": "Pre-Sales Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/formance/7da53ad4-f5f4-43fd-8524-f59019115f13"
-  },
-  {
-    "company": "odys-aviation",
-    "role": "Lead Propulsion Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/odys-aviation/03f3d4c0-3d89-4df6-9241-0dd292dd0f6c"
-  },
-  {
-    "company": "fullstory",
-    "role": "Customer Solutions Engineer, Strategic Accounts",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/fullstory/740cc466-d9f7-4ebc-a355-3376ad4355fe"
-  },
-  {
-    "company": "northwoodspace",
-    "role": "Senior Infrastructure Engineer (Platform)",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/northwoodspace/87bd8fc1-54ea-4bda-90fc-95a956ea92f5"
-  },
-  {
-    "company": "livekit",
-    "role": "Staff GTM Systems Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/livekit/cbf7c302-9e6a-4f8d-8896-5be61ae908c1"
-  },
-  {
-    "company": "helion",
-    "role": "Machine Maintenance and Integration Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/helion/010f7d80-9850-4b65-a23a-b5bbd71370db"
-  },
-  {
-    "company": "openai",
-    "role": "Technical Program Manager, Capacity Analytics & Tooling",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/openai/5cc72bc7-e6a0-40e0-9f60-23474cd9acdb"
-  },
-  {
-    "company": "openai",
-    "role": "Technical Program Manager, Research Compute Services",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/openai/e49133e6-4030-4295-b393-1725aa410344"
-  },
-  {
-    "company": "openai",
-    "role": "Technical Program Manager, Global Infrastructure Planning",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/openai/df242b29-6a84-4968-8d57-cbeec20dee67"
-  },
-  {
-    "company": "openai",
-    "role": "Technical Program Manager, Compute Infrastructure",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3"
-  },
-  {
-    "company": "northwoodspace",
-    "role": "Infrastructure Engineer (Platform)",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/northwoodspace/39d7a585-76f5-4c39-9a5a-b4e8002cdd43"
-  },
-  {
-    "company": "openai",
-    "role": "Technical Program Manager, People Innovation Labs",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/openai/87ef8476-e930-47ed-abc2-a1bedcc074fb"
-  },
-  {
-    "company": "lambda",
-    "role": "Senior Technical Program Manager - Public Cloud",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/Lambda/3d51be65-e95a-4666-8789-1aadc21b3b73"
-  },
-  {
-    "company": "openloophealth",
-    "role": "Pharmacy & Clinical Systems Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/openloophealth/323698cb-bd39-4107-92b6-f31c42e14437"
-  },
-  {
-    "company": "teleworldsolutions",
-    "role": "Technical Operations & Branded Calling Program Manager",
-    "status": "Awaiting review",
-    "url": "https://careers-teleworldsolutions.icims.com/jobs/3880/technical-operations-%26-branded-calling-program-manager/job"
-  },
-  {
-    "company": "uscareers-waters",
-    "role": "Senior System Engineer - Optical",
-    "status": "Awaiting review",
-    "url": "https://uscareers-waters.icims.com/jobs/27306/2026-27306/job"
-  },
-  {
-    "company": "tacareers-waters",
-    "role": "Senior Systems Engineer - Mechanical",
-    "status": "Awaiting review",
-    "url": "https://tacareers-waters.icims.com/jobs/25011/senior-systems-engineer---mechanical/job"
-  },
-  {
-    "company": "uscareers-waters",
-    "role": "Senior Systems Engineer - Mechanical",
-    "status": "Awaiting review",
-    "url": "https://uscareers-waters.icims.com/jobs/25011/2025-25011/job"
-  },
-  {
-    "company": "uscareers-fujifilm",
-    "role": "Principal HL7 Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://uscareers-fujifilm.icims.com/jobs/38421/principal-hl7-integration-engineer/job"
-  },
-  {
-    "company": "vertexcareers-atriumworks",
-    "role": "2nd Shift - QE Execution Staff, Manufacturing Technical Operations (contract) 804.1",
-    "status": "Awaiting review",
-    "url": "https://vertexcareers-atriumworks.icims.com/jobs/11167/2nd-shift---qe-execution-staff%2c-manufacturing-technical-operations-%28contract%29-804.1/job"
-  },
-  {
-    "company": "uscareers-fujifilm",
-    "role": "Senior Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://uscareers-fujifilm.icims.com/jobs/38798/senior-systems-engineer/job"
-  },
-  {
-    "company": "uiccareers-uicalaska",
-    "role": "Systems Engineer / VTC Operator Tier III",
-    "status": "Awaiting review",
-    "url": "https://uiccareers-uicalaska.icims.com/jobs/26394/systems-engineer---vtc-operator-tier-iii/job"
-  },
-  {
-    "company": "uscareers-bruker",
-    "role": "Staff System Engineer - Semiconductor Capital Equipment",
-    "status": "Possible",
-    "url": "https://uscareers-bruker.icims.com/jobs/20091/staff-system-engineer---semiconductor-capital-equipment/job"
-  },
-  {
-    "company": "uscareers-yelp",
-    "role": "Solutions Engineer, API Integration",
-    "status": "Awaiting review",
-    "url": "https://uscareers-yelp.icims.com/jobs/14073/solutions-engineer%2c-api-integration/job"
-  },
-  {
-    "company": "uscareers-fujifilm",
-    "role": "Technical Program Manager/Sr. Technical Program Manager",
-    "status": "Awaiting review",
-    "url": "https://uscareers-fujifilm.icims.com/jobs/38962/technical-program-manager-sr.-technical-program-manager/job"
-  },
-  {
-    "company": "uscareers-waters",
-    "role": "Principal AI Solutions Engineer",
-    "status": "Awaiting review",
-    "url": "https://uscareers-waters.icims.com/jobs/25817/2026-25817/job"
-  },
-  {
-    "company": "uscareers-fujifilm",
-    "role": "Systems Engineer II",
-    "status": "Awaiting review",
-    "url": "https://uscareers-fujifilm.icims.com/jobs/38905/systems-engineer-ii/job"
-  },
-  {
-    "company": "uscareers-waters",
-    "role": "Principal CPI integration Architect",
-    "status": "Awaiting review",
-    "url": "https://uscareers-waters.icims.com/jobs/27703/2026-27703/job"
-  },
-  {
-    "company": "uscareers-waters",
-    "role": "Senior Embedded Software / Systems Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://uscareers-waters.icims.com/jobs/27633/2026-27633/job"
-  },
-  {
-    "company": "sigmaequipment",
-    "role": "Mechanical / Design Integration Engineer",
-    "status": "Possible",
-    "url": "https://sigmaequipment.bamboohr.com/careers/235"
-  },
-  {
-    "company": "stimulustechnologies",
-    "role": "Technical Program Manager",
-    "status": "Awaiting review",
-    "url": "https://stimulustechnologies.bamboohr.com/careers/171"
-  },
-  {
-    "company": "swanky",
-    "role": "Senior Solutions Engineer",
-    "status": "Awaiting review",
-    "url": "https://swanky.bamboohr.com/careers/167"
-  },
-  {
-    "company": "shawscott",
-    "role": "Solutions Engineer (French Speaking)",
-    "status": "Awaiting review",
-    "url": "https://shawscott.bamboohr.com/careers/79"
-  },
-  {
-    "company": "solace",
-    "role": "Solutions Engineer",
-    "status": "Awaiting review",
-    "url": "https://solace.bamboohr.com/careers/808"
-  },
-  {
-    "company": "tangramflex",
-    "role": "Senior Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://tangramflex.bamboohr.com/careers/134"
-  },
-  {
-    "company": "aalphabio",
-    "role": "Research Associate II, Technical Operations",
-    "status": "Evaluated",
-    "url": "https://www.aalphabio.com/careers"
-  },
-  {
-    "company": "anaplan",
-    "role": "Solution Architect, Professional Services (SPM)",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8857564002"
-  },
-  {
-    "company": "airbnb",
-    "role": "Senior Systems Engineer, BizTech",
-    "status": "Evaluated",
-    "url": "https://careers.airbnb.com/positions/8348197"
-  },
-  {
-    "company": "altentechnologyusa",
-    "role": "Software Technical Program Manager (SW TPM) - MedTech",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5282040007"
-  },
-  {
-    "company": "altentechnologyusa",
-    "role": "Technical Program Manager - Offshore Engineering & Sustaining Operations",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5281462007"
-  },
-  {
-    "company": "beyondtrust",
-    "role": "Senior Security Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8331655"
-  },
-  {
-    "company": "a16z",
-    "role": "Partner 20, Staff Security Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://a16z.com/about/jobs/"
-  },
-  {
-    "company": "verygoodsecurity",
-    "role": "Sr. Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/verygoodsecurity/e6a60d16-54dc-47bd-bd0a-e3003be20274"
-  },
-  {
-    "company": "valon",
-    "role": "Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/Valon/bc171673-83fb-4f07-8943-7cee6934067a"
-  },
-  {
-    "company": "pinecone",
-    "role": "Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/pinecone/a50c376a-0216-40b2-9525-da89d47ef190"
-  },
-  {
-    "company": "skyflow",
-    "role": "Enterprise Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/skyflow/714f3bb3-39df-4b7b-9e13-eae5cccd48e5"
-  },
-  {
-    "company": "Datadog",
-    "role": "Technical Account Manager 2 - New York",
-    "status": "Evaluated",
-    "url": "https://careers.datadoghq.com/detail/8357178/"
-  },
-  {
-    "company": "Datadog",
-    "role": "Technical Account Manager 3 - Denver",
-    "status": "Evaluated",
-    "url": "https://careers.datadoghq.com/detail/8350824/"
-  },
-  {
-    "company": "vyos",
-    "role": "System Engineer",
-    "status": "Awaiting review",
-    "url": "https://vyos.bamboohr.com/careers/107"
-  },
-  {
-    "company": "vidizmo",
-    "role": "Technical Account Manager (Pre-Sales)",
-    "status": "Awaiting review",
-    "url": "https://vidizmo.bamboohr.com/careers/441"
-  },
-  {
-    "company": "tractionrec",
-    "role": "Salesforce Solution Engineer (Hybrid or Remote)",
-    "status": "Awaiting review",
-    "url": "https://tractionrec.bamboohr.com/careers/154"
-  },
-  {
-    "company": "vozy",
-    "role": "Technical Operations Engineer (Voice & Integrations)",
-    "status": "Awaiting review",
-    "url": "https://vozy.bamboohr.com/careers/150"
-  },
-  {
-    "company": "versafile1",
-    "role": "Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://versafile1.bamboohr.com/careers/151"
-  },
-  {
-    "company": "clearwayjobs",
-    "role": "Manager, Power Systems Engineering",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5282038007"
-  },
-  {
-    "company": "capstoneintegratedsolutions",
-    "role": "Solution Architect (AWS / AI)",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/capstoneintegratedsolutions/jobs/5265331007"
-  },
-  {
-    "company": "coherehealth",
-    "role": "Lead Technical Program Manager",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8197660003"
-  },
-  {
-    "company": "cognite",
-    "role": "Senior Solution Architect",
-    "status": "Evaluated",
-    "url": "https://job-boards.eu.greenhouse.io/cognite/jobs/5029120101"
-  },
-  {
-    "company": "conga",
-    "role": "Sr Pre-Sales Solution Architect",
-    "status": "Awaiting review",
-    "url": "https://job-boards.greenhouse.io/conga/jobs/5280608007"
-  },
-  {
-    "company": "collibra",
-    "role": "Senior Federal Enterprise Solution Architect",
-    "status": "Evaluated",
-    "url": "https://www.collibra.com/us/en/company/careers/job-listing/"
-  },
-  {
-    "company": "cultureamp",
-    "role": "Director, Solutions Engineering",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8351331"
-  },
-  {
-    "company": "coinbase",
-    "role": "Staff Enterprise Architect",
-    "status": "Evaluated",
-    "url": "https://www.coinbase.com/careers/positions/8348153"
-  },
-  {
-    "company": "codeandtheory",
-    "role": "Solution Architect, Data Engineering (US)",
-    "status": "Evaluated",
-    "url": "https://www.codeandtheory.com/careers/8924732002"
-  },
-  {
     "company": "blackduck",
     "role": "Sr Technical Success Manager",
     "status": "Possible",
@@ -599,5 +227,377 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Salesforce Development Manager & Systems Architect",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/weave/5648ae73-a63c-4918-9929-293f9d0fb44b"
+  },
+  {
+    "company": "Temporal",
+    "role": "Senior Developer Success Engineer - East",
+    "status": "Possible",
+    "url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
+  },
+  {
+    "company": "Vanta",
+    "role": "Solutions Engineer, Mid-Market",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/vanta/383e20b0-b2c5-4c4f-9406-46f0a671a7bc"
+  },
+  {
+    "company": "Teleport",
+    "role": "Staff Solutions Engineer - West Coast",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/goteleport/5171aacf-602c-4059-8503-62c2afcc5e53"
+  },
+  {
+    "company": "Teleport",
+    "role": "Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/goteleport/7872218d-8c1e-40f7-9b79-0076c2fa1564"
+  },
+  {
+    "company": "barrios",
+    "role": "Commercial Destinations Office - Systems Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-barrios.icims.com/jobs/2956/commercial-destinations-office---systems-engineer/job"
+  },
+  {
+    "company": "berkley",
+    "role": "Systems Engineer II",
+    "status": "Awaiting review",
+    "url": "https://careers-berkley.icims.com/jobs/14872/systems-engineer-ii/job"
+  },
+  {
+    "company": "bowheadcareers-uicalaska",
+    "role": "Enterprise Architect",
+    "status": "Awaiting review",
+    "url": "https://bowheadcareers-uicalaska.icims.com/jobs/26593/enterprise-architect/job"
+  },
+  {
+    "company": "bowheadcareers-uicalaska",
+    "role": "Tactical Network and Computer Systems Architect",
+    "status": "Awaiting review",
+    "url": "https://bowheadcareers-uicalaska.icims.com/jobs/26580/tactical-network-and-computer-systems-architect/job"
+  },
+  {
+    "company": "bowheadcareers-uicalaska",
+    "role": "Anti-Tamper Systems Engineer",
+    "status": "Awaiting review",
+    "url": "https://bowheadcareers-uicalaska.icims.com/jobs/26585/anti-tamper-systems-engineer/job"
+  },
+  {
+    "company": "bowheadcareers-uicalaska",
+    "role": "Systems Engineer",
+    "status": "Awaiting review",
+    "url": "https://bowheadcareers-uicalaska.icims.com/jobs/26584/systems-engineer/job"
+  },
+  {
+    "company": "altorfer",
+    "role": "Microsoft Dynamics 365 F&O Platform & Solution Architect",
+    "status": "Awaiting review",
+    "url": "https://careers-altorfer.icims.com/jobs/5965/microsoft-dynamics-365-f%26o-platform-%26-solution-architect/job"
+  },
+  {
+    "company": "berkley",
+    "role": "Sr. Systems Engineer (Active Directory)",
+    "status": "Awaiting review",
+    "url": "https://careers-berkley.icims.com/jobs/14208/sr.-systems-engineer-%28active-directory%29/job"
+  },
+  {
+    "company": "berkley",
+    "role": "Senior Systems Engineer - IAM",
+    "status": "Awaiting review",
+    "url": "https://careers-berkley.icims.com/jobs/11818/senior-systems-engineer---iam/job"
+  },
+  {
+    "company": "bgca",
+    "role": "Sr Infrastructure Engineer",
+    "status": "Awaiting review",
+    "url": "https://careers-bgca.icims.com/jobs/8652/sr-infrastructure-engineer/job"
+  },
+  {
+    "company": "worldwinner",
+    "role": "Senior Technical Program Manager - CONTRACT",
+    "status": "Awaiting review",
+    "url": "https://worldwinner.bamboohr.com/careers/121"
+  },
+  {
+    "company": "zepto",
+    "role": "Senior Solutions Engineer",
+    "status": "Awaiting review",
+    "url": "https://zepto.bamboohr.com/careers/107"
+  },
+  {
+    "company": "ensco",
+    "role": "Interface Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/ensco/jobs/5475404008"
+  },
+  {
+    "company": "figma",
+    "role": "Technical Operations & Insights Analyst",
+    "status": "Evaluated",
+    "url": "https://boards.greenhouse.io/figma/jobs/6249978004"
+  },
+  {
+    "company": "databricks",
+    "role": "Sr. Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://databricks.com/company/careers/open-positions/job"
+  },
+  {
+    "company": "flyzipline",
+    "role": "Senior/Staff Cloud Infrastructure Engineer",
+    "status": "Evaluated",
+    "url": "https://www.zipline.com/open-roles/8111582003"
+  },
+  {
+    "company": "esri",
+    "role": "Systems Engineer- Federal",
+    "status": "Evaluated",
+    "url": "https://www.esri.com/careers/5279086007"
+  },
+  {
+    "company": "eridan",
+    "role": "Associate RF Hardware Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/eridan/jobs/4751970005"
+  },
+  {
+    "company": "ensco",
+    "role": "Systems Integration Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/ensco/jobs/5475392008"
+  },
+  {
+    "company": "ensco",
+    "role": "Senior Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/ensco/jobs/5475398008"
+  },
+  {
+    "company": "gardacp",
+    "role": "Infrastructure Engineer",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/gardacp/jobs/6251084004"
+  },
+  {
+    "company": "databricks",
+    "role": "Sr. Solutions Engineer - AI Natives Business",
+    "status": "Evaluated",
+    "url": "https://databricks.com/company/careers/open-positions/job"
+  },
+  {
+    "company": "federato",
+    "role": "Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/federato/jobs/5471957008"
+  },
+  {
+    "company": "databricks",
+    "role": "Sr. Partner Solutions Architect - Customer Lake & Lakewatch",
+    "status": "Evaluated",
+    "url": "https://databricks.com/company/careers/open-positions/job"
+  },
+  {
+    "company": "crogl",
+    "role": "Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/crogl/b23b8117-2cb3-4f85-b18f-dc2b094f6018"
+  },
+  {
+    "company": "benchling",
+    "role": "Enterprise Solutions Architect",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/benchling/8f47c31f-4fd1-4108-92c0-98fc85feb7b0"
+  },
+  {
+    "company": "delinea",
+    "role": "Technical Program Manager, Enterprise Security",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/delinea/3ba7c9f1-6ac5-4a2b-b90d-4284b4af7a67"
+  },
+  {
+    "company": "crusoe",
+    "role": "Senior Infrastructure Engineer",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/Crusoe/9a183c7b-31d0-4814-8f0f-b0beecfd4922"
+  },
+  {
+    "company": "cursor",
+    "role": "Technical Program Manager, Field",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/cursor/2f568bb6-9a03-4f45-9392-0c62127011c6"
+  },
+  {
+    "company": "braintrust",
+    "role": "Solutions Engineer (Central Region)",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/Braintrust/0a099dbd-0972-426c-ba10-fc280135de43"
+  },
+  {
+    "company": "brainco",
+    "role": "Technical Program Manager, Strategy & Ops",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/brainco/5a6a73fd-8b2b-41ab-af35-f0827c004599"
+  },
+  {
+    "company": "brainco",
+    "role": "Technical Program Manager, Security",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/brainco/71cf2079-a1c5-4d32-8264-ef56639d15f9"
+  },
+  {
+    "company": "base-power",
+    "role": "Manufacturing Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/base-power/feeec02c-04f9-4fe3-9c25-0033f1fbe7f6"
+  },
+  {
+    "company": "autoscience",
+    "role": "Technical Program Manager",
+    "status": "Evaluated",
+    "url": "https://jobs.ashbyhq.com/autoscience/1b916a76-f4ad-42c8-9431-96d18472c423"
+  },
+  {
+    "company": "workday",
+    "role": "Technical Account Manager (Atlanta,GA and North Carolina (remote only))",
+    "status": "Evaluated",
+    "url": "https://workday.wd5.myworkdayjobs.com/workday/job/USA-GA-Atlanta/Technical-Account-Manager--Atlanta-GA-_JR-0109355"
+  },
+  {
+    "company": "workday",
+    "role": "Technical Account Manager (Austin,TX)",
+    "status": "Evaluated",
+    "url": "https://workday.wd5.myworkdayjobs.com/workday/job/USA-TX-Austin/Technical-Account-Manager--Austin-TX-_JR-0109356"
+  },
+  {
+    "company": "westernunion",
+    "role": "Global KYC Senior Architect, Solution Engineering (Hybrid)",
+    "status": "Evaluated",
+    "url": "https://westernunion.wd5.myworkdayjobs.com/westernunionjobs/job/USA-TX---Austin---11902-Burnet-Rd/Global-KYC-Senior-Architect--Solution-Engineering--Hybrid-_JR0132093"
+  },
+  {
+    "company": "workday",
+    "role": "Principal Distributed Systems Engineer - Observability",
+    "status": "Evaluated",
+    "url": "https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Principal-Distributed-Systems-Engineer---Observability_JR-0109636"
+  },
+  {
+    "company": "web",
+    "role": "Enterprise Technical Account Manager",
+    "status": "Evaluated",
+    "url": "https://web.wd1.myworkdayjobs.com/externalcareersite/job/United-States---Remote/Enterprise-Technical-Account-Manager_R14831-1"
+  },
+  {
+    "company": "workday",
+    "role": "Enterprise Architect (Solutions Engineer), Identity",
+    "status": "Evaluated",
+    "url": "https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Enterprise-Architect--Presales-Solution-Engineer---Identity_JR-0111473"
+  },
+  {
+    "company": "workday",
+    "role": "Senior/Principal Solution Architect - Identity & Governance",
+    "status": "Evaluated",
+    "url": "https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Senior-Principal-Solution-Architect---Identity---Governance_JR-0111284"
+  },
+  {
+    "company": "worldacceptance",
+    "role": "Senior Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://worldacceptance.wd12.myworkdayjobs.com/world_finance/job/Greenville-SC-United-States/Senior-Systems-Engineer_R19559"
+  },
+  {
+    "company": "wk",
+    "role": "Principal Enterprise Architect",
+    "status": "Evaluated",
+    "url": "https://wk.wd3.myworkdayjobs.com/external/job/USA---Riverwoods-IL/Principal-Enterprise-Architect_R0059328"
+  },
+  {
+    "company": "workday",
+    "role": "Sr Solution Architect",
+    "status": "Evaluated",
+    "url": "https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Sr-Solution-Architect_JR-0111082"
+  },
+  {
+    "company": "wellington",
+    "role": "Senior Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://wellington.wd5.myworkdayjobs.com/external/job/New-York-NY-United-States/Senior-Systems-Engineer_R95102"
+  },
+  {
+    "company": "zendesk",
+    "role": "Senior Solutions Architect - Amazon Connect",
+    "status": "Evaluated",
+    "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-North-Carolina-United-States-of-America/Senior-Partner-Platform-Architect_R35621"
+  },
+  {
+    "company": "zayo",
+    "role": "Senior Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/United-States/Senior-Solutions-Engineer_R0017541"
+  },
+  {
+    "company": "woundedwarriorproject",
+    "role": "Senior Salesforce Solution Architect",
+    "status": "Evaluated",
+    "url": "https://woundedwarriorproject.wd5.myworkdayjobs.com/wwp/job/Jacksonville-FL/Senior-Salesforce-Solution-Architect_R14207"
+  },
+  {
+    "company": "wiley",
+    "role": "AI Solutions Engineer",
+    "status": "Evaluated",
+    "url": "https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/AI-Solutions-Engineer_R2601331"
+  },
+  {
+    "company": "wellington",
+    "role": "Enterprise Architect, Data",
+    "status": "Evaluated",
+    "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Enterprise-Architect--Data_R94908-1"
+  },
+  {
+    "company": "wellington",
+    "role": "Enterprise Architect, Infrastructure Platform",
+    "status": "Evaluated",
+    "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Enterprise-Architect--Infrastructure-Platform_R94907-1"
+  },
+  {
+    "company": "wellington",
+    "role": "Enterprise Architect, Investment Platform",
+    "status": "Evaluated",
+    "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Enterprise-Architect--Investment-Platform_R94903-1"
+  },
+  {
+    "company": "workday",
+    "role": "Sr Solution Architect, Workday Financials",
+    "status": "Evaluated",
+    "url": "https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Sr-Solution-Architect_JR-0110133"
+  },
+  {
+    "company": "workday",
+    "role": "Principal Distributed Systems Engineer",
+    "status": "Evaluated",
+    "url": "https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Principal-Distributed-Systems-Engineer_JR-0110621"
+  },
+  {
+    "company": "wiley",
+    "role": "SAP Solution Architect Lead",
+    "status": "Evaluated",
+    "url": "https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/SAP-Solution-Architect-Lead_R2601429"
+  },
+  {
+    "company": "wynd",
+    "role": "Lead Systems Infrastructure Engineer",
+    "status": "Evaluated",
+    "url": "https://wynd.wd5.myworkdayjobs.com/external/job/Florida-USA-work-from-home/Consultant--IT-Infrastructure_R-129935"
+  },
+  {
+    "company": "zayo",
+    "role": "Critical Infrastructure Architecture & Standards Engineer, Senior",
+    "status": "Evaluated",
+    "url": "https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/United-States/Critical-Infrastructure-Architecture---Standards-Engineer--Senior_R0017158"
+  },
+  {
+    "company": "woundedwarriorproject",
+    "role": "Vice President - Cybersecurity, IT Infrastructure & Enterprise Architecture",
+    "status": "Evaluated",
+    "url": "https://woundedwarriorproject.wd5.myworkdayjobs.com/wwp/job/Jacksonville-FL/Vice-President---Cybersecurity--IT-Infrastructure---Enterprise-Architecture_R14336"
   }
 ];
