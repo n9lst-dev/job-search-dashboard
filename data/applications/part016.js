@@ -572,5 +572,18 @@ window.APPLICATIONS.push(...[
     "signal": "Freshworks recruiting said it would not invite the candidate to the next selection phase after review; generic no-fit response, no specific reason.",
     "notes": "Rejection email received November 11, 2026 at 12:55 PM ET. Original submission date not confirmed within the requested three-hour Gmail window.",
     "jobUrl": ""
+  },
+  {
+    "company": "NEP Group, Inc.",
+    "role": "Solution Architect | Global Connected Solutions",
+    "status": "Applied",
+    "appliedDate": "2026-11-12",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "LinkedIn",
+    "resumeStrategy": "V3.3 Targeted Custom",
+    "signal": "Strong alignment with SMPTE ST 2110, SDI/IP, media transport, live-event production, broadcast/streaming architecture, enterprise technical discovery, proposals/BOMs, and solution lifecycle ownership.",
+    "notes": "User confirmed submission November 12, 2026. Application materials: video/broadcast-focused two-page PDF resume tailored separately from locked V3.3 Rev 9 master, plus NEP-specific cover letter PDF. LinkedIn listing United States (Remote); travel to facilities, customer/vendor sites, and live events as needed. Compensation not shown.",
+    "jobUrl": ""
   }
 ]);
