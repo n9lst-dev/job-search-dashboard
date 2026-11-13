@@ -542,13 +542,14 @@ window.APPLICATIONS.push(...[
   {
     "company": "G10X",
     "role": "Technology Solutions Manager",
-    "status": "Applied",
+    "status": "Recruiter Screen",
     "appliedDate": "2026-11-11",
     "rejectedDate": "",
-    "stage": "Application submitted",
+    "stage": "Recruiter interview completed Nov 13; potential next rounds CTO, GM, chairman (not scheduled)",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote).",
-    "jobUrl": ""
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote). Recruiter screen with Shruthi Rajan held November 13, 2026. Follow-up interview invitations and advancement not yet confirmed. No compensation details published to the public tracker.",
+    "jobUrl": "",
+    "signal": "Recruiter discussion confirmed initial senior individual-contributor scope with possible future team leadership; outlined three potential executive interview rounds involving CTO, GM, and chairman."
   },
   {
     "company": "The Intersect Group",
