@@ -545,11 +545,11 @@ window.APPLICATIONS.push(...[
     "status": "Recruiter Screen",
     "appliedDate": "2026-11-11",
     "rejectedDate": "",
-    "stage": "Recruiter interview completed Nov 13; potential next rounds CTO, GM, chairman (not scheduled)",
+    "stage": "Recruiter screen completed Nov 13; referred to leadership for possible shortlist",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote). Recruiter screen with Shruthi Rajan held November 13, 2026. Follow-up interview invitations and advancement not yet confirmed. No compensation details published to the public tracker. Recruiter described functional scope as senior consulting leadership / principal solutions architect for customers, initially an individual-contributor role with possible later team responsibilities.",
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote). Recruiter screen with Shruthi Rajan held November 13, 2026. Recruiter forwarding profile to leadership team; shortlist decision pending, and no executive interviews scheduled. Compensation discussion withheld from the public tracker. Recruiter described functional scope as senior consulting leadership / principal solutions architect for customers, initially an individual-contributor role with possible later team responsibilities.",
     "jobUrl": "",
-    "signal": "Recruiter discussion confirmed initial senior individual-contributor scope with possible future team leadership; outlined three potential executive interview rounds involving CTO, GM, and chairman."
+    "signal": "Recruiter is sending candidate information to leadership for review. Only if shortlisted will three interview rounds with CTO, GM, and chairman begin; no advancement or interviews confirmed yet."
   },
   {
     "company": "The Intersect Group",
