@@ -2,12 +2,13 @@ window.APPLICATIONS.push(...[
   {
     "company": "playerzero",
     "role": "Solutions Engineer",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-05",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-13",
+    "stage": "Rejected - application not advanced",
     "jobUrl": "https://jobs.ashbyhq.com/playerzero/494db8ab-97d7-4886-b532-ce63bc5a1212",
-    "resumeStrategy": "V3.3 Master"
+    "resumeStrategy": "V3.3 Master",
+    "notes": " PlayerZero email November 13 confirmed non-selection."
   },
   {
     "company": "Box",
@@ -57,12 +58,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Appian",
     "role": "Senior Solutions Consultant",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-13",
+    "stage": "Rejected - hiring team selected closer-matching profiles",
     "source": "LinkedIn",
-    "notes": "LinkedIn and Appian confirmed a submission later Nov 11; an earlier same-day rejection email for this title predates this submission and may refer to another attempt. Verify separately.",
+    "notes": "LinkedIn and Appian confirmed a submission later Nov 11; an earlier same-day rejection email for this title predates this submission and may refer to another attempt. Verify separately. Employer sent a subsequent November 13 non-selection email following the confirmed November 11 submission. An earlier November 11 rejection email predates this submission and is not treated as its rejection date.",
     "jobUrl": ""
   },
   {
@@ -79,12 +80,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Request Technology, LLC",
     "role": "Principal Solutions Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-14",
+    "stage": "Rejected - LinkedIn employer update",
     "source": "LinkedIn",
-    "notes": "LinkedIn lists Chicago, IL (Hybrid); location may be outside target preferences.",
+    "notes": "LinkedIn lists Chicago, IL (Hybrid); location may be outside target preferences. LinkedIn application update Nov 14 confirmed this application will not move forward.",
     "jobUrl": ""
   },
   {
@@ -200,12 +201,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "DigiCert",
     "role": "Senior Solutions Engineer - Midwest",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-14",
+    "stage": "Rejected - other candidates selected",
     "source": "Indeed",
-    "notes": "Indeed and DigiCert confirmed submission. Distinct from previously rejected Senior Solutions Engineer application.",
+    "notes": "Indeed and DigiCert confirmed submission. Distinct from previously rejected Senior Solutions Engineer application. DigiCert Talent Acquisition advised November 14 that it is proceeding with other candidates. Separate from previously rejected DigiCert role.",
     "jobUrl": ""
   },
   {
@@ -277,12 +278,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "BetMGM",
     "role": "Director, Risk Operations",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-13",
+    "stage": "Rejected - did not advance",
     "source": "Company careers",
-    "notes": "Employer confirmation received.",
+    "notes": "Employer confirmation received. Employer email on November 13 confirmed non-selection.",
     "jobUrl": ""
   },
   {
@@ -421,12 +422,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Action1",
     "role": "Technical Account Manager",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-13",
+    "stage": "Rejected - did not advance",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote).",
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote). Employer email on November 13 confirmed non-selection.",
     "jobUrl": ""
   },
   {
@@ -487,12 +488,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "PranaTree",
     "role": "AWS Presales Consultant",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-14",
+    "stage": "Rejected - LinkedIn employer update",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: Seattle, WA (Remote).",
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: Seattle, WA (Remote). LinkedIn application update November 14 confirmed the application will not move forward.",
     "jobUrl": ""
   },
   {
@@ -534,10 +535,11 @@ window.APPLICATIONS.push(...[
     "status": "Applied",
     "appliedDate": "2026-11-11",
     "rejectedDate": "",
-    "stage": "Application submitted",
+    "stage": "Application viewed - Nov 13",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: Dallas-Fort Worth Metroplex (Remote).",
-    "jobUrl": ""
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: Dallas-Fort Worth Metroplex (Remote). LinkedIn viewed notification November 13.",
+    "jobUrl": "",
+    "signal": "LinkedIn reported application viewed Nov 13; no reply or interview invitation confirmed."
   },
   {
     "company": "G10X",
