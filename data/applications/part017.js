@@ -91,12 +91,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "TRIA",
     "role": "Director of Solutions Architecture",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-12",
     "rejectedDate": "",
-    "stage": "Application submitted",
+    "stage": "Rejected - employer declined to proceed",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed Nov 12 submission; listed United States (Remote).",
+    "notes": "LinkedIn confirmed Nov 12 submission; listed United States (Remote). Employer rejection notice shared Nov 15, 2026: will not move forward. Actual notification date not specified; rejectedDate left blank rather than inferred.",
     "jobUrl": ""
   },
   {
