@@ -93,10 +93,10 @@ window.APPLICATIONS.push(...[
     "role": "Director of Solutions Architecture",
     "status": "Rejected",
     "appliedDate": "2026-11-12",
-    "rejectedDate": "",
+    "rejectedDate": "2026-11-15",
     "stage": "Rejected - employer declined to proceed",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed Nov 12 submission; listed United States (Remote). Employer rejection notice shared Nov 15, 2026: will not move forward. Actual notification date not specified; rejectedDate left blank rather than inferred.",
+    "notes": "LinkedIn confirmed Nov 12 submission; listed United States (Remote). Employer rejection notice shared Nov 15, 2026: will not move forward. Rejection received November 15, 2026, as confirmed by applicant.",
     "jobUrl": ""
   },
   {
