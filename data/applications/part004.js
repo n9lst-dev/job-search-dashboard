@@ -2,12 +2,13 @@ window.APPLICATIONS.push(...[
   {
     "company": "affirm",
     "role": "Senior Technical Account Manager (Strategic Alliances)",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-10-30",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-12",
+    "stage": "Rejected - did not advance",
     "jobUrl": "https://job-boards.greenhouse.io/affirm/jobs/8044928003",
-    "resumeStrategy": "V3.3 Master"
+    "resumeStrategy": "V3.3 Master",
+    "notes": " Affirm Talent email November 12 confirmed the company would not proceed with this application."
   },
   {
     "company": "3cloud",
