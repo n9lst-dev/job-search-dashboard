@@ -1,62 +1,222 @@
 window.APPLICATIONS.push(...[
   {
-    "company": "eSentire", "role": "Senior Solutions Architect", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong technical pre-sales and enterprise infrastructure fit; primary gap is direct MDR/EDR/NDR/SIEM product experience.", "notes": "Applied directly through eSentire using the new condensed, results-focused ATS-flat resume and tailored cover letter. Published base salary range: $165,000-$180,000. Availability: immediately. First live application using the new condensed resume strategy.", "jobUrl": ""
+    "company": "eSentire",
+    "role": "Senior Solutions Architect",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong technical pre-sales and enterprise infrastructure fit; primary gap is direct MDR/EDR/NDR/SIEM product experience.",
+    "notes": "Applied directly through eSentire using the new condensed, results-focused ATS-flat resume and tailored cover letter. Published base salary range: $165,000-$180,000. Availability: immediately. First live application using the new condensed resume strategy.",
+    "jobUrl": ""
   },
   {
-    "company": "White Cup", "role": "Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application reviewed", "signal": "Strong fit for discovery-led technical pre-sales, tailored product demonstrations, solution storytelling, and cross-functional Sales/Product work; primary gap is direct distribution-focused CRM/BI domain experience. Application was reviewed within minutes of submission.", "notes": "Applied using a V3-derived tailored resume and cover letter. Role is remote with up to 25% travel. Application response stated 7 years of experience delivering value-driving product demos in a B2B SaaS environment. Employer activity indicated someone reviewed the application within minutes of submission on Sep 11.", "jobUrl": ""
+    "company": "White Cup",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application reviewed",
+    "signal": "Strong fit for discovery-led technical pre-sales, tailored product demonstrations, solution storytelling, and cross-functional Sales/Product work; primary gap is direct distribution-focused CRM/BI domain experience. Application was reviewed within minutes of submission.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Role is remote with up to 25% travel. Application response stated 7 years of experience delivering value-driving product demos in a B2B SaaS environment. Employer activity indicated someone reviewed the application within minutes of submission on Sep 11.",
+    "jobUrl": ""
   },
   {
-    "company": "OutSystems", "role": "Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong enterprise discovery, architecture, workshops, POCs, proposals, and technical pre-sales fit; gaps are no bachelor's degree and no direct OutSystems/low-code development background.", "notes": "Applied using a V3-derived tailored resume and cover letter. Published base salary range: $135,000-$170,000 plus commissions with a 75/25 split. Resume emphasized enterprise IT architecture, requirements analysis, POCs/workshops, APIs, databases, AWS, and product positioning.", "jobUrl": ""
+    "company": "OutSystems",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong enterprise discovery, architecture, workshops, POCs, proposals, and technical pre-sales fit; gaps are no bachelor's degree and no direct OutSystems/low-code development background.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Published base salary range: $135,000-$170,000 plus commissions with a 75/25 split. Resume emphasized enterprise IT architecture, requirements analysis, POCs/workshops, APIs, databases, AWS, and product positioning.",
+    "jobUrl": ""
   },
   {
-    "company": "Massed Compute", "role": "Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong fit for technical discovery, cloud/infrastructure architecture, implementation risk reduction, POCs, cross-functional execution, and building repeatable solutions-engineering processes; primary gap is direct GPU/HPC/model-training infrastructure experience.", "notes": "Applied using a V3-derived tailored resume and cover letter. Remote-first role focused on AI and high-performance compute infrastructure. Resume emphasized AWS/Linux infrastructure, technical pre-sales, risk identification, complex deployments, reusable processes, and Microsoft Foundry AI credential. Employer did not publish a compensation range.", "jobUrl": ""
+    "company": "Massed Compute",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for technical discovery, cloud/infrastructure architecture, implementation risk reduction, POCs, cross-functional execution, and building repeatable solutions-engineering processes; primary gap is direct GPU/HPC/model-training infrastructure experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Remote-first role focused on AI and high-performance compute infrastructure. Resume emphasized AWS/Linux infrastructure, technical pre-sales, risk identification, complex deployments, reusable processes, and Microsoft Foundry AI credential. Employer did not publish a compensation range.",
+    "jobUrl": ""
   },
   {
-    "company": "Paxos", "role": "Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong fit for technical sales ownership, discovery/scoping, solution design, API integrations, strategic enterprise accounts, and complex stakeholder management; primary gap is direct fintech/blockchain/digital-asset domain experience.", "notes": "Applied using a V3-derived tailored resume and cover letter. Published compensation range: $181,000-$207,675. Resume emphasized API-driven integrations, enterprise SaaS, technical sales, strategic accounts, Product/Engineering feedback, and implementation handoff.", "jobUrl": ""
+    "company": "Paxos",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for technical sales ownership, discovery/scoping, solution design, API integrations, strategic enterprise accounts, and complex stakeholder management; primary gap is direct fintech/blockchain/digital-asset domain experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Published compensation range: $181,000-$207,675. Resume emphasized API-driven integrations, enterprise SaaS, technical sales, strategic accounts, Product/Engineering feedback, and implementation handoff.",
+    "jobUrl": ""
   },
   {
-    "company": "Traversal", "role": "Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Excellent technical fit for production troubleshooting, observability, cloud infrastructure, technical discovery, POCs, demos, enterprise pilots, and scaling repeatable solutions-engineering motions; gaps are direct observability-vendor experience and hands-on Kubernetes/Terraform.", "notes": "Applied using a V3-derived tailored resume and cover letter. Posting presented the opportunity as remote, but the East application form stated the role is based in NYC and requires onsite work Monday-Friday. Traversal also has a West version whose posting/form did not state the same onsite requirement, so application was submitted despite the location inconsistency. Published compensation: $150,000-$300,000 OTE plus equity and benefits.", "jobUrl": ""
+    "company": "Traversal",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent technical fit for production troubleshooting, observability, cloud infrastructure, technical discovery, POCs, demos, enterprise pilots, and scaling repeatable solutions-engineering motions; gaps are direct observability-vendor experience and hands-on Kubernetes/Terraform.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Posting presented the opportunity as remote, but the East application form stated the role is based in NYC and requires onsite work Monday-Friday. Traversal also has a West version whose posting/form did not state the same onsite requirement, so application was submitted despite the location inconsistency. Published compensation: $150,000-$300,000 OTE plus equity and benefits.",
+    "jobUrl": ""
   },
   {
-    "company": "Wavicle Data Solutions", "role": "Pre-Sales Solution Architect", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong fit for technical pre-sales, discovery, enterprise solution architecture, RFP/RFI responses, demos, AWS, client presentations, and delivery collaboration; primary gaps are dedicated BI platforms and hands-on data engineering/AI-ML pipeline experience.", "notes": "Applied using a V3-derived tailored resume and cover letter. Remote/flexible role with typical travel of 10-25%. Employer did not publish a compensation range. Application emphasized cloud architecture, enterprise data/API integrations, SQL/PostgreSQL, AWS, technical presentations, RFP/RFI work, and Microsoft Foundry AI credential.", "jobUrl": ""
+    "company": "Wavicle Data Solutions",
+    "role": "Pre-Sales Solution Architect",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for technical pre-sales, discovery, enterprise solution architecture, RFP/RFI responses, demos, AWS, client presentations, and delivery collaboration; primary gaps are dedicated BI platforms and hands-on data engineering/AI-ML pipeline experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Remote/flexible role with typical travel of 10-25%. Employer did not publish a compensation range. Application emphasized cloud architecture, enterprise data/API integrations, SQL/PostgreSQL, AWS, technical presentations, RFP/RFI work, and Microsoft Foundry AI credential.",
+    "jobUrl": ""
   },
   {
-    "company": "Infisical", "role": "Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Excellent fit for systems/infrastructure engineering, technical discovery, demos, POCs, onboarding, enterprise customer relationships, AWS/Linux, IAM/SSO, APIs, and DevSecOps-adjacent workflows; primary gap is direct secrets-management/PAM product experience.", "notes": "Applied using a V3-derived tailored resume and cover letter. US-based primarily remote team with in-person off-sites, conferences, and gatherings; no recurring travel percentage stated. Application identified primary engineering expertise as DevOps / Infrastructure and highlighted PostgreSQL, Docker, and AWS. Optional Loom video was not submitted. Employer did not publish a compensation range.", "jobUrl": ""
+    "company": "Infisical",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit for systems/infrastructure engineering, technical discovery, demos, POCs, onboarding, enterprise customer relationships, AWS/Linux, IAM/SSO, APIs, and DevSecOps-adjacent workflows; primary gap is direct secrets-management/PAM product experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. US-based primarily remote team with in-person off-sites, conferences, and gatherings; no recurring travel percentage stated. Application identified primary engineering expertise as DevOps / Infrastructure and highlighted PostgreSQL, Docker, and AWS. Optional Loom video was not submitted. Employer did not publish a compensation range.",
+    "jobUrl": ""
   },
   {
-    "company": "Accruent", "role": "Senior Solutions Consultant", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Excellent fit for senior enterprise discovery, requirements gathering, complex solution architecture, cloud/on-prem deployment strategy, RFP/RFI work, SOW scoping, executive presentations, pricing strategy, integrations, and cross-functional Product/Engineering/Services collaboration; primary gap is direct built-environment/facilities/asset-management domain experience.", "notes": "Applied using a V3-derived tailored resume and cover letter. Role supports complex Global Flagship and Large Account opportunities across SaaS, licensed software, services, cloud, and on-prem solutions. Published compensation range inclusive of sales incentives/commissions: $125,600-$209,800. No travel percentage was stated in the posting.", "jobUrl": ""
+    "company": "Accruent",
+    "role": "Senior Solutions Consultant",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit for senior enterprise discovery, requirements gathering, complex solution architecture, cloud/on-prem deployment strategy, RFP/RFI work, SOW scoping, executive presentations, pricing strategy, integrations, and cross-functional Product/Engineering/Services collaboration; primary gap is direct built-environment/facilities/asset-management domain experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Role supports complex Global Flagship and Large Account opportunities across SaaS, licensed software, services, cloud, and on-prem solutions. Published compensation range inclusive of sales incentives/commissions: $125,600-$209,800. No travel percentage was stated in the posting.",
+    "jobUrl": ""
   },
   {
-    "company": "Pantheon", "role": "Sales Engineer", "status": "Interview", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Advanced Nov 6 to 60-minute interview with Kit Wong and Kevin Basarb - scheduling pending", "signal": "Strong fit for technical discovery, tailored demos, RFP/RFI responses, technical presentations, cloud infrastructure, APIs, resolving sales-cycle blockers, and cross-functional Sales/Product/Engineering work; primary gap is direct WordPress, Drupal, Next.js, and modern JavaScript web-platform domain experience.", "notes": "Applied using a V3-derived tailored resume and cover letter. Published OTE range: $146,000-$182,000. Recruiter screen with Lisa Oct 19 completed; interview with Jeremy Dickens originally confirmed for Oct 30, 2:30-3:15 PM ET, then rescheduled to Monday Nov 2, 2026, 12:00-12:45 PM EST because Jeremy is traveling Friday. Nov 6: recruiter confirmed advancement to the next round, a 60-minute Google Meet interview with Kit Wong and Kevin Basarb; date/time not yet provided. Lisa confirmed 70/30 base-variable split on Oct 19, implying base $102,200-$127,400 and target variable $43,800-$54,600. Application emphasized cloud and web infrastructure, AWS, Docker, APIs, enterprise technical pre-sales, demos, technical validation, and customer-facing solution architecture while transparently positioning the WordPress/Drupal/Next.js domain gap.", "jobUrl": ""
+    "company": "Pantheon",
+    "role": "Sales Engineer",
+    "status": "Interview",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "60-minute interview with Kit Wong and Kevin pending scheduling; availability acknowledged Nov 12",
+    "signal": "Strong fit for technical discovery, tailored demos, RFP/RFI responses, technical presentations, cloud infrastructure, APIs, resolving sales-cycle blockers, and cross-functional Sales/Product/Engineering work; primary gap is direct WordPress, Drupal, Next.js, and modern JavaScript web-platform domain experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Published OTE range: $146,000-$182,000. Recruiter screen with Lisa Oct 19 completed; interview with Jeremy Dickens originally confirmed for Oct 30, 2:30-3:15 PM ET, then rescheduled to Monday Nov 2, 2026, 12:00-12:45 PM EST because Jeremy is traveling Friday. Nov 6: recruiter confirmed advancement to the next round, a 60-minute Google Meet interview with Kit Wong and Kevin Basarb; date/time not yet provided. Lisa confirmed 70/30 base-variable split on Oct 19, implying base $102,200-$127,400 and target variable $43,800-$54,600. Application emphasized cloud and web infrastructure, AWS, Docker, APIs, enterprise technical pre-sales, demos, technical validation, and customer-facing solution architecture while transparently positioning the WordPress/Drupal/Next.js domain gap. Lisa Berry confirmed November 12 that availability was received and scheduler would arrange the next interview. No calendar confirmation found in scanned email window.",
+    "jobUrl": ""
   },
   {
-    "company": "Vividly", "role": "Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong fit for discovery-led Solutions Engineering, tailored SaaS demonstrations, workflow mapping, requirements and dependency identification, API/data-flow understanding, implementation handoff, and cross-functional Sales/Product/Architecture collaboration; primary gap is direct CPG/TPM and accounting workflow domain experience.", "notes": "Applied using a V3-derived tailored resume and cover letter. Fully remote. Employer-published base salary range: $100,000-$130,000 with $180,000 OTE. Application emphasized commercial workflows, Microsoft Dynamics exposure, APIs, integrations, data flows, customer discovery, solution design, risk identification, and clean implementation handoff.", "jobUrl": ""
+    "company": "Vividly",
+    "role": "Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for discovery-led Solutions Engineering, tailored SaaS demonstrations, workflow mapping, requirements and dependency identification, API/data-flow understanding, implementation handoff, and cross-functional Sales/Product/Architecture collaboration; primary gap is direct CPG/TPM and accounting workflow domain experience.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Fully remote. Employer-published base salary range: $100,000-$130,000 with $180,000 OTE. Application emphasized commercial workflows, Microsoft Dynamics exposure, APIs, integrations, data flows, customer discovery, solution design, risk identification, and clean implementation handoff.",
+    "jobUrl": ""
   },
   {
-    "company": "OfficeSpace Software", "role": "Solutions Consultant", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted via Jobgether", "signal": "Strong fit for structured discovery, technical sales strategy, tailored SaaS demos, POCs, RFP/RFI work, APIs, identity/SSO, integrations, technical risk identification, implementation handoff, and AI-enabled Solutions Consulting; primary gap is direct IWMS/workplace technology domain experience.", "notes": "Originally submitted through Jobgether with the partner company undisclosed; employer later identified as OfficeSpace Software. Remote US opportunity. Application emphasized enterprise solution architecture, discovery, technical validation, APIs/data flows, IAM/SSO, customer-facing delivery, and practical AI use including Microsoft Applied Skills: Developing Agents in Microsoft Foundry. No employer-published compensation range was provided in the posting shared at application time.", "jobUrl": ""
+    "company": "OfficeSpace Software",
+    "role": "Solutions Consultant",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted via Jobgether",
+    "signal": "Strong fit for structured discovery, technical sales strategy, tailored SaaS demos, POCs, RFP/RFI work, APIs, identity/SSO, integrations, technical risk identification, implementation handoff, and AI-enabled Solutions Consulting; primary gap is direct IWMS/workplace technology domain experience.",
+    "notes": "Originally submitted through Jobgether with the partner company undisclosed; employer later identified as OfficeSpace Software. Remote US opportunity. Application emphasized enterprise solution architecture, discovery, technical validation, APIs/data flows, IAM/SSO, customer-facing delivery, and practical AI use including Microsoft Applied Skills: Developing Agents in Microsoft Foundry. No employer-published compensation range was provided in the posting shared at application time.",
+    "jobUrl": ""
   },
   {
-    "company": "Figma", "role": "Solutions Consultant - Payload", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong fit for technical discovery, product demonstrations, POCs/evaluations, enterprise SaaS, technical decision-making, Sales partnership, security/identity requirements, APIs/integrations, Product feedback, and customer adoption; primary gap is direct Payload/CMS/DXP and frontend developer workflow experience.", "notes": "Applied using a V3.1-derived tailored resume and cover letter. US remote or hub-based role. Employer-published annual base salary range: $152,800-$296,000, with equity and sales incentive compensation also referenced. Application positioned deep enterprise technical pre-sales and solution consulting experience while transparently treating CMS/DXP and frontend development as adjacent learning areas.", "jobUrl": ""
+    "company": "Figma",
+    "role": "Solutions Consultant - Payload",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for technical discovery, product demonstrations, POCs/evaluations, enterprise SaaS, technical decision-making, Sales partnership, security/identity requirements, APIs/integrations, Product feedback, and customer adoption; primary gap is direct Payload/CMS/DXP and frontend developer workflow experience.",
+    "notes": "Applied using a V3.1-derived tailored resume and cover letter. US remote or hub-based role. Employer-published annual base salary range: $152,800-$296,000, with equity and sales incentive compensation also referenced. Application positioned deep enterprise technical pre-sales and solution consulting experience while transparently treating CMS/DXP and frontend development as adjacent learning areas.",
+    "jobUrl": ""
   },
   {
-    "company": "PortX", "role": "Solutions Architect", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong fit for consulting-led solution architecture, discovery, scoping, estimation, enterprise integrations, APIs/web services, customer workshops, architecture governance, reusable solution patterns, AWS, Docker, mentoring, and delivery handoff; primary gaps are banking/payments domain experience, Java/Spring Boot code-review fluency, and Kubernetes/GitOps depth.", "notes": "Applied using a V3.1-derived tailored resume and cover letter. Role emphasizes consultant-first architecture, platform-native integration design, reusable assets, AI-assisted engineering, and delivery governance. Employer did not publish a compensation range. Application was truthful about not currently having Java/Spring Boot fluency sufficient to independently govern code quality or perform detailed PR reviews.", "jobUrl": ""
+    "company": "PortX",
+    "role": "Solutions Architect",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for consulting-led solution architecture, discovery, scoping, estimation, enterprise integrations, APIs/web services, customer workshops, architecture governance, reusable solution patterns, AWS, Docker, mentoring, and delivery handoff; primary gaps are banking/payments domain experience, Java/Spring Boot code-review fluency, and Kubernetes/GitOps depth.",
+    "notes": "Applied using a V3.1-derived tailored resume and cover letter. Role emphasizes consultant-first architecture, platform-native integration design, reusable assets, AI-assisted engineering, and delivery governance. Employer did not publish a compensation range. Application was truthful about not currently having Java/Spring Boot fluency sufficient to independently govern code quality or perform detailed PR reviews.",
+    "jobUrl": ""
   },
   {
-    "company": "BigPanda", "role": "Senior Solutions Architect", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Excellent fit for post-sales solution architecture, enterprise implementations, observability/monitoring, incident response, 24x7 production troubleshooting, APIs/integrations, AWS/Linux, customer delivery, reusable playbooks, and AI-assisted workflows; primary gap is the role's expectation of routinely shipping Python/Node.js-style code.", "notes": "Applied using a V3.1-derived tailored resume and cover letter. Remote US role. Employer-published base salary range: $170,000-$200,000 plus bonus and equity. Application also included a custom one-page 'Something I Built' PDF describing the GitHub-based job-search dashboard, its structured data and repeatable update workflow, AI-assisted development process, debugging/iteration, and privacy guardrails.", "jobUrl": ""
+    "company": "BigPanda",
+    "role": "Senior Solutions Architect",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit for post-sales solution architecture, enterprise implementations, observability/monitoring, incident response, 24x7 production troubleshooting, APIs/integrations, AWS/Linux, customer delivery, reusable playbooks, and AI-assisted workflows; primary gap is the role's expectation of routinely shipping Python/Node.js-style code.",
+    "notes": "Applied using a V3.1-derived tailored resume and cover letter. Remote US role. Employer-published base salary range: $170,000-$200,000 plus bonus and equity. Application also included a custom one-page 'Something I Built' PDF describing the GitHub-based job-search dashboard, its structured data and repeatable update workflow, AI-assisted development process, debugging/iteration, and privacy guardrails.",
+    "jobUrl": ""
   },
   {
-    "company": "Marsh", "role": "Solutions Consultant", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Excellent fit for client discovery, requirements analysis, solution design, proposals, presentations, demos/POCs, presales support, stakeholder coordination, implementation handoff, and continuous improvement; primary gap is direct risk-management and insurance domain experience, which the posting lists as preferred rather than required.", "notes": "Applied using a V3.1-derived tailored resume and cover letter. Full-time remote role supporting sales and advisory teams with tailored risk and insurance solutions. Posting accepts a bachelor's degree or equivalent practical experience and did not include an employer-published compensation range.", "jobUrl": ""
+    "company": "Marsh",
+    "role": "Solutions Consultant",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit for client discovery, requirements analysis, solution design, proposals, presentations, demos/POCs, presales support, stakeholder coordination, implementation handoff, and continuous improvement; primary gap is direct risk-management and insurance domain experience, which the posting lists as preferred rather than required.",
+    "notes": "Applied using a V3.1-derived tailored resume and cover letter. Full-time remote role supporting sales and advisory teams with tailored risk and insurance solutions. Posting accepts a bachelor's degree or equivalent practical experience and did not include an employer-published compensation range.",
+    "jobUrl": ""
   },
   {
-    "company": "Netskope", "role": "Digital Experience Management (DEM) Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong fit for technical discovery, enterprise troubleshooting, network/cloud performance diagnostics, monitoring/observability, demos, POCs/POVs, AWS/Linux/Windows, REST APIs, SQL, SNMP, PowerShell, and translating complex technical findings for customers; primary gaps are dedicated DEM/APM/NPM tooling and deep hands-on packet/path analysis technologies such as OpenTelemetry, ThousandEyes/Catchpoint, BGP/MTR, and advanced Wireshark/tcpdump workflows.", "notes": "Applied using a V3.1-derived tailored resume and cover letter emphasizing 24x7 production troubleshooting, multi-system root cause analysis, networking, monitoring, cloud infrastructure, and customer-facing technical pre-sales. Employer-published compensation range: $177,500-$253,000 OTE for this sales role. Bachelor's degree is preferred and equivalent experience may be considered.", "jobUrl": ""
+    "company": "Netskope",
+    "role": "Digital Experience Management (DEM) Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for technical discovery, enterprise troubleshooting, network/cloud performance diagnostics, monitoring/observability, demos, POCs/POVs, AWS/Linux/Windows, REST APIs, SQL, SNMP, PowerShell, and translating complex technical findings for customers; primary gaps are dedicated DEM/APM/NPM tooling and deep hands-on packet/path analysis technologies such as OpenTelemetry, ThousandEyes/Catchpoint, BGP/MTR, and advanced Wireshark/tcpdump workflows.",
+    "notes": "Applied using a V3.1-derived tailored resume and cover letter emphasizing 24x7 production troubleshooting, multi-system root cause analysis, networking, monitoring, cloud infrastructure, and customer-facing technical pre-sales. Employer-published compensation range: $177,500-$253,000 OTE for this sales role. Bachelor's degree is preferred and equivalent experience may be considered.",
+    "jobUrl": ""
   },
   {
-    "company": "SESTEK", "role": "Sales & Solutions Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Excellent fit for discovery-led technical pre-sales, tailored demos, POCs, SOW development, APIs/integrations, enterprise customer engagement, and Sales/Product/Professional Services collaboration; primary gap is direct contact-center, speech-recognition, and conversational-AI product experience.", "notes": "Applied using a V3.1-derived tailored resume and cover letter. US remote role with travel up to 25%. Application emphasized enterprise technical pre-sales, customer discovery, demos, POCs, SOWs, integrations, and Microsoft Applied Skills: Developing Agents in Microsoft Foundry. Employer did not publish a compensation range.", "jobUrl": ""
+    "company": "SESTEK",
+    "role": "Sales & Solutions Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit for discovery-led technical pre-sales, tailored demos, POCs, SOW development, APIs/integrations, enterprise customer engagement, and Sales/Product/Professional Services collaboration; primary gap is direct contact-center, speech-recognition, and conversational-AI product experience.",
+    "notes": "Applied using a V3.1-derived tailored resume and cover letter. US remote role with travel up to 25%. Application emphasized enterprise technical pre-sales, customer discovery, demos, POCs, SOWs, integrations, and Microsoft Applied Skills: Developing Agents in Microsoft Foundry. Employer did not publish a compensation range.",
+    "jobUrl": ""
   },
   {
-    "company": "StealthWatch", "role": "Senior Solutions Engineer - Networking & AI Observability Start Up Vendor", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Excellent fit for enterprise networking, infrastructure troubleshooting, observability/monitoring, technical discovery, demos, POCs, enterprise customers, and trusted-advisor presales; primary gap is direct Cisco/Juniper/Arista/Riverbed-style vendor background and deeper dedicated packet/flow observability tooling.", "notes": "Applied through StealthWatch for an undisclosed fast-growing networking and AI observability startup. Fully remote US role. Employer/recruiter-published compensation: up to $300,000 OTE plus stock. Posting was approximately three weeks old, had 100+ applicants, and indicated applicants were actively being reviewed. Tailored resume emphasized IP networking, SNMP, Nagios/Zabbix, AWS, Linux, APIs, SQL, 24x7 production troubleshooting, demos, POCs, and enterprise technical pre-sales.", "jobUrl": "https://www.linkedin.com/jobs/view/4454982993/"
+    "company": "StealthWatch",
+    "role": "Senior Solutions Engineer - Networking & AI Observability Start Up Vendor",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Excellent fit for enterprise networking, infrastructure troubleshooting, observability/monitoring, technical discovery, demos, POCs, enterprise customers, and trusted-advisor presales; primary gap is direct Cisco/Juniper/Arista/Riverbed-style vendor background and deeper dedicated packet/flow observability tooling.",
+    "notes": "Applied through StealthWatch for an undisclosed fast-growing networking and AI observability startup. Fully remote US role. Employer/recruiter-published compensation: up to $300,000 OTE plus stock. Posting was approximately three weeks old, had 100+ applicants, and indicated applicants were actively being reviewed. Tailored resume emphasized IP networking, SNMP, Nagios/Zabbix, AWS, Linux, APIs, SQL, 24x7 production troubleshooting, demos, POCs, and enterprise technical pre-sales.",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4454982993/"
   },
   {
-    "company": "IGEL", "role": "Senior Enterprise Presales Engineer", "status": "Applied / Waiting", "appliedDate": "2026-09-11", "rejectedDate": "", "stage": "Application submitted", "signal": "Strong fit for discovery-to-handoff enterprise presales, Windows/Linux, VMware, AWS, Active Directory, DNS, TCP/IP, demos, POCs, RFP/RFI ownership, technical troubleshooting, workshops, and customer-facing architecture; primary gaps are direct Operational Technology environments and IGEL/thin-client endpoint platform experience.", "notes": "Applied using a V3.1-derived tailored resume and cover letter. US-remote role. Posting states travel as needed without a percentage, so travel cadence should be clarified if contacted. Application required manual copy/paste of employment information because the form did not parse the resume. Employer did not publish a compensation range.", "jobUrl": ""
+    "company": "IGEL",
+    "role": "Senior Enterprise Presales Engineer",
+    "status": "Applied / Waiting",
+    "appliedDate": "2026-09-11",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "signal": "Strong fit for discovery-to-handoff enterprise presales, Windows/Linux, VMware, AWS, Active Directory, DNS, TCP/IP, demos, POCs, RFP/RFI ownership, technical troubleshooting, workshops, and customer-facing architecture; primary gaps are direct Operational Technology environments and IGEL/thin-client endpoint platform experience.",
+    "notes": "Applied using a V3.1-derived tailored resume and cover letter. US-remote role. Posting states travel as needed without a percentage, so travel cadence should be clarified if contacted. Application required manual copy/paste of employment information because the form did not parse the resume. Employer did not publish a compensation range.",
+    "jobUrl": ""
   }
 ]);
