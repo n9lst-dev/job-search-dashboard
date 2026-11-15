@@ -113,13 +113,14 @@ window.APPLICATIONS.push(...[
   {
     "company": "Box",
     "role": "Solutions Architect, Professional Services",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-15",
+    "stage": "Application-stage rejection - not selected",
     "source": "LinkedIn",
-    "notes": "New Nov 11 confirmed submission. Separate from the Nov 5 application rejected Nov 6; preserve both attempts.",
-    "jobUrl": ""
+    "notes": "New Nov 11 confirmed submission. Separate from the Nov 5 application rejected Nov 6; preserve both attempts. Box Recruiting rejection received November 15, 2026, based on applicant's notification; no specific reason beyond general fit.",
+    "jobUrl": "",
+    "signal": "Box Recruiting stated the applicant's background was not quite what they were looking for in this position. No specific qualification gap identified."
   },
   {
     "company": "Stealth Startup",
