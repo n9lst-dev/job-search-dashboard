@@ -442,12 +442,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Planet Technologies",
     "role": "Technical Account Manager",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-24",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-13",
+    "stage": "Rejected - another candidate selected before resume review",
     "signal": "Excellent alignment across managed services, service delivery, enterprise technical account ownership, escalation management, engineering team leadership, cloud infrastructure, customer retention, and strategic account work.",
-    "notes": "Applied Sep 24, 2026 using a tailored TAM resume and cover letter. Posted salary range $110K-$190K. Entered $155,000 base salary expectation. Primary ramp area is recent Azure/M365 managed-services depth.",
+    "notes": "Applied Sep 24, 2026 using a tailored TAM resume and cover letter. Posted salary range $110K-$190K. Primary ramp area is recent Azure/M365 managed-services depth. Employer advised November 13 it had selected a candidate before reviewing this application.",
     "jobUrl": ""
   },
   {
@@ -530,23 +530,23 @@ window.APPLICATIONS.push(...[
   {
     "company": "Talkdesk",
     "role": "Senior Solution Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-25",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-10",
+    "stage": "Rejected - employer selected closer-aligned candidates",
     "signal": "Excellent fit across discovery, architecture, enterprise implementation, REST/SOAP integrations, technical scoping, and cross-functional delivery.",
-    "notes": "Applied Sep 25, 2026. Fit score 94/100. Primary ramp area: direct CCaaS/UCaaS experience.",
+    "notes": "Applied Sep 25, 2026. Fit score 94/100. Primary ramp area: direct CCaaS/UCaaS experience. November 10 recruiter email confirmed non-selection. This email predates the primary November 11–14 scan, but was found in boundary-day review.",
     "jobUrl": ""
   },
   {
     "company": "PERSUIT",
     "role": "Senior Solutions Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-25",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-13",
+    "stage": "Closed - position filled",
     "signal": "Strong fit across enterprise discovery, solution design, integrations, implementation oversight, senior stakeholders, mentoring, and escalations.",
-    "notes": "Applied Sep 25, 2026. Fit score 82/100. Primary ramp areas: legal technology/e-billing and ERP/AP financial systems.",
+    "notes": "Applied Sep 25, 2026. Fit score 82/100. Primary ramp areas: legal technology/e-billing and ERP/AP financial systems. November 13 employer email says the position was filled and no additional interviews would be held.",
     "jobUrl": ""
   },
   {
@@ -753,5 +753,4 @@ window.APPLICATIONS.push(...[
     "resumeStrategy": "",
     "materials": ""
   }
-
 ]);
