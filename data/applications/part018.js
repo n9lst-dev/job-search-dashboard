@@ -19,5 +19,16 @@ window.APPLICATIONS.push(...[
     "stage": "Application submitted",
     "notes": "Application submitted November 14, 2026; confirmed by applicant.",
     "jobUrl": ""
+  },
+  {
+    "company": "D5",
+    "role": "Technical Account Manager",
+    "status": "Rejected",
+    "appliedDate": "2026-11-09",
+    "rejectedDate": "2026-11-15",
+    "stage": "Rejected - employer declined to proceed",
+    "source": "LinkedIn",
+    "notes": "Applied November 9, 2026, per application notification. D5 rejection received November 15, 2026. Employer stated it would not move forward; no candidate-specific reason supplied.",
+    "jobUrl": ""
   }
 ]);
