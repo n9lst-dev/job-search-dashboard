@@ -2,14 +2,15 @@ window.APPLICATIONS.push(...[
   {
     "company": "PostHog",
     "role": "Technical Customer Success Manager - Americas",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-12",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-16",
+    "stage": "Application-stage rejection - employer declined to proceed",
     "source": "Company careers",
     "resumeStrategy": "V3.3 Targeted Custom",
-    "notes": "Application confirmed November 12, 2026. Submitted PostHog-tailored resume and concise role-specific cover letter; master V3.3 Revision 9 remains unchanged.",
-    "jobUrl": "https://posthog.com/careers/technical-customer-success-manager-americas"
+    "notes": "Application confirmed November 12, 2026. Submitted PostHog-tailored resume and concise role-specific cover letter; master V3.3 Revision 9 remains unchanged. Employer rejection shared November 16, 2026. PostHog said it would not progress the application and could not provide specific feedback due to application volume. Its examples of possible gaps should not be attributed to this candidate as verified causes.",
+    "jobUrl": "https://posthog.com/careers/technical-customer-success-manager-americas",
+    "signal": "Employer declined after profile review. The stated possibilities (technical depth or relevant role experience) were generic, not individualized findings; no specific rejection reason given."
   },
   {
     "company": "Microsoft",
