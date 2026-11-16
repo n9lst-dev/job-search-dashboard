@@ -503,9 +503,9 @@ window.APPLICATIONS.push(...[
     "status": "Applied",
     "appliedDate": "2026-11-11",
     "rejectedDate": "",
-    "stage": "Screening invited - awaiting candidate completion",
+    "stage": "Virtual screening completed - recruiter review pending",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: Knoxville, TN (Remote). IDR invited candidate to two-step virtual screening on November 16, 2026. First short preset questions, then role-specific questions via text or phone; approximately 5–10 minutes. Screening invitation received but completion not confirmed.",
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: Knoxville, TN (Remote). IDR invited candidate to two-step virtual screening November 16, 2026. Applicant confirmed completing the screening on November 16, 2026. IDR AI screener said recruiting team will review screening and resume, with follow-up expected within five business days; no interview invitation or hiring decision yet.",
     "jobUrl": ""
   },
   {
