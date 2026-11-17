@@ -356,13 +356,13 @@ window.APPLICATIONS.push(...[
   {
     "company": "HubSpot",
     "role": "Solutions Engineer",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-17",
+    "stage": "Application-stage rejection - employer declined to proceed",
     "source": "LinkedIn",
     "signal": "Role POS-P2934: AI-era technical pre-sales with outcome-led demos, customer discovery, HubSpot architecture, integrations, hands-on proofs with AI coding tools and Breeze AI agents.",
-    "notes": "User confirmed application Nov 11. Several levels and Mid-Market/Corp segments mentioned. Published annual cash compensation $105,800-$151,200 includes base plus eligible variable/bonus, not necessarily base salary. Strong customer-facing enterprise architecture and discovery skills; direct HubSpot developer/Breeze experience not established. Occasional customer travel.",
+    "notes": "User confirmed application Nov 11. Several levels and Mid-Market/Corp segments mentioned. Published annual cash compensation $105,800-$151,200 includes base plus eligible variable/bonus, not necessarily base salary. Strong customer-facing enterprise architecture and discovery skills; direct HubSpot developer/Breeze experience not established. Occasional customer travel. HubSpot Talent Acquisition rejection received November 17, 2026. Employer moved forward with other candidates and provided no individualized feedback. Rejection date is date candidate shared notice.",
     "jobUrl": ""
   },
   {
