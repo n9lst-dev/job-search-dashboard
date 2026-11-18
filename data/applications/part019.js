@@ -35,12 +35,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "DigiCert",
     "role": "Senior Solutions Engineer - Midwest",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-16",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-18",
+    "stage": "Rejected - other candidates selected",
     "source": "LinkedIn",
-    "notes": "LinkedIn and DigiCert confirmed Nov 16 submission. Separate attempt from Nov 11 application rejected Nov 14; preserve prior rejection.",
+    "notes": "LinkedIn and DigiCert confirmed Nov 16 submission. Separate attempt from Nov 11 application rejected Nov 14; preserve prior rejection. Rejection notice shared November 18, 2026: DigiCert selected other candidates who more closely align with the specific requirements of the role. No specific qualification gap disclosed. Rejection date based on date notice shared.",
     "jobUrl": "https://www.linkedin.com/jobs/view/4461699032/"
   },
   {
