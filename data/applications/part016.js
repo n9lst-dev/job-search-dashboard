@@ -533,12 +533,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Saltu Staffing",
     "role": "Technical Consultant",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application viewed - Nov 13",
+    "rejectedDate": "2026-11-18",
+    "stage": "Application-stage rejection - employer declined to proceed",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: Dallas-Fort Worth Metroplex (Remote). LinkedIn viewed notification November 13.",
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: Dallas-Fort Worth Metroplex (Remote). LinkedIn viewed notification November 13. LinkedIn rejection notice shared November 18, 2026. Saltu Staffing declined to proceed with the Technical Consultant application in Dallas-Fort Worth Metroplex; no specific reason supplied. Rejection date based on date notice shared.",
     "jobUrl": "",
     "signal": "LinkedIn reported application viewed Nov 13; no reply or interview invitation confirmed."
   },
