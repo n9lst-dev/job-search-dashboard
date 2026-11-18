@@ -545,14 +545,14 @@ window.APPLICATIONS.push(...[
   {
     "company": "G10X",
     "role": "Technology Solutions Manager",
-    "status": "Recruiter Screen",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Recruiter screen completed Nov 13; referred to leadership for possible shortlist",
+    "rejectedDate": "2026-11-18",
+    "stage": "Rejected following recruiter screen - profile not aligned with role requirements",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote). Recruiter screen with Shruthi Rajan held November 13, 2026. Recruiter forwarding profile to leadership team; shortlist decision pending, and no executive interviews scheduled. Compensation discussion withheld from the public tracker. Recruiter described functional scope as senior consulting leadership / principal solutions architect for customers, initially an individual-contributor role with possible later team responsibilities.",
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote). Recruiter screen with Shruthi Rajan held November 13, 2026. Recruiter forwarding profile to leadership team; shortlist decision pending, and no executive interviews scheduled. Compensation discussion withheld from the public tracker. Recruiter described functional scope as senior consulting leadership / principal solutions architect for customers, initially an individual-contributor role with possible later team responsibilities. Rejection notice from Shruthi Rajan shared November 18, 2026. Recruiter stated experience did not align with current position requirements, without identifying specific gaps. G10X stated it would retain candidate details for potentially suitable future opportunities. Rejection date based on date notice shared.",
     "jobUrl": "",
-    "signal": "Recruiter is sending candidate information to leadership for review. Only if shortlisted will three interview rounds with CTO, GM, and chairman begin; no advancement or interviews confirmed yet."
+    "signal": "Recruiter screen completed November 13. Rejection communicated November 18; no further interviews confirmed. Employer stated profile did not align with current requirements and will retain details for future opportunities."
   },
   {
     "company": "The Intersect Group",
