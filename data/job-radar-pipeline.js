@@ -2551,12 +2551,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Senior-Industrial-Power-Systems-Engineer--Corporate-Advanced-Engineering_R2026-4210"
   },
   {
-    "company": "broadcom",
-    "role": "Solution Engineer - ValueOps",
-    "status": "Awaiting review",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-OH-Remote-Location/Solution-Engineer---ValueOps_R027294"
-  },
-  {
     "company": "cat",
     "role": "Principal Systems Architect - Marketing Technology",
     "status": "Possible",
@@ -2783,12 +2777,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Solutions Engineering Manager, Central",
     "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4743056005"
-  },
-  {
-    "company": "Boomi",
-    "role": "Presales Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/boomilp/jobs/6222601004"
   },
   {
     "company": "Tailscale",
