@@ -2251,12 +2251,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://jobs.ashbyhq.com/formance/76495d1a-c109-47a9-9ca1-ff6bf603073f"
   },
   {
-    "company": "freshpaint",
-    "role": "Enterprise Implementation Engineer",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/freshpaint/7560ce21-df4d-41e3-b2cf-81e8dfa8c6ae"
-  },
-  {
     "company": "formenergy",
     "role": "Staff Technical Program Manager, Engineering",
     "status": "Evaluated",
