@@ -567,15 +567,15 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "Freshworks",
-    "role": "Lead - Solution Engineer",
+    "role": "Lead - Solutions Engineer (Verticals)",
     "status": "Rejected",
-    "appliedDate": "",
+    "appliedDate": "2026-11-05",
     "rejectedDate": "2026-11-11",
     "stage": "Application-stage rejection",
     "source": "Other",
     "signal": "Freshworks recruiting said it would not invite the candidate to the next selection phase after review; generic no-fit response, no specific reason.",
-    "notes": "Rejection email received November 11, 2026 at 12:55 PM ET. Original submission date not confirmed within the requested three-hour Gmail window.",
-    "jobUrl": ""
+    "notes": "Rejection email received November 11, 2026 at 12:55 PM ET. Original submission date not confirmed within the requested three-hour Gmail window. Nov 5 LinkedIn confirmation and Freshworks receipt establish submission date and role.",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4457358316/"
   },
   {
     "company": "NEP Group, Inc.",
