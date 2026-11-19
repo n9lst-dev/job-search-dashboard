@@ -414,7 +414,7 @@ window.APPLICATIONS.push(...[
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Strong TAM fit across enterprise onboarding, implementation, adoption, escalations, AWS/cloud, APIs, and cross-functional Product/Engineering/Sales work. Microsoft Foundry agent credential provides direct agentic AI exposure.",
-    "notes": "Applied Sep 24, 2026. Remote East/Central US. Agentic AI/cybersecurity startup. Primary ramp area is cybersecurity-specific domain depth.",
+    "notes": "Applied Sep 24, 2026. Remote East/Central US. Agentic AI/cybersecurity startup. Primary ramp area is cybersecurity-specific domain depth. Sep 24 LinkedIn receipt from CyberForce Global for a Technical Account Manager position may correspond to this same application (posting 4462192102). End-client identity and exact match unconfirmed; no duplicate record created.",
     "jobUrl": ""
   },
   {
@@ -557,7 +557,7 @@ window.APPLICATIONS.push(...[
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Exceptional fit across technical discovery, architecture, demos, BOMs and quotes, proposals, AWS/cloud, networking, enterprise IT, and implementation handoff.",
-    "notes": "Applied Sep 25, 2026. Fit score 97/100. Primary ramp area: broader hands-on Azure, Microsoft 365, and Google Cloud depth.",
+    "notes": "Applied Sep 25, 2026. Fit score 97/100. Primary ramp area: broader hands-on Azure, Microsoft 365, and Google Cloud depth. Employer explicitly classified Oct 24 submission for Cloud Presales Solution Architect - Remote US as a duplicate of the initial application. No additional application counted.",
     "jobUrl": ""
   },
   {
