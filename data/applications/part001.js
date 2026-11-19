@@ -150,7 +150,7 @@ window.APPLICATIONS.push(...[
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Strong fit for consulting-led solution architecture, discovery, scoping, estimation, enterprise integrations, APIs/web services, customer workshops, architecture governance, reusable solution patterns, AWS, Docker, mentoring, and delivery handoff; primary gaps are banking/payments domain experience, Java/Spring Boot code-review fluency, and Kubernetes/GitOps depth.",
-    "notes": "Applied using a V3.1-derived tailored resume and cover letter. Role emphasizes consultant-first architecture, platform-native integration design, reusable assets, AI-assisted engineering, and delivery governance. Employer did not publish a compensation range. Application was truthful about not currently having Java/Spring Boot fluency sufficient to independently govern code quality or perform detailed PR reviews.",
+    "notes": "Applied using a V3.1-derived tailored resume and cover letter. Role emphasizes consultant-first architecture, platform-native integration design, reusable assets, AI-assisted engineering, and delivery governance. Employer did not publish a compensation range. Application was truthful about not currently having Java/Spring Boot fluency sufficient to independently govern code quality or perform detailed PR reviews. Sep 12 rejection does not identify whether it refers to this application or the Aug 28 Solutions Engineer application. Candidate asked recruiter for clarification; no reply found. Outcome for this particular role unconfirmed.",
     "jobUrl": ""
   },
   {
