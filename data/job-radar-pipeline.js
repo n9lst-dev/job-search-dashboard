@@ -61,12 +61,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6230151004"
   },
   {
-    "company": "Grafana Labs",
-    "role": "Solutions Engineer | PST or EST US | Remote",
-    "status": "Awaiting review",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004"
-  },
-  {
     "company": "bakertilly",
     "role": "AI Solutions Engineer",
     "status": "Evaluated",
@@ -149,12 +143,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Sr. Customer Solutions Architect",
     "status": "Possible",
     "url": "https://www.fivetran.com/careers/job?gh_jid=8047657003"
-  },
-  {
-    "company": "Grafana Labs",
-    "role": "Senior Solutions Engineer, Acquisition | West Coast | Remote",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236201004"
   },
   {
     "company": "allenintegratedsolutions",
@@ -377,12 +365,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Infrastructure Engineer",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/aegis-ai/5c4ed808-0e24-4016-895c-198b96d11298"
-  },
-  {
-    "company": "authzed",
-    "role": "Solutions Engineer - U.S. and Canada",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/authzed/37f620ee-db46-40b8-97a9-c7c5b0c072fe"
   },
   {
     "company": "apex-technology-inc",
