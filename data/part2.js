@@ -13,12 +13,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Experian / AtData",
     "role": "Senior Sales Engineer",
-    "status": "Applied / Waiting",
+    "status": "Rejected",
     "appliedDate": "2026-08-27",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Strong fit; tailored resume submitted.",
-    "notes": "",
+    "rejectedDate": "2026-08-29",
+    "stage": "Application-stage rejection",
+    "signal": "Employer decided not to move forward.",
+    "notes": "Gmail audit matched the employer rejection received Aug 29 Eastern time (Aug 30 UTC).",
     "jobUrl": ""
   },
   {
