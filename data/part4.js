@@ -18,7 +18,7 @@ window.APPLICATIONS.push(...[
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Very strong fit; tailored resume submitted.",
-    "notes": "",
+    "notes": "Sep 12 PortX rejection did not identify which of the two submitted roles it concerned. Candidate asked recruiter for clarification; Gmail thread contains no reply. Outcome for this particular role unconfirmed.",
     "jobUrl": ""
   },
   {
@@ -189,13 +189,13 @@ window.APPLICATIONS.push(...[
   {
     "company": "Thrive",
     "role": "Client Solutions Architect",
-    "status": "Applied / Waiting",
+    "status": "Rejected",
     "appliedDate": "2026-08-31",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Strong fit; tailored application submitted.",
-    "notes": "",
-    "jobUrl": ""
+    "rejectedDate": "2026-10-16",
+    "stage": "Application-stage rejection",
+    "signal": "Employer declined to move forward without an interview.",
+    "notes": "Oct 16 employer rejection confirms outcome.",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4461255881/"
   },
   {
     "company": "ChartHop",
@@ -375,13 +375,13 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "Skyflow",
-    "role": "Solutions Engineer",
+    "role": "Enterprise Solutions Architect",
     "status": "Applied / Waiting",
     "appliedDate": "2026-08-31",
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Very strong fit; enterprise solutions engineering role focused on cloud architecture, APIs, IAM and security, technical evaluations, custom demos, POCs, integrations, and customer advisory.",
-    "notes": "",
+    "notes": "Aug 31 employer acknowledgement identifies Enterprise Solutions Architect as the submitted role.",
     "jobUrl": ""
   },
   {
