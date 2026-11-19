@@ -29,7 +29,8 @@ window.JOB_DATA_MANIFEST = {
     "data/applications/part018.js",
     "data/applications/part019.js",
     "data/applications/part020.js",
-    "data/applications/part021.js"
+    "data/applications/part021.js",
+    "data/applications/part022.js"
   ],
   overrides: [
     "data/overrides/part001.js",
