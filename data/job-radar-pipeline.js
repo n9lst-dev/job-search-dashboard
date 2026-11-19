@@ -956,12 +956,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "alkira",
-    "role": "SR Lead Solution Architect FDE (East Coast)",
-    "status": "Evaluated",
-    "url": "https://alkira.bamboohr.com/careers/308"
-  },
-  {
-    "company": "alkira",
     "role": "Partner Solutions Architect - New York",
     "status": "Evaluated",
     "url": "https://alkira.bamboohr.com/careers/284"
