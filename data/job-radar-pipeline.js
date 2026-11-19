@@ -73,12 +73,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://jobs.ashbyhq.com/illumio/47cb8a57-c44e-426c-828a-ccdf4f60424e"
   },
   {
-    "company": "firemon",
-    "role": "Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://jobs.lever.co/firemon/6dafa7fe-f68e-4f62-b463-18f80901483b"
-  },
-  {
     "company": "toast",
     "role": "Mid-Market Retail Solutions Engineer",
     "status": "Evaluated",
@@ -317,12 +311,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Staff Technical Account Manager",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/1password/afebc4c1-b5ea-4ffa-b486-df77782d9874"
-  },
-  {
-    "company": "apollo-graphql",
-    "role": "Senior Solution Engineer (Pre-sales)",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/apollo-graphql/f3c918e6-ac7f-4d9f-bc62-73a58b73ff4a"
   },
   {
     "company": "apex-technology-inc",
