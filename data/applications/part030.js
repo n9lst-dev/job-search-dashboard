@@ -42,5 +42,16 @@ window.APPLICATIONS.push(...[
     "stage": "Application submitted",
     "source": "Email confirmation",
     "jobUrl": ""
+  },
+  {
+    "company": "Red5",
+    "role": "Technical Account Manager",
+    "status": "Applied",
+    "appliedDate": "2026-11-06",
+    "rejectedDate": "",
+    "stage": "Application submitted directly by email",
+    "source": "Direct employer email",
+    "notes": "Gmail sent-mail audit confirms Nov 6 application for advertised Technical Account Manager opening; resume and recommendation attached. No outcome confirmed in audit.",
+    "jobUrl": ""
   }
 ]);
