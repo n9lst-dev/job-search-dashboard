@@ -3469,12 +3469,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886517002"
   },
   {
-    "company": "cresta",
-    "role": "Principal Solutions Engineer, West",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/cresta/jobs/5444638008"
-  },
-  {
     "company": "everlaw",
     "role": "Senior IT Systems Engineer",
     "status": "Evaluated",
@@ -4331,12 +4325,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Partner Solutions Engineer, Technical Partnerships",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/sanity/5cdb9bd8-5fa7-4e89-bfa3-5a500cfed167"
-  },
-  {
-    "company": "sift",
-    "role": "Technical Account Manager",
-    "status": "Awaiting review",
-    "url": "https://jobs.ashbyhq.com/sift/21d81e86-dc49-4fd7-84bd-e855d18aebac"
   },
   {
     "company": "telus-digital",
