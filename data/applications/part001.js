@@ -23,13 +23,13 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "OutSystems",
-    "role": "Solutions Engineer",
+    "role": "Pre-Sales Senior Solution Architect - Central",
     "status": "Applied / Waiting",
     "appliedDate": "2026-09-11",
     "rejectedDate": "",
     "stage": "Application submitted",
     "signal": "Strong enterprise discovery, architecture, workshops, POCs, proposals, and technical pre-sales fit; gaps are no bachelor's degree and no direct OutSystems/low-code development background.",
-    "notes": "Applied using a V3-derived tailored resume and cover letter. Published base salary range: $135,000-$170,000 plus commissions with a 75/25 split. Resume emphasized enterprise IT architecture, requirements analysis, POCs/workshops, APIs, databases, AWS, and product positioning.",
+    "notes": "Applied using a V3-derived tailored resume and cover letter. Published base salary range: $135,000-$170,000 plus commissions with a 75/25 split. Resume emphasized enterprise IT architecture, requirements analysis, POCs/workshops, APIs, databases, AWS, and product positioning. Employer receipt dated Sep 11 identifies this role title; prior tracker called it Solutions Engineer.",
     "jobUrl": ""
   },
   {
