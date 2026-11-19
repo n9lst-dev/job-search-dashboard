@@ -497,12 +497,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Zoom",
     "role": "Pooled Technical Account Manager",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-24",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Exceptional TAM fit across enterprise video, IP networking, codecs/transcoding, telecommunications architecture, complex technical escalations, architecture/integration consulting, customer advocacy, and technical leadership.",
-    "notes": "Applied Sep 24, 2026 using a tailored video/IP networking TAM resume and cover letter. Fit score 96/100. Primary ramp area is direct administration of Zoom or comparable unified communications platforms and deeper PBX/SIP/H.323-specific experience.",
+    "rejectedDate": "2026-11-08",
+    "stage": "Application-stage rejection",
+    "signal": "Employer identified candidates better aligned to the Technical Account Manager role.",
+    "notes": "Applied Sep 24, 2026 using a tailored video/IP networking TAM resume and cover letter. Fit score 96/100. Primary ramp area is direct administration of Zoom or comparable unified communications platforms and deeper PBX/SIP/H.323-specific experience. Nov 8 Zoom rejection matched the Sep 24 Technical Account Manager submission.",
     "jobUrl": ""
   },
   {
@@ -640,12 +640,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "n8n",
     "role": "Technical Account Manager",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-09-29",
-    "rejectedDate": "",
-    "stage": "Application submitted",
-    "signal": "Excellent match for enterprise technical ownership, production troubleshooting, cloud infrastructure, APIs, integrations, Docker, escalations, and cross-functional customer engineering.",
-    "notes": "Applied Sep 29, 2026. Fit score 93/100. Completed the requested hands-on n8n exercise by building an AI-assisted enterprise customer risk and escalation workflow. Main gaps: Kubernetes depth and longer-term n8n/iPaaS experience.",
+    "rejectedDate": "2026-10-05",
+    "stage": "Rejected after technical exercise",
+    "signal": "Employer selected other candidates for subsequent hiring stages.",
+    "notes": "Applied Sep 29, 2026. Fit score 93/100. Completed the requested hands-on n8n exercise by building an AI-assisted enterprise customer risk and escalation workflow. Main gaps: Kubernetes depth and longer-term n8n/iPaaS experience. Oct 5 employer notice confirmed non-selection. Technical exercise history preserved.",
     "jobUrl": ""
   },
   {
