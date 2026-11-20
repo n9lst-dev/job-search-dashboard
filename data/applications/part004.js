@@ -23,11 +23,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "chainalysis-careers",
     "role": "Solutions Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-10-30",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-19",
+    "stage": "Application-stage rejection",
     "jobUrl": "https://jobs.ashbyhq.com/chainalysis-careers/c887c9fe-e9de-445a-9504-9d034465313e",
-    "resumeStrategy": "V3.3 Master"
+    "resumeStrategy": "V3.3 Master",
+    "notes": "Chainalysis Talent Acquisition email Nov 19, 2026 states the application will not proceed; no interview took place and no specific reason was supplied. Email omits role title; matched to the tracked Solutions Architect application by employer. Role-level match is provisional pending confirmation."
   }
 ]);
