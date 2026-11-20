@@ -535,12 +535,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-abacustech.icims.com/jobs/9024/systems-engineer/job"
   },
   {
-    "company": "abilegroup",
-    "role": "Cybersecurity Implementation Engineer",
-    "status": "Possible",
-    "url": "https://careers-abilegroup.icims.com/jobs/3662/cybersecurity-implementation-engineer/job"
-  },
-  {
     "company": "amtrustgroup",
     "role": "Director, Systems Engineering",
     "status": "Awaiting review",
@@ -593,12 +587,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Multimedia Systems Engineer III",
     "status": "Awaiting review",
     "url": "https://careers-abacustech.icims.com/jobs/8945/multimedia-systems-engineer-iii/job"
-  },
-  {
-    "company": "alexleecareers-alexlee",
-    "role": "Retail Systems Engineer III - location Aiken, SC",
-    "status": "Awaiting review",
-    "url": "https://alexleecareers-alexlee.icims.com/jobs/141501/retail-systems-engineer-iii---location-aiken%2c-sc/job"
   },
   {
     "company": "Huntress",
@@ -1861,12 +1849,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://aveva.wd3.myworkdayjobs.com/etap_careers/job/Irvine-California-United-States-of-America/Senior-Electrical-Engineering_R015789"
   },
   {
-    "company": "birch",
-    "role": "Implementation Engineer",
-    "status": "Possible",
-    "url": "https://birch.wd1.myworkdayjobs.com/fusioncareers/job/USA---Remote/Implementation-Engineer_JOBREQ-28871"
-  },
-  {
     "company": "avav",
     "role": "Senior Systems Engineer",
     "status": "Evaluated",
@@ -1955,12 +1937,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Enterprise Architecture Co-Op",
     "status": "Awaiting review",
     "url": "https://careers-berkley.icims.com/jobs/14641/enterprise-architecture-co-op/job"
-  },
-  {
-    "company": "bowheadcareers-uicalaska",
-    "role": "Windows Systems Engineer SME",
-    "status": "Awaiting review",
-    "url": "https://bowheadcareers-uicalaska.icims.com/jobs/26335/windows-systems-engineer-sme/job"
   },
   {
     "company": "bnh",
@@ -2821,100 +2797,16 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://www.fivetran.com/careers/job?gh_jid=8004964003"
   },
   {
-    "company": "careers-gdeb",
-    "role": "SONAR Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdeb.icims.com/jobs/21251/sonar-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76776/systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "AI Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76283/ai-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Hardware Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76327/hardware-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75743/senior-systems-engineer/job"
-  },
-  {
     "company": "careers-emcorgroup",
     "role": "Enterprise Integration Engineer I",
     "status": "Awaiting review",
     "url": "https://careers-emcorgroup.icims.com/jobs/54023/enterprise-integration-engineer-i/job"
   },
   {
-    "company": "careers-gdms",
-    "role": "Systems Engineering Lead (cleared)",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76366/systems-engineering-lead-%28cleared%29/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer Multiple Levels (cleared)",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76286/systems-engineer-multiple-levels-%28cleared%29/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Control Account Manager (CAM) - Sr Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76098/control-account-manager-%28cam%29---sr-advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Guidance Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76280/guidance-advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Guidance Senior Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76281/guidance-senior-advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Guidance Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76279/senior-guidance-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Guidance Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76278/guidance-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer Multiple Levels (cleared)",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76107/systems-engineer-multiple-levels-%28cleared%29/job"
-  },
-  {
     "company": "careers-integralfed",
     "role": "Senior UNIX System Engineer",
     "status": "Awaiting review",
     "url": "https://careers-integralfed.icims.com/jobs/5471/senior-unix-system-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Space Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/76006/space-systems-engineer/job"
   },
   {
     "company": "careers-gdms",
@@ -2942,117 +2834,15 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "careers-gdms",
-    "role": "Principal Systems Engineer - Integrated Product Team (IPT) Lead",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75742/principal-systems-engineer---integrated-product-team-%28ipt%29-lead/job"
-  },
-  {
-    "company": "careers-lmi",
-    "role": "Enterprise MuleSoft Integration Engineer / Architect - Clearance Required",
-    "status": "Awaiting review",
-    "url": "https://careers-lmi.icims.com/jobs/14625/enterprise-mulesoft-integration-engineer---architect---clearance-required/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Principal Systems Engineer for Crypto and Cross Domain Solutions",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75708/senior-principal-systems-engineer-for-crypto-and-cross-domain-solutions/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Embedded Software Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75704/senior-embedded-software-integration-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Embedded Software Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75647/advanced-embedded-software-integration-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Space Force Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75260/space-force-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "EC Systems Engineer Product Owner - TS clearance required",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75612/ec-systems-engineer-product-owner---ts-clearance-required/job"
-  },
-  {
-    "company": "careers-lowesfoods",
-    "role": "Retail Systems Engineer III - location Aiken, SC",
-    "status": "Awaiting review",
-    "url": "https://careers-lowesfoods.icims.com/jobs/141501/retail-systems-engineer-iii---location-aiken%2c-sc/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Cloud Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75588/cloud-integration-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
     "role": "Advance Systems Engineer - SWC",
     "status": "Awaiting review",
     "url": "https://careers-gdms.icims.com/jobs/74677/advance-systems-engineer---swc/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75329/systems-engineer/job"
   },
   {
     "company": "careers-lmi",
     "role": "Principal Solutions Architect, Supply Chain & Logistics",
     "status": "Awaiting review",
     "url": "https://careers-lmi.icims.com/jobs/14715/principal-solutions-architect%2c-supply-chain-%26-logistics/job"
-  },
-  {
-    "company": "careers-industechnology",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-industechnology.icims.com/jobs/2386/systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Systems Engineer | MDA SE&I Responsible Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75363/advanced-systems-engineer-%7c-mda-se%26i-responsible-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75535/senior-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Network & Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75420/senior-network-%26-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Ground Systems MBSE Advanced Systems Engineer (TS/SCI Clearance Required)",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75407/ground-systems-mbse-advanced-systems-engineer-%28ts-sci-clearance-required%29/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer (TS/SCI with Full Scope Poly Clearance Required)",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75409/systems-engineer-%28ts-sci-with-full-scope-poly-clearance-required%29/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Systems Engineer (Nuclear Weapons Security)",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75496/senior-systems-engineer-%28nuclear-weapons-security%29/job"
   },
   {
     "company": "careers-gtsx",
@@ -3074,12 +2864,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "careers-gdms",
-    "role": "Systems Integration Engineer – CLB",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75437/systems-integration-engineer-%e2%80%93-clb/job"
-  },
-  {
-    "company": "careers-gdms",
     "role": "Systems Engineer - Test & Integration, MBSE, Requirements, Hardware Systems",
     "status": "Awaiting review",
     "url": "https://careers-gdms.icims.com/jobs/75384/systems-engineer---test-%26-integration%2c-mbse%2c-requirements%2c-hardware-systems/job"
@@ -3089,12 +2873,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Advanced Systems Engineer - Regional Strike Programs",
     "status": "Awaiting review",
     "url": "https://careers-gdms.icims.com/jobs/75464/advanced-systems-engineer---regional-strike-programs/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Systems Engineer - Operational Support",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75460/senior-systems-engineer---operational-support/job"
   },
   {
     "company": "careers-gdms",
@@ -3121,28 +2899,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-gdms.icims.com/jobs/75387/systems-engineer----test-%26-integration%2c-mbse%2c-requirements%2c-hardware-systems/job"
   },
   {
-    "company": "careers-gdms",
-    "role": "Senior Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75434/senior-systems-engineer/job"
-  },
-  {
     "company": "careers-emcorgroup",
     "role": "Building Automation Systems Engineer III - HVAC",
     "status": "Awaiting review",
     "url": "https://careers-emcorgroup.icims.com/jobs/53045/building-automation-systems-engineer-iii---hvac/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75399/senior-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Sr Principal Systems Engineer (TS/SCI Required)",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75241/sr-principal-systems-engineer-%28ts-sci-required%29/job"
   },
   {
     "company": "careers-gdms",
@@ -3155,24 +2915,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Enterprise Architect - Clearance Required",
     "status": "Awaiting review",
     "url": "https://careers-lmi.icims.com/jobs/14687/enterprise-architect---clearance-required/job"
-  },
-  {
-    "company": "careers-jbw",
-    "role": "System Integration Engineer III (Automated Vehicle Engineering)",
-    "status": "Awaiting review",
-    "url": "https://careers-jbw.icims.com/jobs/21881/apus-system-integration-engineer-iii-%28automated-vehicle-engineering%29/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Principal Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75238/senior-principal-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Lead Systems Architect/Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74922/lead-systems-architect-engineer/job"
   },
   {
     "company": "careers-lewisbrisbois",
@@ -3205,40 +2947,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-lewisbrisbois.icims.com/jobs/15852/systems-engineer---dms-and-legal-applications/job"
   },
   {
-    "company": "careers-gdms",
-    "role": "Advanced Space Systems Engineer (Sign-on Bonus Available)",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75293/advanced-space-systems-engineer--%28sign-on-bonus-available%29/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Principal Systems Engineer - Auxiliary and Training Product Line",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75144/principal-systems-engineer---auxiliary-and-training-product-line/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineering Lead",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75197/systems-engineering-lead/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Software Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75210/software-systems-engineer/job"
-  },
-  {
     "company": "careers-greensky",
     "role": "Enterprise Solutions Architect",
     "status": "Awaiting review",
     "url": "https://careers-greensky.icims.com/jobs/5187/enterprise-solutions-architect/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer - CIPT/GPC",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74608/systems-engineer---cipt-gpc/job"
   },
   {
     "company": "careers-humanscale",
@@ -3277,88 +2989,16 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-gdms.icims.com/jobs/74999/space-force-muos-%3a-systems-engineering-integration-and-test-lead/job"
   },
   {
-    "company": "careers-gdms",
-    "role": "Advanced Systems Engineer for Space and Embedded Crypto",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74975/advanced-systems-engineer-for-space-and-embedded-crypto/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Systems Engineer for Crypto and Cross Domain Solutions",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74977/advanced-systems-engineer-for-crypto-and-cross-domain-solutions/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Digital Signal Processing Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74979/senior-digital-signal-processing-systems-engineer/job"
-  },
-  {
     "company": "careers-ita-intl",
     "role": "Senior Power Platform Solutions Architect",
     "status": "Awaiting review",
     "url": "https://careers-ita-intl.icims.com/jobs/4498/senior-power-platform-solutions-architect/job"
   },
   {
-    "company": "careers-gdms",
-    "role": "Systems Engineer - clearance required",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/73659/systems-engineer---clearance-required/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Engineer - Prototype Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74923/advanced-engineer---prototype-integration-engineer/job"
-  },
-  {
     "company": "careers-healthmanagement",
     "role": "Information Systems Cloud Architect",
     "status": "Awaiting review",
     "url": "https://careers-healthmanagement.icims.com/jobs/2003/information-systems-cloud-architect/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Space Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74797/advanced-space-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Sr Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74971/sr-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Space Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74800/advanced-space-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Space Systems Engineer- San Jose",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74965/senior-space-systems-engineer--san-jose/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Sr Advanced Space Systems Engineer- Pittsburgh, PA",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74961/sr-advanced-space-systems-engineer--pittsburgh%2c-pa/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Sr Advanced Space Systems Engineer- Chantilly, VA",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74959/sr-advanced-space-systems-engineer--chantilly%2c-va/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Space Systems Engineer- Chantilly, VA",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74956/advanced-space-systems-engineer--chantilly%2c-va/job"
   },
   {
     "company": "careers-lmi",
@@ -3379,18 +3019,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-lmi.icims.com/jobs/14531/software-systems-architect---clearance-required/job"
   },
   {
-    "company": "careers-gdms",
-    "role": "Systems Engineer – Secret Clearance required",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74820/systems-engineer-%e2%80%93-secret-clearance-required/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74582/systems-engineer/job"
-  },
-  {
     "company": "careers-i2xisys",
     "role": "SATCOM Systems Engineer",
     "status": "Awaiting review",
@@ -3401,30 +3029,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Regional Strike Programs - Systems Engineer (Spring Co-op)",
     "status": "Awaiting review",
     "url": "https://careers-gdms.icims.com/jobs/74681/regional-strike-programs---systems-engineer--%28spring-co-op%29/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineering Technical Manager - SWC",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74810/systems-engineering-technical-manager---swc/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Program Integration Engineer - FBM",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74527/senior-program-integration-engineer---fbm/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Systems Engineer – Lab Facility",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74529/senior-systems-engineer-%e2%80%93-lab-facility/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer - Supporting Future Combatants and Mission Systems",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/74766/systems-engineer---supporting-future-combatants-and-mission-systems/job"
   },
   {
     "company": "five9",
@@ -4105,12 +3709,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74"
   },
   {
-    "company": "skyflow",
-    "role": "Enterprise Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://jobs.ashbyhq.com/skyflow/0c123344-65ba-4c2a-bcfa-38e366ed424d"
-  },
-  {
     "company": "twenty",
     "role": "Staff / Principal Technical Program Manager",
     "status": "Evaluated",
@@ -4415,12 +4013,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Manager, Solution Engineering Enablement",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/snowflake/1cc80dac-67af-4e27-9e17-2fb9ecf683f3"
-  },
-  {
-    "company": "snowflake",
-    "role": "Senior Marketing Systems Architect",
-    "status": "Possible",
-    "url": "https://jobs.ashbyhq.com/snowflake/bd570db9-73d3-4aa9-a238-307407677cc5"
   },
   {
     "company": "simspace-corporation",
@@ -5809,18 +5401,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-peraton.icims.com/jobs/173057/cyber-systems-engineer%2c-ts-sci-w-poly/job"
   },
   {
-    "company": "careers-peraton",
-    "role": "Expert Level Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/169825/expert-level-systems-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Senior Level Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/169467/senior-level-systems-engineer/job"
-  },
-  {
     "company": "careers-steampunk",
     "role": "Integration Engineering Architect",
     "status": "Possible",
@@ -5965,40 +5545,16 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-qualus.icims.com/jobs/5807/principal-consultant%2c-solutions-architect/job"
   },
   {
-    "company": "careers-peraton",
-    "role": "Senior-Level Systems Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/170586/senior-level-systems-architect/job"
-  },
-  {
     "company": "careers-rovisysbuildingtechnologies",
     "role": "Lead Control Systems Engineer",
     "status": "Awaiting review",
     "url": "https://careers-rovisysbuildingtechnologies.icims.com/jobs/2203/lead-control-systems-engineer/job"
   },
   {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28278/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28277/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
     "company": "careers-peraton",
     "role": "SITEC - Linux Systems Architect - MacDill AFB",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/172819/sitec---linux-systems-architect---macdill-afb/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Okta IAM / Identity Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172802/okta-iam---identity-integration-engineer/job"
   },
   {
     "company": "careers-peraton",
@@ -6044,12 +5600,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "careers-peraton",
-    "role": "Platform/Aircraft Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172684/platform-aircraft-integration-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
     "role": "Air Vehicle Systems Engineer",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/172658/air-vehicle-systems-engineer/job"
@@ -6065,12 +5615,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Cloud Infrastructure Engineer",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/172438/senior-cloud-infrastructure-engineer/job"
-  },
-  {
-    "company": "careers-thesilverlining",
-    "role": "Systems Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-thesilverlining.icims.com/jobs/3960/systems-architect/job"
   },
   {
     "company": "careers-peraton",
@@ -6095,12 +5639,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior TechSIGINT Systems Engineer",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/172563/senior-techsigint-systems-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Expert Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172527/expert-systems-engineer/job"
   },
   {
     "company": "careers-peraton",
@@ -6151,24 +5689,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-peopletec.icims.com/jobs/5413/it-field-system-engineer/job"
   },
   {
-    "company": "careers-peraton",
-    "role": "Senior Level Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172431/senior-level-systems-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Cross-Domain Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172235/cross-domain-integration-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "GEOINT Data & Mission Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172234/geoint-data-%26-mission-integration-engineer/job"
-  },
-  {
     "company": "careers-steampunk",
     "role": "Salesforce Solution Architect",
     "status": "Awaiting review",
@@ -6199,100 +5719,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-peraton.icims.com/jobs/172231/systems-architect%2c-senior-advisor-with-cms-experience/job"
   },
   {
-    "company": "careers-peraton",
-    "role": "Expert Level Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172293/expert-level-systems-engineer/job"
-  },
-  {
     "company": "careers-rovisysbuildingtechnologies",
     "role": "Pharma Controls Systems Engineer/Controls Specialist",
     "status": "Awaiting review",
     "url": "https://careers-rovisysbuildingtechnologies.icims.com/jobs/2190/pharma-controls-systems-engineer-controls-specialist/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Systems Engineer, Architect, and Requirements Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172108/systems-engineer%2c-architect%2c-and-requirements-engineer/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27914/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27913/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Senior Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27912/senior-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27911/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27910/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27909/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27908/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Senior Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27907/senior-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27906/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27905/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Senior Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27904/senior-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27903/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Senior Power Systems Engineer 2",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27885/senior-power-systems-engineer-2/job"
   },
   {
     "company": "careers-peraton",
@@ -6305,18 +5735,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Technical Account Manager, Life Sciences",
     "status": "Awaiting review",
     "url": "https://careers-sas.icims.com/jobs/42956/senior-technical-account-manager%2c-life-sciences/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Power Systems Engineering Consultant 2",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27833/power-systems-engineering-consultant-2/job"
-  },
-  {
-    "company": "careers-sargentlundy",
-    "role": "Lead Power Systems Engineer 2",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/27832/lead-power-systems-engineer-2/job"
   },
   {
     "company": "careers-mrocorp",
@@ -6343,24 +5761,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-peopletec.icims.com/jobs/5378/senior-systems-engineer/job"
   },
   {
-    "company": "careers-qualus",
-    "role": "Power Systems Engineer I - Arc Flash Boot Camp Summer 2027",
-    "status": "Awaiting review",
-    "url": "https://careers-qualus.icims.com/jobs/5681/power-systems-engineer-i---arc-flash-boot-camp-summer-2027/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Senior Level Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/171274/senior-level-systems-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Senior Level Systems Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/170257/senior-level-systems-architect/job"
-  },
-  {
     "company": "careers-peraton",
     "role": "Systems Engineer TS/SCI w/Poly",
     "status": "Awaiting review",
@@ -6379,40 +5779,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-peopletec.icims.com/jobs/5373/vpg-systems-engineer/job"
   },
   {
-    "company": "careers-rovisysbuildingtechnologies",
-    "role": "Lead Controls Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-rovisysbuildingtechnologies.icims.com/jobs/2175/lead-controls-systems-engineer/job"
-  },
-  {
     "company": "careers-peraton",
     "role": "Surveillance Systems Engineering, Advisor",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/165746/surveillance-systems-engineering%2c-advisor/job"
-  },
-  {
-    "company": "careers-qualus",
-    "role": "Power Systems Engineer I - Arc Flash Boot Camp Summer 2027",
-    "status": "Awaiting review",
-    "url": "https://careers-qualus.icims.com/jobs/5678/power-systems-engineer-i---arc-flash-boot-camp-summer-2027/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Senior Tech Lead - Cyber Systems Engineering",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/171423/senior-tech-lead---cyber-systems-engineering/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Senior Infrastructure Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/171422/senior-infrastructure-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Linux Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/171415/linux-systems-engineer/job"
   },
   {
     "company": "careers-rovisys",
@@ -6428,21 +5798,9 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "careers-peraton",
-    "role": "Senior Level GEOINT Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/171445/senior-level-geoint-systems-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
     "role": "Enterprise Architect",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/171408/enterprise-architect/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Senior Cyber Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/170098/senior-cyber-systems-engineer/job"
   },
   {
     "company": "careers-peraton",
@@ -6455,12 +5813,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Building Automation Systems Engineer",
     "status": "Awaiting review",
     "url": "https://careers-tatitlek.icims.com/jobs/2787/building-automation-systems-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/171332/systems-engineer/job"
   },
   {
     "company": "careers-peraton",
@@ -6529,12 +5881,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-peraton.icims.com/jobs/167269/data-center-infrastructure-engineer/job"
   },
   {
-    "company": "careers-qualus",
-    "role": "Power Systems Engineer I - Arc Flash Boot Camp Summer 2027",
-    "status": "Awaiting review",
-    "url": "https://careers-qualus.icims.com/jobs/5644/power-systems-engineer-i---arc-flash-boot-camp-summer-2027/job"
-  },
-  {
     "company": "careers-ruralking",
     "role": "Senior Systems Engineer",
     "status": "Awaiting review",
@@ -6587,12 +5933,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Associate Systems Engineer",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/170493/associate-systems-engineer/job"
-  },
-  {
-    "company": "careers-nyit",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-nyit.icims.com/jobs/4296/systems-engineer/job"
   },
   {
     "company": "careers-peraton",
@@ -7411,12 +6751,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-carollo.icims.com/jobs/4641/senior-infrastructure-engineer-project-manager/job"
   },
   {
-    "company": "ceisvcareers-mastec",
-    "role": "Sr Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://ceisvcareers-mastec.icims.com/jobs/62870/sr-systems-engineer/job"
-  },
-  {
     "company": "carollo",
     "role": "Lead Infrastructure Engineer - Civil / Environmental",
     "status": "Awaiting review",
@@ -7427,18 +6761,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Solutions Architect – D365 F&O",
     "status": "Awaiting review",
     "url": "https://careers-wd40company.icims.com/jobs/1806/solutions-architect-%e2%80%93-d365-f%26o/job"
-  },
-  {
-    "company": "corporatejobs-alaskaair",
-    "role": "Senior Principal Mobile Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://corporatejobs-alaskaair.icims.com/jobs/19121/senior-principal-mobile-solutions-architect/job"
-  },
-  {
-    "company": "careers-urbanscience",
-    "role": "Implementation Engineer",
-    "status": "Possible",
-    "url": "https://careers-urbanscience.icims.com/jobs/5227/implementation-engineer/job"
   },
   {
     "company": "centralhealth",
@@ -9355,12 +8677,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3629/linux-systems-engineer/job"
   },
   {
-    "company": "daifuku-america",
-    "role": "System Integration Engineer III (Automated Vehicle Engineering)",
-    "status": "Awaiting review",
-    "url": "https://careers-daifuku-america.icims.com/jobs/21881/apus-system-integration-engineer-iii-%28automated-vehicle-engineering%29/job"
-  },
-  {
     "company": "external-minco",
     "role": "Design Engineer - Thermal Solutions Engineering",
     "status": "Awaiting review",
@@ -9443,12 +8759,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Business Systems Engineer",
     "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/oura/jobs/4455258009"
-  },
-  {
-    "company": "neuraflash",
-    "role": "Marketing Cloud Next Solution Architect",
-    "status": "Possible",
-    "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6224045004"
   },
   {
     "company": "oscar",
@@ -9949,12 +9259,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/Towson-MD-United-States/Senior-PLM-Solutions-Engineer_REQ-1000052983"
   },
   {
-    "company": "salesforce",
-    "role": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
-    "status": "Possible",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Illinois---Chicago/Migration-Delivery-Lead_JR346360"
-  },
-  {
     "company": "sabre",
     "role": "Systems Integration Engineer II",
     "status": "Evaluated",
@@ -10051,12 +9355,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/1530-FM-973-Taylor-TX-USA/Manufacturing-System-Integration-Engineer_R121458"
   },
   {
-    "company": "salesforce",
-    "role": "Director, Marketing Cloud Architecture",
-    "status": "Possible",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Indiana---Indianapolis/Director--Marketing-Cloud-Architect_JR364648"
-  },
-  {
     "company": "thomsonreuters",
     "role": "End to End Associate Solutions Architect",
     "status": "Possible",
@@ -10124,12 +9422,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "sec",
-    "role": "Process Integration Engineering (PIE) Engineer",
-    "status": "Possible",
-    "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-Process-Integration-Engineering--PIE--Engineer_R120465"
-  },
-  {
-    "company": "sec",
     "role": "Process Integration Engineer",
     "status": "Evaluated",
     "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/Process-Integration-Engineer_R121267"
@@ -10169,18 +9461,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Manager, Solutions Architecture | East Coast | Remote",
     "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6250878004"
-  },
-  {
-    "company": "gdms",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/78483/systems-engineer/job"
-  },
-  {
-    "company": "gdms",
-    "role": "Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/77470/advanced-systems-engineer/job"
   },
   {
     "company": "gdms",
@@ -10226,12 +9506,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "jobs-bylight",
-    "role": "Integration Engineer",
-    "status": "Awaiting review",
-    "url": "https://jobs-bylight.icims.com/jobs/11802/integration-engineer/job"
-  },
-  {
-    "company": "jobs-bylight",
     "role": "Systems Engineer, Jmn",
     "status": "Awaiting review",
     "url": "https://jobs-bylight.icims.com/jobs/11585/systems-engineer%2c-jmn/job"
@@ -10265,12 +9539,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Enterprise Architect",
     "status": "Awaiting review",
     "url": "https://jobs-bylight.icims.com/jobs/11400/enterprise-architect/job"
-  },
-  {
-    "company": "jobs-bylight",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://jobs-bylight.icims.com/jobs/11227/systems-engineer/job"
   },
   {
     "company": "futurecareers-peopletec",
@@ -10825,18 +10093,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://jobs-nffinc.icims.com/jobs/3494/enterprise-architect/job"
   },
   {
-    "company": "nonacademiccareers-udst",
-    "role": "Lead Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://nonacademiccareers-udst.icims.com/jobs/4826/00001889---lead-systems-engineer/job"
-  },
-  {
-    "company": "nonacademiccareers-udst",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://nonacademiccareers-udst.icims.com/jobs/4819/00001025---systems-engineer/job"
-  },
-  {
     "company": "jobs-sierralobo",
     "role": "Rocket Propulsion Systems Engineer",
     "status": "Awaiting review",
@@ -10871,12 +10127,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Cloud Infrastructure Engineer",
     "status": "Awaiting review",
     "url": "https://main-princeton.icims.com/jobs/22205/cloud-infrastructure-engineer/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Lead AI Solution Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173397/lead-ai-solution-architect/job"
   },
   {
     "company": "peraton",
@@ -11347,42 +10597,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-sargentlundy.icims.com/jobs/28715/automation-%26-control-systems-engineering-consultant-2---mission-critical/job"
   },
   {
-    "company": "sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28705/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28704/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 2 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28703/lead-automation-%26-control-systems-engineer-2---mission-critical/job"
-  },
-  {
-    "company": "sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28702/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
-    "company": "sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28701/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
-    "company": "sargentlundy",
-    "role": "Lead Automation & Control Systems Engineer 1 - Mission Critical",
-    "status": "Awaiting review",
-    "url": "https://careers-sargentlundy.icims.com/jobs/28700/lead-automation-%26-control-systems-engineer-1---mission-critical/job"
-  },
-  {
     "company": "sas",
     "role": "Senior Forward Deployed Solutions Architect, Large Pharma",
     "status": "Awaiting review",
@@ -11414,39 +10628,15 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "peraton",
-    "role": "Senior Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173004/senior-systems-engineer/job"
-  },
-  {
-    "company": "peraton",
     "role": "Senior Systems Integration Engineer (Active TS/SCI/Poly)",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/172988/senior-systems-integration-engineer--%28active-ts-sci-poly%29/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Systems Engineer - DoD AI Program",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/172908/systems-engineer---dod-ai-program/job"
-  },
-  {
-    "company": "riverbed",
-    "role": "Solutions Engineer, Federal (U.S. Navy)",
-    "status": "Awaiting review",
-    "url": "https://careers-riverbed.icims.com/jobs/8075/solutions-engineer%2c-federal-%28u.s.-navy%29/job"
   },
   {
     "company": "rdi",
     "role": "Infrastructure Engineer",
     "status": "Awaiting review",
     "url": "https://careers-rdi.icims.com/jobs/8538/infrastructure-engineer/job"
-  },
-  {
-    "company": "riverbed",
-    "role": "Solutions Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-riverbed.icims.com/jobs/8064/solutions-engineer/job"
   },
   {
     "company": "quvia",
@@ -11663,18 +10853,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Technical Program Manager/Sr. Technical Program Manager",
     "status": "Awaiting review",
     "url": "https://uscareers-fujifilm.icims.com/jobs/38962/technical-program-manager-sr.-technical-program-manager/job"
-  },
-  {
-    "company": "uscareers-waters",
-    "role": "Principal AI Solutions Engineer",
-    "status": "Awaiting review",
-    "url": "https://uscareers-waters.icims.com/jobs/25817/2026-25817/job"
-  },
-  {
-    "company": "uscareers-fujifilm",
-    "role": "Systems Engineer II",
-    "status": "Awaiting review",
-    "url": "https://uscareers-fujifilm.icims.com/jobs/38905/systems-engineer-ii/job"
   },
   {
     "company": "uscareers-waters",
@@ -12493,18 +11671,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-emcorgroup.icims.com/jobs/54548/systems-engineer%2c-building-management-systems-%28bms%29/job"
   },
   {
-    "company": "arctiq",
-    "role": "Senior Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://arctiq.bamboohr.com/careers/360"
-  },
-  {
-    "company": "avahi",
-    "role": "AWS Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://avahi.bamboohr.com/careers/153"
-  },
-  {
     "company": "hubspotjobs",
     "role": "Lead Solutions Engineer",
     "status": "Evaluated",
@@ -12878,84 +12044,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "careers-gdms",
-    "role": "Space Force Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/75258/space-force-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Space Force - Enterprise Services System Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/79357/space-force---enterprise-services-system-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Space Force - Enterprise Services System Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/79391/space-force---enterprise-services-system-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80419/advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80420/senior-advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Senior Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80421/senior-advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80415/systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80416/advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80417/advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80418/advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Infrastructure Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80087/advanced-infrastructure-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80092/advanced-systems-engineer/job"
-  },
-  {
-    "company": "careers-gdms",
-    "role": "Systems Engineer - Design & Development",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80283/systems-engineer---design-%26-development/job"
-  },
-  {
-    "company": "careers-gdms",
     "role": "Senior Principal Software Systems Engineer",
     "status": "Awaiting review",
     "url": "https://careers-gdms.icims.com/jobs/80184/senior-principal-software-systems-engineer/job"
@@ -13037,12 +12125,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Network Solutions Architect (Remote)",
     "status": "Evaluated",
     "url": "https://boards.greenhouse.io/myriad360/jobs/8931278002?gh_jid=8931278002"
-  },
-  {
-    "company": "neo4j",
-    "role": "Senior Solutions Engineer",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/neo4j/jobs/4727652006?gh_jid=4727652006"
   },
   {
     "company": "morganfranklinconsultingllc",
@@ -13327,12 +12409,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/USA-Saint-Louis-MO-Customer-Site/Systems-Engineer---FSR_REQ_49791"
   },
   {
-    "company": "dxctechnology",
-    "role": "Cloud Solutions Architect",
-    "status": "Evaluated",
-    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---FL---ANY-CITY/Cloud-Solutions-Architect_51592645-1"
-  },
-  {
     "company": "cisco",
     "role": "Staff Solutions Engineer - FDSE - Splunk (Remote)",
     "status": "Evaluated",
@@ -13453,12 +12529,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Salesforce-Consultant-and-Solution-Architect_R-52482"
   },
   {
-    "company": "cengage",
-    "role": "Technical Program Manager - Marketing (Remote) US",
-    "status": "Possible",
-    "url": "https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Ohio-USA/Technical-Program-Manager---Marketing--Remote--US_R2026-1288"
-  },
-  {
     "company": "crowe",
     "role": "Lead Salesforce Consultant and Solution Architect",
     "status": "Evaluated",
@@ -13490,12 +12560,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "careers-peraton",
-    "role": "Senior Level Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173625/senior-level-systems-engineer/job"
-  },
-  {
-    "company": "careers-peraton",
     "role": "SITEC - Systems Engineer - Camp H.M. Smith, HI",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/173618/sitec---systems-engineer---camp-h.m.-smith%2c-hi/job"
@@ -13519,28 +12583,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://careers-peraton.icims.com/jobs/173252/technical-integration-project-manager---bnatcs-architecture-%26-systems-engineering-%28base%29/job"
   },
   {
-    "company": "careers-rovisysbuildingtechnologies",
-    "role": "Lead Control Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-rovisysbuildingtechnologies.icims.com/jobs/2244/lead-control-systems-engineer/job"
-  },
-  {
     "company": "careers-peraton",
     "role": "Terrestrial SIGINT Systems Engineer",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/173562/terrestrial-sigint-systems-engineer/job"
-  },
-  {
-    "company": "careers-qualus",
-    "role": "Power Systems Engineer I - Arc Flash Boot Camp Winter 2027",
-    "status": "Awaiting review",
-    "url": "https://careers-qualus.icims.com/jobs/5884/power-systems-engineer-i---arc-flash-boot-camp-winter-2027/job"
-  },
-  {
-    "company": "careers-qualus",
-    "role": "Power Systems Engineer I - Arc Flash Boot Camp Winter 2027",
-    "status": "Awaiting review",
-    "url": "https://careers-qualus.icims.com/jobs/5882/power-systems-engineer-i---arc-flash-boot-camp-winter-2027/job"
   },
   {
     "company": "careers-peraton",
@@ -13727,12 +12773,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Solutions Architect",
     "status": "Awaiting review",
     "url": "https://corporatecareers-aus.icims.com/jobs/1744767/solutions-architect/job"
-  },
-  {
-    "company": "fitsolutions",
-    "role": "Technical Account Manager",
-    "status": "Awaiting review",
-    "url": "https://fitsolutions.bamboohr.com/careers/470"
   },
   {
     "company": "relativity",
@@ -14095,40 +13135,10 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Lead-Enterprise-Architect---Enterprise-Architecture-Activation_R-430493"
   },
   {
-    "company": "gdms",
-    "role": "Safety/Surety Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/81373/safety-surety-systems-engineer/job"
-  },
-  {
     "company": "gdeb",
     "role": "Systems Engineer I & II - Quality Engineering",
     "status": "Awaiting review",
     "url": "https://careers-gdeb.icims.com/jobs/19391/systems-engineer-i-%26-ii---quality-engineering/job"
-  },
-  {
-    "company": "gdms",
-    "role": "Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/79690/systems-engineer/job"
-  },
-  {
-    "company": "gdms",
-    "role": "Senior Advanced Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/79689/senior-advanced-systems-engineer/job"
-  },
-  {
-    "company": "gdms",
-    "role": "Systems Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/81208/systems-architect/job"
-  },
-  {
-    "company": "gdms",
-    "role": "Systems Engineer – Technology Refresh & Modernization",
-    "status": "Awaiting review",
-    "url": "https://careers-gdms.icims.com/jobs/80844/systems-engineer-%e2%80%93-technology-refresh-%26-modernization/job"
   },
   {
     "company": "tenet3",
@@ -14657,12 +13667,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Principal / Senior Principal Systems Engineer",
     "status": "Evaluated",
     "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Woodland-Hills/Principal---Senior-Principal-Systems-Engineer_R10259977"
-  },
-  {
-    "company": "ngc",
-    "role": "Principal Subsystems Engineer",
-    "status": "Possible",
-    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/Principal-Subsystems-Engineer_R10259180"
   },
   {
     "company": "ngc",
@@ -15289,12 +14293,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Enterprise-Architect_JR4027"
   },
   {
-    "company": "sec",
-    "role": "Experienced Engineer, Process Integration Engineering (PIE)",
-    "status": "Possible",
-    "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Engineer--Process-Integration-Engineering--PIE-_R121796"
-  },
-  {
     "company": "rockwellautomation",
     "role": "Solution Architect - Common Data Model/Layer",
     "status": "Evaluated",
@@ -15365,12 +14363,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Senior Systems Engineer",
     "status": "Awaiting review",
     "url": "https://jobs-sierralobo.icims.com/jobs/3539/senior-systems-engineer/job"
-  },
-  {
-    "company": "metaltoad",
-    "role": "Solutions Architect [Talents Bench]",
-    "status": "Awaiting review",
-    "url": "https://metaltoad.bamboohr.com/careers/608"
   },
   {
     "company": "armada",
@@ -15589,12 +14581,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Data-Scientist--Applied-AI-and-Agentic-Solutions-Engineer_R-9933"
   },
   {
-    "company": "transunion",
-    "role": "Technical Account Manager - Marketing Solutions",
-    "status": "Possible",
-    "url": "https://transunion.wd5.myworkdayjobs.com/transunion/job/Chicago-Illinois/Technical-Account-Manager---Marketing-Solutions_19043054"
-  },
-  {
     "company": "vizient",
     "role": "Solutions Architect",
     "status": "Evaluated",
@@ -15668,12 +14654,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "peraton",
-    "role": "Senior Systems Engineer - Enterprise Architecture & Integration",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/174870/senior-systems-engineer---enterprise-architecture-%26-integration/job"
-  },
-  {
-    "company": "peraton",
     "role": "Mid-level Linux Systems Engineer / Active Top Secret with SCI and Poly eligibilty",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/174342/mid-level-linux-systems-engineer---active-top-secret-with-sci-and-poly-eligibilty/job"
@@ -15698,18 +14678,6 @@ window.JOB_RADAR_PIPELINE = [
   },
   {
     "company": "peraton",
-    "role": "Expert Level GEOINT Systems Engineer",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173572/expert-level-geoint-systems-engineer/job"
-  },
-  {
-    "company": "peraton",
-    "role": "Applications Systems Architect",
-    "status": "Awaiting review",
-    "url": "https://careers-peraton.icims.com/jobs/173626/applications-systems-architect/job"
-  },
-  {
-    "company": "peraton",
     "role": "Senior Applications Systems Architect",
     "status": "Awaiting review",
     "url": "https://careers-peraton.icims.com/jobs/173615/senior-applications-systems-architect/job"
@@ -15725,42 +14693,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Distinguished Data & Integration Architect",
     "status": "Awaiting review",
     "url": "https://careers-powerschool.icims.com/jobs/52676/principal-data-engineer---ic6-%28dateng---data-engineering%29/job"
-  },
-  {
-    "company": "openapproach",
-    "role": "Senior Systems Engineer (L5) Remote - Maryland",
-    "status": "Awaiting review",
-    "url": "https://openapproach.bamboohr.com/careers/99"
-  },
-  {
-    "company": "openapproach",
-    "role": "Senior Systems Engineer (L5) Remote - New Jersey",
-    "status": "Awaiting review",
-    "url": "https://openapproach.bamboohr.com/careers/100"
-  },
-  {
-    "company": "openapproach",
-    "role": "Senior Systems Engineer (L5) Remote - Pennsylvania",
-    "status": "Awaiting review",
-    "url": "https://openapproach.bamboohr.com/careers/101"
-  },
-  {
-    "company": "openapproach",
-    "role": "Senior Systems Engineer (L5) Remote - Massachusettes",
-    "status": "Awaiting review",
-    "url": "https://openapproach.bamboohr.com/careers/102"
-  },
-  {
-    "company": "openapproach",
-    "role": "Senior Systems Engineer (L5) Remote - New Hampshire",
-    "status": "Awaiting review",
-    "url": "https://openapproach.bamboohr.com/careers/103"
-  },
-  {
-    "company": "oscglobal",
-    "role": "Solutions Architect - ServiceNow",
-    "status": "Awaiting review",
-    "url": "https://oscglobal.bamboohr.com/careers/402"
   },
   {
     "company": "chaosindustries",
