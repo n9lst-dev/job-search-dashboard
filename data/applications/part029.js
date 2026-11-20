@@ -629,12 +629,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Eve",
     "role": "Solutions Engineer",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-09",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-20",
+    "stage": "Application-stage rejection",
     "source": "LinkedIn + employer",
-    "notes": "Backfilled from three-month email audit Nov 19, 2026. Submission confirmed by LinkedIn + employer; No rejection identified in matched evidence. ",
+    "notes": "Backfilled from three-month email audit Nov 19, 2026. Submission confirmed by LinkedIn + employer; LinkedIn employer rejection notice received Nov 20, 2026 for Solutions Engineer, originally applied Nov 9. No specific rejection reason supplied. ",
     "jobUrl": "https://www.linkedin.com/jobs/view/4397573867/"
   },
   {
