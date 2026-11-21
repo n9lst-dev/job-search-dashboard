@@ -64,5 +64,16 @@ window.APPLICATIONS.push(...[
     "source": "Employer confirmation",
     "notes": "Application receipt confirmed November 21, 2026 Eastern. Unidentified role left unspecified.",
     "jobUrl": ""
-  }
+  },
+  {
+  "company": "Insider One",
+  "role": "Solutions Consultant - United States",
+  "status": "Rejected",
+  "appliedDate": "",
+  "rejectedDate": "2026-11-20",
+  "stage": "Application-stage rejection",
+  "source": "Employer rejection notification",
+  "notes": "Employer rejection dated November 20, 2026 explicitly identifies Solutions Consultant - United States. Submission date not established. Separate from the September 9 Solutions Engineer application; that record remains unchanged. Employer says it is proceeding with candidates whose skills and experience align more closely with this position.",
+  "jobUrl": ""
+}
 ]);
