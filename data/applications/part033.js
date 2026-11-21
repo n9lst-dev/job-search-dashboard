@@ -84,7 +84,7 @@ window.APPLICATIONS.push(...[
   "rejectedDate": "",
   "stage": "Application submitted",
   "source": "Employer confirmation",
-  "notes": "Employer confirmed receipt November 21, 2026 Eastern. User independently reports two Hypori applications on November 21; second position not identified in available confirmation, so this record represents only the Commercial TAM submission.",
+  "notes": "Employer confirmed receipt November 21, 2026 Eastern. User clarified that only one Hypori application was submitted on November 21, for Technical Account Manager, Commercial.",
   "jobUrl": ""
 }
 ]);
