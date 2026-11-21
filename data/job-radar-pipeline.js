@@ -6115,12 +6115,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://job-boards.greenhouse.io/hypori/jobs/6238934004"
   },
   {
-    "company": "hypori",
-    "role": "Technical Account Manager, Commercial",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/hypori/jobs/6238922004"
-  },
-  {
     "company": "grvty",
     "role": "Senior SIGINT Systems Engineer",
     "status": "Evaluated",
@@ -12665,12 +12659,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Sales Operations Analyst/System Engineering (Chicago)",
     "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/purestorage/jobs/8375787"
-  },
-  {
-    "company": "purestorage",
-    "role": "Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8367190"
   },
   {
     "company": "purestorage",
