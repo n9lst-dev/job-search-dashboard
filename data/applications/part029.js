@@ -604,7 +604,7 @@ window.APPLICATIONS.push(...[
     "notes": "Backfilled from three-month email audit Nov 19, 2026. Submission confirmed by LinkedIn + employer; Finalsite employer notice Nov 19, 2026 confirmed hiring completed for Solution Engineer and application will not proceed. Classified as position closed, not candidate-specific rejection.  LinkedIn rejection notice dated Nov 22, 2026 explicitly states Finalsite will not move forward with the Nov 9 Solution Engineer application. Prior Nov 19 position-filled notice and closedDate preserved.",
     "jobUrl": "https://www.linkedin.com/jobs/view/4487540543/",
     "closedDate": "2026-11-19"
-  }
+  },
   {
     "company": "Cassidy",
     "role": "Solutions Architect",
