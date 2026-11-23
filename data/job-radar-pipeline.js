@@ -6115,6 +6115,12 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://job-boards.greenhouse.io/hypori/jobs/6238934004"
   },
   {
+    "company": "hypori",
+    "role": "Technical Account Manager, Commercial",
+    "status": "Evaluated",
+    "url": "https://job-boards.greenhouse.io/hypori/jobs/6238922004"
+  },
+  {
     "company": "grvty",
     "role": "Senior SIGINT Systems Engineer",
     "status": "Evaluated",
@@ -13199,12 +13205,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Staff System Integration Engineer, Grid Interface",
     "status": "Evaluated",
     "url": "https://jobs.ashbyhq.com/heron-power/2c208bd9-3da3-4d5f-bded-57162b521ba6"
-  },
-  {
-    "company": "human",
-    "role": "Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/HUMAN/550eaba6-a469-4577-868f-2ff19eed9bb3"
   },
   {
     "company": "limbic",
