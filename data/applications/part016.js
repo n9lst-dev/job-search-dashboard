@@ -434,12 +434,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Holmbergs Safety System",
     "role": "Technical Sales Engineer",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-24",
+    "stage": "Application-stage rejection",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote).",
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: United States (Remote). LinkedIn employer rejection received November 24, 2026.",
     "jobUrl": ""
   },
   {
