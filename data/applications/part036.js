@@ -89,13 +89,13 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "Bitmovin",
-    "role": "Role not specified in confirmation",
+    "role": "Product Solutions Engineer – Observability",
     "status": "Applied",
     "appliedDate": "2026-11-24",
     "rejectedDate": "",
     "stage": "Application submitted",
     "source": "Employer confirmation",
-    "notes": "Employer confirmed submission; exact role not specified in receipt.",
+    "notes": "Bitmovin employer application confirmation received November 24, 2026. Exact position title provided by candidate: Product Solutions Engineer – Observability. No outcome reported; resume version not confirmed.",
     "jobUrl": ""
   }
 ]);
