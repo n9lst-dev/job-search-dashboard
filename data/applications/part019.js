@@ -13,12 +13,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Saragossa",
     "role": "Forward Deployed Engineer - Software",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-16",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-24",
+    "stage": "Application-stage rejection",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed Nov 16 submission for this posting; separate attempt from Nov 11 application for similar title. New listing mentions salary plus bonus.",
+    "notes": "LinkedIn confirmed Nov 16 submission for this posting; separate attempt from Nov 11 application for similar title. New listing mentions salary plus bonus. LinkedIn employer rejection received November 24, 2026.",
     "jobUrl": "https://www.linkedin.com/jobs/view/4486264262/"
   },
   {
