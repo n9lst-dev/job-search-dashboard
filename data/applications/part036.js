@@ -75,5 +75,27 @@ window.APPLICATIONS.push(...[
     "source": "LinkedIn",
     "notes": "Candidate-provided LinkedIn screenshot Nov 24, 2026 confirms 'Application submitted' for Senior Solutions Engineer, United States (Remote). LinkedIn shows posting approximately one hour old at capture. Separate submission from tracked Nov 11 application for same role; posting ID not visible, potential reposting or reapplication to review. Do not collapse without confirmation. Resume version not confirmed.",
     "jobUrl": ""
+  },
+  {
+    "company": "EXFO",
+    "role": "Customer Success Manager",
+    "status": "Applied",
+    "appliedDate": "2026-11-23",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "Employer confirmation",
+    "notes": "Employer Workday receipt received November 23 Eastern time.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Bitmovin",
+    "role": "Role not specified in confirmation",
+    "status": "Applied",
+    "appliedDate": "2026-11-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "Employer confirmation",
+    "notes": "Employer confirmed submission; exact role not specified in receipt.",
+    "jobUrl": ""
   }
 ]);
