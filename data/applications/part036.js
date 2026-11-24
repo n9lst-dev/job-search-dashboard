@@ -64,5 +64,16 @@ window.APPLICATIONS.push(...[
     "source": "User-provided HiringCafe tracker",
     "notes": "User-provided HiringCafe export marks this posting Applied. Date reflects tracker Updated field, not independently verified submission date. ",
     "jobUrl": "https://hiringcafe.com/job/3krad5lct53e6c9i"
+  },
+  {
+    "company": "1Kosmos",
+    "role": "Senior Solutions Engineer",
+    "status": "Applied",
+    "appliedDate": "2026-11-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "LinkedIn",
+    "notes": "Candidate-provided LinkedIn screenshot Nov 24, 2026 confirms 'Application submitted' for Senior Solutions Engineer, United States (Remote). LinkedIn shows posting approximately one hour old at capture. Separate submission from tracked Nov 11 application for same role; posting ID not visible, potential reposting or reapplication to review. Do not collapse without confirmation. Resume version not confirmed.",
+    "jobUrl": ""
   }
 ]);
