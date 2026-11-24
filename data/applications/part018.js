@@ -2,12 +2,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Reuters Imagen (Thomson Reuters)",
     "role": "Senior Solutions Architect",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-14",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-23",
+    "stage": "Application-stage rejection",
     "source": "Company careers",
-    "notes": "Application submitted November 14, 2026. Requisition JREQ203611; confirmed by applicant.",
+    "notes": "Application submitted November 14, 2026. Requisition JREQ203611; confirmed by applicant. Employer confirmed non-selection for requisition JREQ203611 on November 23, 2026.",
     "jobUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Solutions-Architect---Reuters-Imagen_JREQ203611"
   },
   {
