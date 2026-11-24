@@ -456,12 +456,12 @@ window.APPLICATIONS.push(...[
   {
     "company": "Eon.io",
     "role": "Technical Customer Success",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-11",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-23",
+    "stage": "Application-stage rejection",
     "source": "LinkedIn",
-    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: New York, NY (Remote).",
+    "notes": "LinkedIn confirmed application sent November 11, 2026. Listed location: New York, NY (Remote). LinkedIn rejection notification received November 23, 2026.",
     "jobUrl": ""
   },
   {
