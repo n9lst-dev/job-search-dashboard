@@ -101,23 +101,23 @@ window.APPLICATIONS.push(...[
   {
     "company": "Vantage",
     "role": "Senior Customer Success Manager",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-22",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-25",
+    "stage": "Application-stage rejection",
     "source": "Employer confirmation; HiringCafe tracker",
-    "notes": "Employer acknowledgment confirms application receipt. Exact role unspecified where not named in the message; no requisition ID verified. HiringCafe tracker export dated Nov 22, 2026 identifies exact posting and role; export Updated field is not independently verified as submission date.",
+    "notes": "Employer acknowledgment confirms application receipt. Exact role unspecified where not named in the message; no requisition ID verified. HiringCafe tracker export dated Nov 22, 2026 identifies exact posting and role; export Updated field is not independently verified as submission date. Employer declined application November 25, 2026.",
     "jobUrl": "https://hiringcafe.com/job/kurr1rdqkothne8e"
   },
   {
     "company": "Hiver",
     "role": "Senior Customer Success Manager (US)",
-    "status": "Applied",
+    "status": "Rejected",
     "appliedDate": "2026-11-22",
-    "rejectedDate": "",
-    "stage": "Application submitted",
+    "rejectedDate": "2026-11-25",
+    "stage": "Application-stage rejection",
     "source": "Employer confirmation; HiringCafe tracker",
-    "notes": "Employer acknowledgment confirms application receipt. Exact role unspecified where not named in the message; no requisition ID verified. HiringCafe tracker export dated Nov 22, 2026 identifies exact posting and role; export Updated field is not independently verified as submission date.",
+    "notes": "Employer acknowledgment confirms application receipt. Exact role unspecified where not named in the message; no requisition ID verified. HiringCafe tracker export dated Nov 22, 2026 identifies exact posting and role; export Updated field is not independently verified as submission date. Employer declined application November 25, 2026.",
     "jobUrl": "https://hiringcafe.com/job/bj4mta6fy7y352o6"
   }
 ]);
