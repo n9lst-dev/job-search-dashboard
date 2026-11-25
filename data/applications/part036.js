@@ -122,13 +122,13 @@ window.APPLICATIONS.push(...[
   },
   {
     "company": "Rithum",
-    "role": "Role not specified in confirmation",
+    "role": "Senior Technical Account Manager",
     "status": "Applied",
     "appliedDate": "2026-11-25",
     "rejectedDate": "",
     "stage": "Application submitted",
     "source": "Employer confirmation",
-    "notes": "Employer confirmed receipt; exact role not stated.",
+    "notes": "Employer confirmed receipt; exact role confirmed by applicant.",
     "jobUrl": ""
   }
 ]);
