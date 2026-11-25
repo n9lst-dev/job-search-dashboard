@@ -97,5 +97,38 @@ window.APPLICATIONS.push(...[
     "source": "Employer confirmation",
     "notes": "Bitmovin employer application confirmation received November 24, 2026. Exact position title provided by candidate: Product Solutions Engineer – Observability. No outcome reported; resume version not confirmed.",
     "jobUrl": ""
+  },
+  {
+    "company": "Anthropic",
+    "role": "Technical Architect",
+    "status": "Applied",
+    "appliedDate": "2026-11-25",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "Employer confirmation",
+    "notes": "Employer confirmed application receipt.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Oracle",
+    "role": "Oracle Cloud Infrastructure, Cloud Architect",
+    "status": "Applied",
+    "appliedDate": "2026-11-24",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "Employer confirmation",
+    "notes": "Employer confirmed submission for requisition 339105.",
+    "jobUrl": ""
+  },
+  {
+    "company": "Rithum",
+    "role": "Role not specified in confirmation",
+    "status": "Applied",
+    "appliedDate": "2026-11-25",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "Employer confirmation",
+    "notes": "Employer confirmed receipt; exact role not stated.",
+    "jobUrl": ""
   }
 ]);
