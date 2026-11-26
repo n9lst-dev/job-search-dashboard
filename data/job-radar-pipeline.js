@@ -12781,12 +12781,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://job-boards.greenhouse.io/rithumliboard/jobs/8374279"
   },
   {
-    "company": "rithum",
-    "role": "Senior Technical Account Manager",
-    "status": "Evaluated",
-    "url": "https://job-boards.greenhouse.io/rithum/jobs/8354576"
-  },
-  {
     "company": "sentinellabs",
     "role": "Key Solutions Architect, Prompt",
     "status": "Evaluated",
