@@ -163,5 +163,16 @@ window.APPLICATIONS.push(...[
     "source": "Employer confirmation",
     "notes": "Employer confirmed application received November 27.",
     "jobUrl": ""
+  },
+  {
+    "company": "RED SKY Consulting",
+    "role": "Solutions Architect",
+    "status": "Applied",
+    "appliedDate": "2026-11-19",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "LinkedIn confirmation",
+    "notes": "LinkedIn confirmed submission November 19; recovered during overlapping email audit.",
+    "jobUrl": ""
   }
 ]);
