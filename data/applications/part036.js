@@ -130,5 +130,27 @@ window.APPLICATIONS.push(...[
     "source": "Employer confirmation",
     "notes": "Employer confirmed receipt; exact role confirmed by applicant.",
     "jobUrl": ""
+  },
+  {
+    "company": "DigiCert",
+    "role": "Senior Solutions Engineer - Midwest",
+    "status": "Rejected",
+    "appliedDate": "2026-11-25",
+    "rejectedDate": "2026-11-27",
+    "stage": "Application-stage rejection",
+    "source": "LinkedIn and employer confirmation",
+    "notes": "Separate reapplication confirmed by LinkedIn and employer receipts received November 25 Eastern (November 26 UTC). Employer declined November 27, citing closer alignment of other candidates. Preserve previous attempts.",
+    "jobUrl": ""
+  },
+  {
+    "company": "ClickUp",
+    "role": "Senior Technical Account Manager (AMER)",
+    "status": "Applied",
+    "appliedDate": "2026-11-26",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "Employer confirmation",
+    "notes": "Employer confirmed application received November 26.",
+    "jobUrl": ""
   }
 ]);
