@@ -152,5 +152,16 @@ window.APPLICATIONS.push(...[
     "source": "Employer confirmation",
     "notes": "Employer confirmed application received November 26.",
     "jobUrl": ""
+  },
+  {
+    "company": "Elastic",
+    "role": "Sr. Solutions Architect - Mid Market West (Presales)",
+    "status": "Applied",
+    "appliedDate": "2026-11-27",
+    "rejectedDate": "",
+    "stage": "Application submitted",
+    "source": "Employer confirmation",
+    "notes": "Employer confirmed application received November 27.",
+    "jobUrl": ""
   }
 ]);
