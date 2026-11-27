@@ -1249,12 +1249,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232483007?gh_jid=5232483007"
   },
   {
-    "company": "andurilindustries",
-    "role": "Senior Systems Engineer (Warfighter Systems)",
-    "status": "Evaluated",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249396007?gh_jid=5249396007"
-  },
-  {
     "company": "altentechnologyusa",
     "role": "Technical Program Manager Interior Systems",
     "status": "Evaluated",
@@ -6409,12 +6403,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://jobs.ashbyhq.com/akur8/8e940954-7a2f-439e-9f55-295bd7026f51"
   },
   {
-    "company": "camunda",
-    "role": "Technical Account Manager - USA",
-    "status": "Evaluated",
-    "url": "https://jobs.ashbyhq.com/camunda/cdc6bcf5-ba9a-48c7-901b-865ecf854c2e"
-  },
-  {
     "company": "anrok",
     "role": "Partner Solutions Engineer",
     "status": "Evaluated",
@@ -8749,12 +8737,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://job-boards.greenhouse.io/okx/jobs/8042376003"
   },
   {
-    "company": "nice",
-    "role": "Senior Partner Success Implementation Engineer",
-    "status": "Possible",
-    "url": "https://boards.eu.greenhouse.io/nice/jobs/5011751101?gh_jid=5011751101"
-  },
-  {
     "company": "oura",
     "role": "Senior Business Systems Engineer",
     "status": "Evaluated",
@@ -9667,12 +9649,6 @@ window.JOB_RADAR_PIPELINE = [
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444"
   },
   {
-    "company": "rapidsos",
-    "role": "Senior Solutions Architect",
-    "status": "Awaiting review",
-    "url": "https://job-boards.greenhouse.io/rapidsos/jobs/5275658007"
-  },
-  {
     "company": "redwoodmaterials",
     "role": "Battery Software & Controls Integration Engineer, Energy Storage",
     "status": "Evaluated",
@@ -9857,12 +9833,6 @@ window.JOB_RADAR_PIPELINE = [
     "role": "Facilities Infrastructure Engineer - MEP",
     "status": "Evaluated",
     "url": "https://job-boards.greenhouse.io/rangeviewinc/jobs/4430378009"
-  },
-  {
-    "company": "purestorage",
-    "role": "Senior Pre-Sales Systems Engineer, Federal (Air Force)",
-    "status": "Awaiting review",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8246329"
   },
   {
     "company": "sambanovasystems",
